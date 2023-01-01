@@ -1,0 +1,88 @@
+fileFormatVersion: 2
+guid: 7155f4c07afe4b04f9e351383e4c5191
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Camera
+    100002: //RootNode
+    100004: CeptorylisTaxi
+    100006: CeptorylisTaxiWing1
+    100008: CeptorylisTaxiWing2
+    100010: CeptorylisTaxiGlow
+    400000: Camera
+    400002: //RootNode
+    400004: CeptorylisTaxi
+    400006: CeptorylisTaxiWing1
+    400008: CeptorylisTaxiWing2
+    400010: CeptorylisTaxiGlow
+    2300000: CeptorylisTaxi
+    2300002: CeptorylisTaxiWing1
+    2300004: CeptorylisTaxiWing2
+    2300006: CeptorylisTaxiGlow
+    3300000: CeptorylisTaxi
+    3300002: CeptorylisTaxiWing1
+    3300004: CeptorylisTaxiWing2
+    3300006: CeptorylisTaxiGlow
+    4300000: CeptorylisTaxiWing2
+    4300002: CeptorylisTaxiWing1
+    4300004: CeptorylisTaxi
+    4300006: CeptorylisTaxiGlow
+    6400000: CeptorylisTaxi
+    6400002: CeptorylisTaxiWing1
+    6400004: CeptorylisTaxiWing2
+    6400006: CeptorylisTaxiGlow
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 30
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

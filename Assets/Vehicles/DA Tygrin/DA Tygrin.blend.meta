@@ -1,0 +1,104 @@
+fileFormatVersion: 2
+guid: 05ef47fe32166b645b4ca0221f6ea9e7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PiriComparison
+    100004: Vessel
+    100006: DATygrin
+    100008: DaTygrinTurret
+    100010: DATygrinTurretPivot
+    100012: DaTygrinTurretHatch
+    100014: DaWastePellet
+    400000: //RootNode
+    400002: PiriComparison
+    400004: Vessel
+    400006: DATygrin
+    400008: DaTygrinTurret
+    400010: DATygrinTurretPivot
+    400012: DaTygrinTurretHatch
+    400014: DaWastePellet
+    2300000: PiriComparison
+    2300002: Vessel
+    2300004: DATygrin
+    2300006: DaTygrinTurret
+    2300008: DATygrinTurretPivot
+    2300010: DaTygrinTurretHatch
+    2300012: DaWastePellet
+    3300000: PiriComparison
+    3300002: Vessel
+    3300004: DATygrin
+    3300006: DaTygrinTurret
+    3300008: DATygrinTurretPivot
+    3300010: DaTygrinTurretHatch
+    3300012: DaWastePellet
+    4300000: Vessel
+    4300002: PiriComparison
+    4300004: DATygrinTurretPivot
+    4300006: DaTygrinTurret
+    4300008: DATygrin
+    4300010: DaTygrinTurretHatch
+    4300012: DaWastePellet
+    6400000: DATygrin
+    6400002: DaTygrinTurret
+    6400004: DaTygrinTurretHatch
+    6400006: DATygrinTurretPivot
+    6400008: PiriComparison
+    6400010: DaWastePellet
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

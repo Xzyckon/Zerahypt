@@ -1,0 +1,115 @@
+fileFormatVersion: 2
+guid: 095d652b3d8c5f84d908afd93c369a30
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PiriComparison
+    100004: Vessel
+    100006: Vessel_001
+    100008: Corsudra2Axel
+    100010: Corsudra2Chassis
+    100012: Corsudra2Gun
+    100014: Corsudra2GunBase
+    100016: Corsudra2Turret
+    100018: Corsudra2Wheel
+    400000: //RootNode
+    400002: PiriComparison
+    400004: Vessel
+    400006: Vessel_001
+    400008: Corsudra2Axel
+    400010: Corsudra2Chassis
+    400012: Corsudra2Gun
+    400014: Corsudra2GunBase
+    400016: Corsudra2Turret
+    400018: Corsudra2Wheel
+    2300000: PiriComparison
+    2300002: Vessel
+    2300004: Vessel_001
+    2300006: Corsudra2Axel
+    2300008: Corsudra2Chassis
+    2300010: Corsudra2Gun
+    2300012: Corsudra2GunBase
+    2300014: Corsudra2Turret
+    2300016: Corsudra2Wheel
+    3300000: PiriComparison
+    3300002: Vessel
+    3300004: Vessel_001
+    3300006: Corsudra2Axel
+    3300008: Corsudra2Chassis
+    3300010: Corsudra2Gun
+    3300012: Corsudra2GunBase
+    3300014: Corsudra2Turret
+    3300016: Corsudra2Wheel
+    4300000: Vessel_001
+    4300002: Vessel
+    4300004: PiriComparison
+    4300006: Corsudra2Gun
+    4300008: Corsudra2GunBase
+    4300010: Corsudra2Axel
+    4300012: Corsudra2Wheel
+    4300014: Corsudra2Turret
+    4300016: Corsudra2Chassis
+    6400000: Corsudra2Axel
+    6400002: Corsudra2Chassis
+    6400004: Corsudra2Gun
+    6400006: Corsudra2GunBase
+    6400008: Corsudra2Turret
+    6400010: Corsudra2Wheel
+    6400012: PiriComparison
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

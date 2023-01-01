@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 04b702a2fe543ba44acca9e567476284
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Oval
+    100004: OvalCone
+    100006: Sphere
+    100008: Sphere2
+    100010: WaterPlane
+    100012: WaterPlaneDist
+    100014: WaterPlane_001
+    100016: WaterPlane2
+    100018: WaterPlane2_001
+    100020: USCylinder
+    100022: Cylinder
+    400000: //RootNode
+    400002: Oval
+    400004: OvalCone
+    400006: Sphere
+    400008: Sphere2
+    400010: WaterPlane
+    400012: WaterPlaneDist
+    400014: WaterPlane_001
+    400016: WaterPlane2
+    400018: WaterPlane2_001
+    400020: USCylinder
+    400022: Cylinder
+    2300000: //RootNode
+    2300002: Oval
+    2300004: OvalCone
+    2300006: Sphere
+    2300008: Sphere2
+    2300010: WaterPlane
+    2300012: WaterPlaneDist
+    2300014: WaterPlane_001
+    2300016: WaterPlane2
+    2300018: WaterPlane2_001
+    2300020: USCylinder
+    2300022: Cylinder
+    3300000: //RootNode
+    3300002: Oval
+    3300004: OvalCone
+    3300006: Sphere
+    3300008: Sphere2
+    3300010: WaterPlane
+    3300012: WaterPlaneDist
+    3300014: WaterPlane_001
+    3300016: WaterPlane2
+    3300018: WaterPlane2_001
+    3300020: USCylinder
+    3300022: Cylinder
+    4300000: Oval
+    4300002: OvalCone
+    4300004: Sphere
+    4300006: Sphere2
+    4300008: WaterPlane
+    4300010: WaterPlaneDist
+    4300012: WaterPlane_001
+    4300014: WaterPlane2_001
+    4300016: WaterPlane2
+    4300018: USCylinder
+    4300020: Cylinder
+    6400000: //RootNode
+    6400002: Oval
+    6400004: OvalCone
+    6400006: Sphere
+    6400008: Sphere2
+    6400010: WaterPlane
+    6400012: WaterPlaneDist
+    6400014: WaterPlane_001
+    6400016: WaterPlane2
+    6400018: WaterPlane2_001
+    6400020: USCylinder
+    6400022: Cylinder
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: 0f3823649511c4745978d6040ec2b60a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DTN_Datyra_Barrel
+    100004: DTN_Datyra_FX1
+    100006: DTN_Datyra_Gun
+    100008: DTN_Datyra_Hull
+    100010: DTN_Datyra_Radar
+    100012: PiriComparison
+    100014: DTN_Datyra_Col
+    100016: DTN_Datyra_FX2
+    400000: //RootNode
+    400002: DTN_Datyra_Barrel
+    400004: DTN_Datyra_FX1
+    400006: DTN_Datyra_Gun
+    400008: DTN_Datyra_Hull
+    400010: DTN_Datyra_Radar
+    400012: PiriComparison
+    400014: DTN_Datyra_Col
+    400016: DTN_Datyra_FX2
+    2300000: DTN_Datyra_Barrel
+    2300002: DTN_Datyra_FX1
+    2300004: DTN_Datyra_Gun
+    2300006: DTN_Datyra_Hull
+    2300008: DTN_Datyra_Radar
+    2300010: PiriComparison
+    2300012: DTN_Datyra_Col
+    2300014: DTN_Datyra_FX2
+    3300000: DTN_Datyra_Barrel
+    3300002: DTN_Datyra_FX1
+    3300004: DTN_Datyra_Gun
+    3300006: DTN_Datyra_Hull
+    3300008: DTN_Datyra_Radar
+    3300010: PiriComparison
+    3300012: DTN_Datyra_Col
+    3300014: DTN_Datyra_FX2
+    4300000: DTN_Datyra_FX1
+    4300002: DTN_Datyra_Radar
+    4300004: DTN_Datyra_Barrel
+    4300006: DTN_Datyra_Gun
+    4300008: DTN_Datyra_Hull
+    4300010: PiriComparison
+    4300012: DTN_Datyra_Col
+    4300014: DTN_Datyra_FX2
+    6400000: DTN_Datyra_Barrel
+    6400002: DTN_Datyra_Col
+    6400004: DTN_Datyra_FX1
+    6400006: DTN_Datyra_Gun
+    6400008: DTN_Datyra_Hull
+    6400010: DTN_Datyra_Radar
+    6400012: PiriComparison
+    6400014: DTN_Datyra_FX2
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

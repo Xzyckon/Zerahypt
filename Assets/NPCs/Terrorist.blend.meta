@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: ce81e1e3d07ada045bbe5c04bb13ed3c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AkbarGrenade
+    100002: AkbarGun2
+    100004: AkbarGun3
+    100006: Head
+    100008: LAnkle
+    100010: LArm
+    100012: LFoot
+    100014: LForearm
+    100016: LHand
+    100018: LShoulder
+    100020: LThigh
+    100022: Neck
+    100024: RAnkle
+    100026: RArm
+    100028: RFoot
+    100030: RForearm
+    100032: RHand
+    100034: RShoulder
+    100036: RThigh
+    100038: Terrorist
+    100040: //RootNode
+    100042: TerroristArmature
+    100044: Torso
+    400000: AkbarGrenade
+    400002: AkbarGun2
+    400004: AkbarGun3
+    400006: Head
+    400008: LAnkle
+    400010: LArm
+    400012: LFoot
+    400014: LForearm
+    400016: LHand
+    400018: LShoulder
+    400020: LThigh
+    400022: Neck
+    400024: RAnkle
+    400026: RArm
+    400028: RFoot
+    400030: RForearm
+    400032: RHand
+    400034: RShoulder
+    400036: RThigh
+    400038: //RootNode
+    400040: Terrorist
+    400042: TerroristArmature
+    400044: Torso
+    2300000: AkbarGrenade
+    2300002: AkbarGun2
+    2300004: AkbarGun3
+    3300000: AkbarGrenade
+    3300002: AkbarGun2
+    3300004: AkbarGun3
+    4300000: AkbarGrenade
+    4300002: AkbarGun3
+    4300004: AkbarGun2
+    4300006: Terrorist
+    6400000: AkbarGrenade
+    6400002: AkbarGun2
+    6400004: AkbarGun3
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Terrorist
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 310b35d60cfdd154c8a35d37891b753b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PiriEstimate
+    100004: Sandcruiser2
+    100006: Sandcruiser2Axel
+    100008: Sandcruiser2Wheel
+    100010: Sandcruiser2col
+    100012: Sandcruiser2Turret
+    100014: Sandcruiser2Wheelcol
+    100016: Sandcruiser2col1
+    100018: Sandcruiser2col2
+    100020: Sandcruiser2col3
+    100022: Sandcruiser2col4
+    100024: WheelCol
+    400000: //RootNode
+    400002: PiriEstimate
+    400004: Sandcruiser2
+    400006: Sandcruiser2Axel
+    400008: Sandcruiser2Wheel
+    400010: Sandcruiser2col
+    400012: Sandcruiser2Turret
+    400014: Sandcruiser2Wheelcol
+    400016: Sandcruiser2col1
+    400018: Sandcruiser2col2
+    400020: Sandcruiser2col3
+    400022: Sandcruiser2col4
+    400024: WheelCol
+    2300000: PiriEstimate
+    2300002: Sandcruiser2
+    2300004: Sandcruiser2Axel
+    2300006: Sandcruiser2Wheel
+    2300008: Sandcruiser2col
+    2300010: Sandcruiser2Turret
+    2300012: Sandcruiser2Wheelcol
+    2300014: Sandcruiser2col1
+    2300016: Sandcruiser2col2
+    2300018: Sandcruiser2col3
+    2300020: Sandcruiser2col4
+    2300022: WheelCol
+    3300000: PiriEstimate
+    3300002: Sandcruiser2
+    3300004: Sandcruiser2Axel
+    3300006: Sandcruiser2Wheel
+    3300008: Sandcruiser2col
+    3300010: Sandcruiser2Turret
+    3300012: Sandcruiser2Wheelcol
+    3300014: Sandcruiser2col1
+    3300016: Sandcruiser2col2
+    3300018: Sandcruiser2col3
+    3300020: Sandcruiser2col4
+    3300022: WheelCol
+    4300000: PiriEstimate
+    4300002: Sandcruiser2
+    4300004: Sandcruiser2Axel
+    4300006: Sandcruiser2Wheel
+    4300008: Sandcruiser2col
+    4300010: Sandcruiser2Turret
+    4300012: Sandcruiser2Wheelcol
+    4300014: Sandcruiser2col2
+    4300016: Sandcruiser2col4
+    4300018: Sandcruiser2col1
+    4300020: WheelCol
+    4300022: Sandcruiser2col3
+    6400000: PiriEstimate
+    6400002: Sandcruiser2
+    6400004: Sandcruiser2Axel
+    6400006: Sandcruiser2col
+    6400008: Sandcruiser2Turret
+    6400010: Sandcruiser2Wheel
+    6400012: Sandcruiser2Wheelcol
+    6400014: Sandcruiser2col1
+    6400016: Sandcruiser2col2
+    6400018: Sandcruiser2col3
+    6400020: Sandcruiser2col4
+    6400022: WheelCol
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

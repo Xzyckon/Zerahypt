@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 699445dba8426b042ba8f7a7aae1f43a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Helirotor1Arms
+    100004: Helirotor1Body
+    100006: Helirotor1Eye
+    100008: Helirotor1Rotor
+    100010: Helirotor1Section1
+    100012: Helirotor1Section2
+    100014: Helirotor1Section3
+    100016: PiriEstimate
+    100018: Helirotor1ArmsCol
+    400000: //RootNode
+    400002: Helirotor1Arms
+    400004: Helirotor1Body
+    400006: Helirotor1Eye
+    400008: Helirotor1Rotor
+    400010: Helirotor1Section1
+    400012: Helirotor1Section2
+    400014: Helirotor1Section3
+    400016: PiriEstimate
+    400018: Helirotor1ArmsCol
+    2300000: Helirotor1Arms
+    2300002: Helirotor1Body
+    2300004: Helirotor1Eye
+    2300006: Helirotor1Rotor
+    2300008: Helirotor1Section1
+    2300010: Helirotor1Section2
+    2300012: Helirotor1Section3
+    2300014: PiriEstimate
+    2300016: Helirotor1ArmsCol
+    3300000: Helirotor1Arms
+    3300002: Helirotor1Body
+    3300004: Helirotor1Eye
+    3300006: Helirotor1Rotor
+    3300008: Helirotor1Section1
+    3300010: Helirotor1Section2
+    3300012: Helirotor1Section3
+    3300014: PiriEstimate
+    3300016: Helirotor1ArmsCol
+    4300000: Helirotor1Arms
+    4300002: Helirotor1Eye
+    4300004: Helirotor1Section3
+    4300006: Helirotor1Section2
+    4300008: Helirotor1Section1
+    4300010: Helirotor1Rotor
+    4300012: PiriEstimate
+    4300014: Helirotor1Body
+    4300016: Helirotor1ArmsCol
+    6400000: Helirotor1Arms
+    6400002: Helirotor1Body
+    6400004: Helirotor1Eye
+    6400006: Helirotor1Rotor
+    6400008: Helirotor1Section1
+    6400010: Helirotor1Section2
+    6400012: Helirotor1Section3
+    6400014: PiriEstimate
+    6400016: Helirotor1ArmsCol
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

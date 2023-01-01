@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: 03a70be72effd214da28a1a1bdbc5dbf
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DM1Cannon1
+    100004: DM1Gatling
+    100006: DM1GatlingBarrel
+    100008: DM1GatlingBase
+    100010: PiriComparison
+    100012: Vessel
+    100014: DM1Chassis
+    400000: //RootNode
+    400002: DM1Cannon1
+    400004: DM1Gatling
+    400006: DM1GatlingBarrel
+    400008: DM1GatlingBase
+    400010: PiriComparison
+    400012: Vessel
+    400014: DM1Chassis
+    2300000: DM1Cannon1
+    2300002: DM1Gatling
+    2300004: DM1GatlingBarrel
+    2300006: DM1GatlingBase
+    2300008: PiriComparison
+    2300010: Vessel
+    2300012: DM1Chassis
+    3300000: DM1Cannon1
+    3300002: DM1Gatling
+    3300004: DM1GatlingBarrel
+    3300006: DM1GatlingBase
+    3300008: PiriComparison
+    3300010: Vessel
+    3300012: DM1Chassis
+    4300000: DM1GatlingBase
+    4300002: DM1GatlingBarrel
+    4300004: DM1Gatling
+    4300006: DM1Cannon1
+    4300008: Vessel
+    4300010: PiriComparison
+    4300012: DM1Chassis
+    6400000: DM1Cannon1
+    6400002: DM1Gatling
+    6400004: DM1GatlingBarrel
+    6400006: DM1GatlingBase
+    6400008: PiriComparison
+    6400010: Vessel
+    6400012: DM1Chassis
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

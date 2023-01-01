@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 202af1008ef315248a3d94f4b113535b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AkbarEzymusGCChassis
+    100004: PiriComparison
+    100006: AkbarCruiserGate
+    100008: AkbarCruiserGun1
+    100010: AkbarCruiserGun2
+    100012: AkbarCruiserHull
+    100014: AkbarCruiserTurretBase
+    100016: AkbarCorvette2Hull
+    100018: AkbarCorvetteInsignia1
+    100020: AkbarCorvetteInsignia2
+    400000: //RootNode
+    400002: AkbarEzymusGCChassis
+    400004: PiriComparison
+    400006: AkbarCruiserGate
+    400008: AkbarCruiserGun1
+    400010: AkbarCruiserGun2
+    400012: AkbarCruiserHull
+    400014: AkbarCruiserTurretBase
+    400016: AkbarCorvette2Hull
+    400018: AkbarCorvetteInsignia1
+    400020: AkbarCorvetteInsignia2
+    2300000: AkbarEzymusGCChassis
+    2300002: PiriComparison
+    2300004: AkbarCruiserGate
+    2300006: AkbarCruiserGun1
+    2300008: AkbarCruiserGun2
+    2300010: AkbarCruiserHull
+    2300012: AkbarCruiserTurretBase
+    2300014: AkbarCorvette2Hull
+    2300016: AkbarCorvetteInsignia1
+    2300018: AkbarCorvetteInsignia2
+    3300000: AkbarEzymusGCChassis
+    3300002: PiriComparison
+    3300004: AkbarCruiserGate
+    3300006: AkbarCruiserGun1
+    3300008: AkbarCruiserGun2
+    3300010: AkbarCruiserHull
+    3300012: AkbarCruiserTurretBase
+    3300014: AkbarCorvette2Hull
+    3300016: AkbarCorvetteInsignia1
+    3300018: AkbarCorvetteInsignia2
+    4300000: AkbarEzymusGCChassis
+    4300002: PiriComparison
+    4300004: AkbarCruiserGun1
+    4300006: AkbarCruiserGun2
+    4300008: AkbarCruiserTurretBase
+    4300010: AkbarCruiserGate
+    4300012: AkbarCruiserHull
+    4300014: AkbarCorvette2Hull
+    4300016: AkbarCorvetteInsignia2
+    4300018: AkbarCorvetteInsignia1
+    6400000: AkbarCruiserGate
+    6400002: AkbarCruiserGun1
+    6400004: AkbarCruiserGun2
+    6400006: AkbarCruiserHull
+    6400008: AkbarCruiserTurretBase
+    6400010: PiriComparison
+    6400012: AkbarCorvette2Hull
+    6400014: AkbarCorvetteInsignia1
+    6400016: AkbarCorvetteInsignia2
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

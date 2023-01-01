@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\PlayerStronglight.js">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerStronglight.js" Line="5" Column="20" />
+      <File FileName="Assets\Scripts\SurfaceTurretAI.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\WorldInformation.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AgrianAnnihilatorCruiserAI.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PiriUpperBodyController.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\VehicleDamage.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DNCapitalShipAI.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\SubDamage.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AgrianExecutorCruiserAI.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\PauseScript.js" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MevNavClouterAI.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

@@ -1,0 +1,152 @@
+fileFormatVersion: 2
+guid: 36e2216ef5c79224bbf07c94b93b3015
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: EzymusAptaFlatbackChassis
+    100004: PiriComparison
+    100006: EzymusAptaFlatbackAkbar
+    100008: EzymusAptaFlatbackCol
+    100010: AkbarEzymusTransfer
+    100012: AEVAAptaCBDoor
+    100014: AEVAAptaCBPart
+    100016: AEVAAptaFBPart
+    100018: AEVAAptaFlatback
+    100020: AEVAAptaFlatbackCol
+    100022: AEVAAptaFlatbed1
+    100024: AEVAAptaFlatbed2
+    100026: Al-AtibaAptaFlatback
+    100028: Al-AtibaWeaponMount
+    100030: AEVAAptaCBPartCol
+    400000: //RootNode
+    400002: EzymusAptaFlatbackChassis
+    400004: PiriComparison
+    400006: EzymusAptaFlatbackAkbar
+    400008: EzymusAptaFlatbackCol
+    400010: AkbarEzymusTransfer
+    400012: AEVAAptaCBDoor
+    400014: AEVAAptaCBPart
+    400016: AEVAAptaFBPart
+    400018: AEVAAptaFlatback
+    400020: AEVAAptaFlatbackCol
+    400022: AEVAAptaFlatbed1
+    400024: AEVAAptaFlatbed2
+    400026: Al-AtibaAptaFlatback
+    400028: Al-AtibaWeaponMount
+    400030: AEVAAptaCBPartCol
+    2300000: EzymusAptaFlatbackChassis
+    2300002: PiriComparison
+    2300004: EzymusAptaFlatbackAkbar
+    2300006: EzymusAptaFlatbackCol
+    2300008: AkbarEzymusTransfer
+    2300010: AEVAAptaCBDoor
+    2300012: AEVAAptaCBPart
+    2300014: AEVAAptaFBPart
+    2300016: AEVAAptaFlatback
+    2300018: AEVAAptaFlatbackCol
+    2300020: AEVAAptaFlatbed1
+    2300022: AEVAAptaFlatbed2
+    2300024: Al-AtibaAptaFlatback
+    2300026: Al-AtibaWeaponMount
+    2300028: AEVAAptaCBPartCol
+    3300000: EzymusAptaFlatbackChassis
+    3300002: PiriComparison
+    3300004: EzymusAptaFlatbackAkbar
+    3300006: EzymusAptaFlatbackCol
+    3300008: AkbarEzymusTransfer
+    3300010: AEVAAptaCBDoor
+    3300012: AEVAAptaCBPart
+    3300014: AEVAAptaFBPart
+    3300016: AEVAAptaFlatback
+    3300018: AEVAAptaFlatbackCol
+    3300020: AEVAAptaFlatbed1
+    3300022: AEVAAptaFlatbed2
+    3300024: Al-AtibaAptaFlatback
+    3300026: Al-AtibaWeaponMount
+    3300028: AEVAAptaCBPartCol
+    4300000: PiriComparison
+    4300002: EzymusAptaFlatbackChassis
+    4300004: EzymusAptaFlatbackAkbar
+    4300006: EzymusAptaFlatbackCol
+    4300008: AkbarEzymusTransfer
+    4300010: AEVAAptaCBPart
+    4300012: AEVAAptaCBDoor
+    4300014: AEVAAptaFBPart
+    4300016: AEVAAptaFlatbed1
+    4300018: AEVAAptaFlatbed2
+    4300020: AEVAAptaFlatbackCol
+    4300022: AEVAAptaFlatback
+    4300024: Al-AtibaAptaFlatback
+    4300026: Al-AtibaWeaponMount
+    4300028: AEVAAptaCBPartCol
+    6400000: EzymusAptaFlatbackAkbar
+    6400002: EzymusAptaFlatbackChassis
+    6400004: EzymusAptaFlatbackCol
+    6400006: AkbarEzymusTransfer
+    6400008: AEVAAptaCBDoor
+    6400010: AEVAAptaCBPart
+    6400012: AEVAAptaFBPart
+    6400014: AEVAAptaFlatback
+    6400016: AEVAAptaFlatbackCol
+    6400018: AEVAAptaFlatbed1
+    6400020: AEVAAptaFlatbed2
+    6400022: Al-AtibaAptaFlatback
+    6400024: Al-AtibaWeaponMount
+    6400026: AEVAAptaCBPartCol
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

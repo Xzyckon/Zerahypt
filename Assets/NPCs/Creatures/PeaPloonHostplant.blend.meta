@@ -1,0 +1,137 @@
+fileFormatVersion: 2
+guid: 8f1617783d8e0384688e1674a1c6fd7b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: LeftFin
+    100004: LeftInner
+    100006: PeaPloon
+    100008: //RootNode
+    100010: RightFin
+    100012: RightInner
+    100014: PPHostplantBase
+    100016: PPHostplantBud
+    100018: PPHostplantSprout
+    100020: PPHostplantStalk
+    100022: PPHostplantBaseCol
+    100024: PPHostplantSproutCol
+    100026: PPHostplantStalkCol
+    100028: PPHostplantBud2
+    100030: PPHostplantBase0
+    100032: PPHostplantBase0Col
+    400000: Armature
+    400002: LeftFin
+    400004: LeftInner
+    400006: PeaPloon
+    400008: //RootNode
+    400010: RightFin
+    400012: RightInner
+    400014: PPHostplantBase
+    400016: PPHostplantBud
+    400018: PPHostplantSprout
+    400020: PPHostplantStalk
+    400022: PPHostplantBaseCol
+    400024: PPHostplantSproutCol
+    400026: PPHostplantStalkCol
+    400028: PPHostplantBud2
+    400030: PPHostplantBase0
+    400032: PPHostplantBase0Col
+    2300000: PPHostplantBase
+    2300002: PPHostplantBud
+    2300004: PPHostplantSprout
+    2300006: PPHostplantStalk
+    2300008: PPHostplantBaseCol
+    2300010: PPHostplantSproutCol
+    2300012: PPHostplantStalkCol
+    2300014: PPHostplantBud2
+    2300016: PPHostplantBase0
+    2300018: PPHostplantBase0Col
+    3300000: PPHostplantBase
+    3300002: PPHostplantBud
+    3300004: PPHostplantSprout
+    3300006: PPHostplantStalk
+    3300008: PPHostplantBaseCol
+    3300010: PPHostplantSproutCol
+    3300012: PPHostplantStalkCol
+    3300014: PPHostplantBud2
+    3300016: PPHostplantBase0
+    3300018: PPHostplantBase0Col
+    4300000: PeaPloon
+    4300002: PPHostplantStalk
+    4300004: PPHostplantBud
+    4300006: PPHostplantSprout
+    4300008: PPHostplantBase
+    4300010: PPHostplantBaseCol
+    4300012: PPHostplantSproutCol
+    4300014: PPHostplantStalkCol
+    4300016: PPHostplantBud2
+    4300018: PPHostplantBase0
+    4300020: PPHostplantBase0Col
+    6400000: PPHostplantBase
+    6400002: PPHostplantBud
+    6400004: PPHostplantSprout
+    6400006: PPHostplantStalk
+    6400008: PPHostplantBaseCol
+    6400010: PPHostplantSproutCol
+    6400012: PPHostplantStalkCol
+    6400014: PPHostplantBud2
+    6400016: PPHostplantBase0
+    6400018: PPHostplantBase0Col
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: PeaPloon
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

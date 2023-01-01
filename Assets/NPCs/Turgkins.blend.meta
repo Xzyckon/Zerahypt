@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 7c48013e15e534143b1420204faaf32e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: PiriComparison
+    100002: Turg1Model
+    100004: //RootNode
+    100006: Icosphere
+    100008: TurgGun1
+    100010: TurgHand
+    100012: TurgHandClosed
+    100014: TurgHandOpen
+    100016: TurgBlade1
+    100018: TurgBlade1F
+    100020: TurgGun1F
+    100022: TurgFragment1
+    100024: TurgFragment2
+    400000: PiriComparison
+    400002: Turg1Model
+    400004: //RootNode
+    400006: Icosphere
+    400008: TurgGun1
+    400010: TurgHand
+    400012: TurgHandClosed
+    400014: TurgHandOpen
+    400016: TurgBlade1
+    400018: TurgBlade1F
+    400020: TurgGun1F
+    400022: TurgFragment1
+    400024: TurgFragment2
+    2300000: PiriComparison
+    2300002: Turg1Model
+    2300004: Icosphere
+    2300006: TurgGun1
+    2300008: TurgHand
+    2300010: TurgHandClosed
+    2300012: TurgHandOpen
+    2300014: TurgBlade1
+    2300016: TurgBlade1F
+    2300018: TurgGun1F
+    2300020: TurgFragment1
+    2300022: TurgFragment2
+    3300000: PiriComparison
+    3300002: Turg1Model
+    3300004: Icosphere
+    3300006: TurgGun1
+    3300008: TurgHand
+    3300010: TurgHandClosed
+    3300012: TurgHandOpen
+    3300014: TurgBlade1
+    3300016: TurgBlade1F
+    3300018: TurgGun1F
+    3300020: TurgFragment1
+    3300022: TurgFragment2
+    4300000: Turg1Model
+    4300002: PiriComparison
+    4300004: Icosphere
+    4300006: TurgGun1
+    4300008: TurgHand
+    4300010: TurgHandOpen
+    4300012: TurgHandClosed
+    4300014: TurgBlade1
+    4300016: TurgBlade1F
+    4300018: TurgGun1F
+    4300020: TurgFragment1
+    4300022: TurgFragment2
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

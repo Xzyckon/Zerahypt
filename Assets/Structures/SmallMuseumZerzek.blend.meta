@@ -1,0 +1,93 @@
+fileFormatVersion: 2
+guid: 03a78b67f36f8a64dbad8821b1800251
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: MuseumZerzek1
+    100002: PiriComparison
+    100004: //RootNode
+    100006: Ylyxean_Zera_Banner
+    100008: Info_Board
+    100010: YlyxeanWindmill1
+    400000: MuseumZerzek1
+    400002: PiriComparison
+    400004: //RootNode
+    400006: Ylyxean_Zera_Banner
+    400008: Info_Board
+    400010: YlyxeanWindmill1
+    2300000: MuseumZerzek1
+    2300002: PiriComparison
+    2300004: Ylyxean_Zera_Banner
+    2300006: Info_Board
+    2300008: YlyxeanWindmill1
+    3300000: MuseumZerzek1
+    3300002: PiriComparison
+    3300004: Ylyxean_Zera_Banner
+    3300006: Info_Board
+    3300008: YlyxeanWindmill1
+    4300000: PiriComparison
+    4300002: MuseumZerzek1
+    4300004: Ylyxean_Zera_Banner
+    4300006: Info_Board
+    4300008: YlyxeanWindmill1
+    6400000: MuseumZerzek1
+    6400002: PiriComparison
+    6400004: Ylyxean_Zera_Banner
+    6400006: Info_Board
+    6400008: YlyxeanWindmill1
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

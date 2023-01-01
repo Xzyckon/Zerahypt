@@ -1,0 +1,3721 @@
+fileFormatVersion: 2
+guid: 55f08f036e5674f4bb6029a6cf5c2b07
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Armature|Abdomen
+    100004: Armature|Head
+    100006: Armature|L.Ankle
+    100008: Armature|L.Arm
+    100010: Armature|L.Foot
+    100012: Armature|L.Forearm
+    100014: Armature|L.Hand
+    100016: Armature|L.Shoulder
+    100018: Armature|L.Thigh
+    100020: Armature|L.Toe
+    100022: Armature|LeftBosom
+    100024: Armature|Neck
+    100026: Armature|R.Ankle
+    100028: Armature|R.Arm
+    100030: Armature|R.Foot
+    100032: Armature|R.Forearm
+    100034: Armature|R.Hand
+    100036: Armature|R.Shoulder
+    100038: Armature|R.Thigh
+    100040: Armature|R.Toe
+    100042: Armature|RightBosom
+    100044: Armature|Torso
+    100046: Body
+    100048: Camera
+    100050: Eye
+    100052: Eyelids
+    100054: Eyelids2
+    100056: Hand
+    100058: Lamp
+    100060: //RootNode
+    100062: HandGunHold
+    100064: PiriArmature
+    100066: PiriArmature|Abdomen
+    100068: PiriArmature|Head
+    100070: PiriArmature|L.Ankle
+    100072: PiriArmature|L.Arm
+    100074: PiriArmature|L.Foot
+    100076: PiriArmature|L.Forearm
+    100078: PiriArmature|L.Hand
+    100080: PiriArmature|L.Shoulder
+    100082: PiriArmature|L.Thigh
+    100084: PiriArmature|L.Toe
+    100086: PiriArmature|LeftBosom
+    100088: PiriArmature|Neck
+    100090: PiriArmature|R.Ankle
+    100092: PiriArmature|R.Arm
+    100094: PiriArmature|R.Foot
+    100096: PiriArmature|R.Forearm
+    100098: PiriArmature|R.Hand
+    100100: PiriArmature|R.Shoulder
+    100102: PiriArmature|R.Thigh
+    100104: PiriArmature|R.Toe
+    100106: PiriArmature|RightBosom
+    100108: PiriArmature|Torso
+    100110: Piricol1
+    100112: Piricol2
+    100114: Abdomen
+    100116: Head
+    100118: Head_end
+    100120: L.Ankle
+    100122: L.Arm
+    100124: L.Foot
+    100126: L.Forearm
+    100128: L.Hand
+    100130: L.Hand_end
+    100132: L.Shoulder
+    100134: L.Thigh
+    100136: L.Toe
+    100138: L.Toe_end
+    100140: LeftBosom
+    100142: LeftBosom_end
+    100144: Neck
+    100146: R.Ankle
+    100148: R.Arm
+    100150: R.Foot
+    100152: R.Forearm
+    100154: R.Hand
+    100156: R.Hand_end
+    100158: R.Shoulder
+    100160: R.Thigh
+    100162: R.Toe
+    100164: R.Toe_end
+    100166: RightBosom
+    100168: RightBosom_end
+    100170: Torso
+    100172: PlayerCol
+    100174: PiriHair
+    100176: PiriHead
+    100178: PiriHeadL
+    100180: PiriHeadL2
+    100182: PiriHead2
+    100184: PiriHead0
+    100186: PiriHeadL0
+    100188: PiriHeadU
+    100190: PiriHeadU0
+    100192: PiriHeadU2
+    100194: Bone
+    100196: LeftBrow
+    100198: LeftBrow_end
+    100200: LeftMouth
+    100202: LeftMouth_end
+    100204: PiriHead.001
+    100206: PiriHeadArmature
+    100208: RightBrow
+    100210: RightBrow_end
+    100212: RightMouth
+    100214: RightMouth_end
+    100216: PiriJaw
+    100218: PiriJaw_end
+    400000: Armature
+    400002: Armature|Abdomen
+    400004: Armature|Head
+    400006: Armature|L.Ankle
+    400008: Armature|L.Arm
+    400010: Armature|L.Foot
+    400012: Armature|L.Forearm
+    400014: Armature|L.Hand
+    400016: Armature|L.Shoulder
+    400018: Armature|L.Thigh
+    400020: Armature|L.Toe
+    400022: Armature|LeftBosom
+    400024: Armature|Neck
+    400026: Armature|R.Ankle
+    400028: Armature|R.Arm
+    400030: Armature|R.Foot
+    400032: Armature|R.Forearm
+    400034: Armature|R.Hand
+    400036: Armature|R.Shoulder
+    400038: Armature|R.Thigh
+    400040: Armature|R.Toe
+    400042: Armature|RightBosom
+    400044: Armature|Torso
+    400046: Body
+    400048: Camera
+    400050: Eye
+    400052: Eyelids
+    400054: Eyelids2
+    400056: Hand
+    400058: Lamp
+    400060: //RootNode
+    400062: HandGunHold
+    400064: PiriArmature
+    400066: PiriArmature|Abdomen
+    400068: PiriArmature|Head
+    400070: PiriArmature|L.Ankle
+    400072: PiriArmature|L.Arm
+    400074: PiriArmature|L.Foot
+    400076: PiriArmature|L.Forearm
+    400078: PiriArmature|L.Hand
+    400080: PiriArmature|L.Shoulder
+    400082: PiriArmature|L.Thigh
+    400084: PiriArmature|L.Toe
+    400086: PiriArmature|LeftBosom
+    400088: PiriArmature|Neck
+    400090: PiriArmature|R.Ankle
+    400092: PiriArmature|R.Arm
+    400094: PiriArmature|R.Foot
+    400096: PiriArmature|R.Forearm
+    400098: PiriArmature|R.Hand
+    400100: PiriArmature|R.Shoulder
+    400102: PiriArmature|R.Thigh
+    400104: PiriArmature|R.Toe
+    400106: PiriArmature|RightBosom
+    400108: PiriArmature|Torso
+    400110: Piricol1
+    400112: Piricol2
+    400114: Abdomen
+    400116: Head
+    400118: Head_end
+    400120: L.Ankle
+    400122: L.Arm
+    400124: L.Foot
+    400126: L.Forearm
+    400128: L.Hand
+    400130: L.Hand_end
+    400132: L.Shoulder
+    400134: L.Thigh
+    400136: L.Toe
+    400138: L.Toe_end
+    400140: LeftBosom
+    400142: LeftBosom_end
+    400144: Neck
+    400146: R.Ankle
+    400148: R.Arm
+    400150: R.Foot
+    400152: R.Forearm
+    400154: R.Hand
+    400156: R.Hand_end
+    400158: R.Shoulder
+    400160: R.Thigh
+    400162: R.Toe
+    400164: R.Toe_end
+    400166: RightBosom
+    400168: RightBosom_end
+    400170: Torso
+    400172: PlayerCol
+    400174: PiriHair
+    400176: PiriHead
+    400178: PiriHeadL
+    400180: PiriHeadL2
+    400182: PiriHead2
+    400184: PiriHead0
+    400186: PiriHeadL0
+    400188: PiriHeadU
+    400190: PiriHeadU0
+    400192: PiriHeadU2
+    400194: Bone
+    400196: LeftBrow
+    400198: LeftBrow_end
+    400200: LeftMouth
+    400202: LeftMouth_end
+    400204: PiriHead.001
+    400206: PiriHeadArmature
+    400208: RightBrow
+    400210: RightBrow_end
+    400212: RightMouth
+    400214: RightMouth_end
+    400216: PiriJaw
+    400218: PiriJaw_end
+    2300000: Eye
+    2300002: Eyelids
+    2300004: Eyelids2
+    2300006: Hand
+    2300008: HandGunHold
+    2300010: Piricol1
+    2300012: Piricol2
+    2300014: PlayerCol
+    2300016: PiriHair
+    2300018: PiriHead
+    2300020: PiriHeadL
+    2300022: PiriHeadL2
+    2300024: PiriHead2
+    2300026: PiriHead0
+    2300028: PiriHeadL0
+    2300030: PiriHeadU
+    2300032: PiriHeadU0
+    2300034: PiriHeadU2
+    2300036: PiriHead.001
+    3300000: Eye
+    3300002: Eyelids
+    3300004: Eyelids2
+    3300006: Hand
+    3300008: HandGunHold
+    3300010: Piricol1
+    3300012: Piricol2
+    3300014: PlayerCol
+    3300016: PiriHair
+    3300018: PiriHead
+    3300020: PiriHeadL
+    3300022: PiriHeadL2
+    3300024: PiriHead2
+    3300026: PiriHead0
+    3300028: PiriHeadL0
+    3300030: PiriHeadU
+    3300032: PiriHeadU0
+    3300034: PiriHeadU2
+    3300036: PiriHead.001
+    4300000: Hand
+    4300002: Eyelids2
+    4300004: Body
+    4300006: Eyelids
+    4300008: Eye
+    4300010: HandGunHold
+    4300012: Piricol2
+    4300014: Piricol1
+    4300016: PlayerCol
+    4300018: PiriHair
+    4300020: PiriHead
+    4300022: PiriHeadL
+    4300024: PiriHeadL2
+    4300026: PiriHead2
+    4300028: PiriHead0
+    4300030: PiriHeadL0
+    4300032: PiriHeadU0
+    4300034: PiriHeadU2
+    4300036: PiriHeadU
+    4300038: PiriHead.001
+    6400000: Eye
+    6400002: Eyelids
+    6400004: Eyelids2
+    6400006: Hand
+    6400008: HandGunHold
+    6400010: Piricol1
+    6400012: Piricol2
+    6400014: PlayerCol
+    6400016: PiriHair
+    6400018: PiriHead
+    6400020: PiriHeadL
+    6400022: PiriHeadL2
+    6400024: PiriHead2
+    6400026: PiriHead0
+    6400028: PiriHeadL0
+    6400030: PiriHeadU
+    6400032: PiriHeadU0
+    6400034: PiriHeadU2
+    6400036: PiriHead.001
+    7400000: Walk
+    7400002: Armature|Faceplant
+    7400004: Armature|Falling
+    7400006: Armature|Inert
+    7400008: Armature|Jogging
+    7400010: Armature|Stand
+    7400012: Armature|Stand 2
+    7400014: Armature|Walking
+    7400016: Armature|Walking.001
+    7400018: Armature|DropThing
+    7400020: Armature|Faceplant //// Armature|Abdomen
+    7400022: Armature|Falling //// Armature|Abdomen
+    7400024: Armature|Inert //// Armature|Abdomen
+    7400026: Armature|Jogging //// Armature|Abdomen
+    7400028: Armature|Stand //// Armature|Abdomen
+    7400030: Armature|Stand 2 //// Armature|Abdomen
+    7400032: Armature|Walking //// Armature|Abdomen
+    7400034: Armature|DropThing //// Armature|Abdomen
+    7400036: Armature|Faceplant //// Armature|Torso
+    7400038: Armature|Falling //// Armature|Torso
+    7400040: Armature|Inert //// Armature|Torso
+    7400042: Armature|Jogging //// Armature|Torso
+    7400044: Armature|Stand //// Armature|Torso
+    7400046: Armature|Stand 2 //// Armature|Torso
+    7400048: Armature|Walking //// Armature|Torso
+    7400050: Armature|DropThing //// Armature|Torso
+    7400052: Armature|Faceplant //// Armature|R.Shoulder
+    7400054: Armature|Falling //// Armature|R.Shoulder
+    7400056: Armature|Inert //// Armature|R.Shoulder
+    7400058: Armature|Jogging //// Armature|R.Shoulder
+    7400060: Armature|Stand //// Armature|R.Shoulder
+    7400062: Armature|Stand 2 //// Armature|R.Shoulder
+    7400064: Armature|Walking //// Armature|R.Shoulder
+    7400066: Armature|DropThing //// Armature|R.Shoulder
+    7400068: Armature|Faceplant //// Armature|R.Arm
+    7400070: Armature|Falling //// Armature|R.Arm
+    7400072: Armature|Inert //// Armature|R.Arm
+    7400074: Armature|Jogging //// Armature|R.Arm
+    7400076: Armature|Stand //// Armature|R.Arm
+    7400078: Armature|Stand 2 //// Armature|R.Arm
+    7400080: Armature|Walking //// Armature|R.Arm
+    7400082: Armature|DropThing //// Armature|R.Arm
+    7400084: Armature|Faceplant //// Armature|R.Forearm
+    7400086: Armature|Falling //// Armature|R.Forearm
+    7400088: Armature|Inert //// Armature|R.Forearm
+    7400090: Armature|Jogging //// Armature|R.Forearm
+    7400092: Armature|Stand //// Armature|R.Forearm
+    7400094: Armature|Stand 2 //// Armature|R.Forearm
+    7400096: Armature|Walking //// Armature|R.Forearm
+    7400098: Armature|DropThing //// Armature|R.Forearm
+    7400100: Armature|Faceplant //// Armature|R.Hand
+    7400102: Armature|Falling //// Armature|R.Hand
+    7400104: Armature|Inert //// Armature|R.Hand
+    7400106: Armature|Jogging //// Armature|R.Hand
+    7400108: Armature|Stand //// Armature|R.Hand
+    7400110: Armature|Stand 2 //// Armature|R.Hand
+    7400112: Armature|Walking //// Armature|R.Hand
+    7400114: Armature|DropThing //// Armature|R.Hand
+    7400116: Armature|Faceplant //// Armature|L.Shoulder
+    7400118: Armature|Falling //// Armature|L.Shoulder
+    7400120: Armature|Inert //// Armature|L.Shoulder
+    7400122: Armature|Jogging //// Armature|L.Shoulder
+    7400124: Armature|Stand //// Armature|L.Shoulder
+    7400126: Armature|Stand 2 //// Armature|L.Shoulder
+    7400128: Armature|Walking //// Armature|L.Shoulder
+    7400130: Armature|DropThing //// Armature|L.Shoulder
+    7400132: Armature|Faceplant //// Armature|L.Arm
+    7400134: Armature|Falling //// Armature|L.Arm
+    7400136: Armature|Inert //// Armature|L.Arm
+    7400138: Armature|Jogging //// Armature|L.Arm
+    7400140: Armature|Stand //// Armature|L.Arm
+    7400142: Armature|Stand 2 //// Armature|L.Arm
+    7400144: Armature|Walking //// Armature|L.Arm
+    7400146: Armature|DropThing //// Armature|L.Arm
+    7400148: Armature|Faceplant //// Armature|L.Forearm
+    7400150: Armature|Falling //// Armature|L.Forearm
+    7400152: Armature|Inert //// Armature|L.Forearm
+    7400154: Armature|Jogging //// Armature|L.Forearm
+    7400156: Armature|Stand //// Armature|L.Forearm
+    7400158: Armature|Stand 2 //// Armature|L.Forearm
+    7400160: Armature|Walking //// Armature|L.Forearm
+    7400162: Armature|DropThing //// Armature|L.Forearm
+    7400164: Armature|Faceplant //// Armature|L.Hand
+    7400166: Armature|Falling //// Armature|L.Hand
+    7400168: Armature|Inert //// Armature|L.Hand
+    7400170: Armature|Jogging //// Armature|L.Hand
+    7400172: Armature|Stand //// Armature|L.Hand
+    7400174: Armature|Stand 2 //// Armature|L.Hand
+    7400176: Armature|Walking //// Armature|L.Hand
+    7400178: Armature|DropThing //// Armature|L.Hand
+    7400180: Armature|Faceplant //// Armature|Neck
+    7400182: Armature|Falling //// Armature|Neck
+    7400184: Armature|Inert //// Armature|Neck
+    7400186: Armature|Jogging //// Armature|Neck
+    7400188: Armature|Stand //// Armature|Neck
+    7400190: Armature|Stand 2 //// Armature|Neck
+    7400192: Armature|Walking //// Armature|Neck
+    7400194: Armature|DropThing //// Armature|Neck
+    7400196: Armature|Faceplant //// Armature|Head
+    7400198: Armature|Falling //// Armature|Head
+    7400200: Armature|Inert //// Armature|Head
+    7400202: Armature|Jogging //// Armature|Head
+    7400204: Armature|Stand //// Armature|Head
+    7400206: Armature|Stand 2 //// Armature|Head
+    7400208: Armature|Walking //// Armature|Head
+    7400210: Armature|DropThing //// Armature|Head
+    7400212: Armature|Faceplant //// Armature|RightBosom
+    7400214: Armature|Falling //// Armature|RightBosom
+    7400216: Armature|Inert //// Armature|RightBosom
+    7400218: Armature|Jogging //// Armature|RightBosom
+    7400220: Armature|Stand //// Armature|RightBosom
+    7400222: Armature|Stand 2 //// Armature|RightBosom
+    7400224: Armature|Walking //// Armature|RightBosom
+    7400226: Armature|DropThing //// Armature|RightBosom
+    7400228: Armature|Faceplant //// Armature|LeftBosom
+    7400230: Armature|Falling //// Armature|LeftBosom
+    7400232: Armature|Inert //// Armature|LeftBosom
+    7400234: Armature|Jogging //// Armature|LeftBosom
+    7400236: Armature|Stand //// Armature|LeftBosom
+    7400238: Armature|Stand 2 //// Armature|LeftBosom
+    7400240: Armature|Walking //// Armature|LeftBosom
+    7400242: Armature|DropThing //// Armature|LeftBosom
+    7400244: Armature|Faceplant //// Armature|L.Thigh
+    7400246: Armature|Falling //// Armature|L.Thigh
+    7400248: Armature|Inert //// Armature|L.Thigh
+    7400250: Armature|Jogging //// Armature|L.Thigh
+    7400252: Armature|Stand //// Armature|L.Thigh
+    7400254: Armature|Stand 2 //// Armature|L.Thigh
+    7400256: Armature|Walking //// Armature|L.Thigh
+    7400258: Armature|DropThing //// Armature|L.Thigh
+    7400260: Armature|Faceplant //// Armature|L.Ankle
+    7400262: Armature|Falling //// Armature|L.Ankle
+    7400264: Armature|Inert //// Armature|L.Ankle
+    7400266: Armature|Jogging //// Armature|L.Ankle
+    7400268: Armature|Stand //// Armature|L.Ankle
+    7400270: Armature|Stand 2 //// Armature|L.Ankle
+    7400272: Armature|Walking //// Armature|L.Ankle
+    7400274: Armature|DropThing //// Armature|L.Ankle
+    7400276: Armature|Faceplant //// Armature|L.Foot
+    7400278: Armature|Falling //// Armature|L.Foot
+    7400280: Armature|Inert //// Armature|L.Foot
+    7400282: Armature|Jogging //// Armature|L.Foot
+    7400284: Armature|Stand //// Armature|L.Foot
+    7400286: Armature|Stand 2 //// Armature|L.Foot
+    7400288: Armature|Walking //// Armature|L.Foot
+    7400290: Armature|DropThing //// Armature|L.Foot
+    7400292: Armature|Faceplant //// Armature|L.Toe
+    7400294: Armature|Falling //// Armature|L.Toe
+    7400296: Armature|Inert //// Armature|L.Toe
+    7400298: Armature|Jogging //// Armature|L.Toe
+    7400300: Armature|Stand //// Armature|L.Toe
+    7400302: Armature|Stand 2 //// Armature|L.Toe
+    7400304: Armature|Walking //// Armature|L.Toe
+    7400306: Armature|DropThing //// Armature|L.Toe
+    7400308: Armature|Faceplant //// Armature|R.Thigh
+    7400310: Armature|Falling //// Armature|R.Thigh
+    7400312: Armature|Inert //// Armature|R.Thigh
+    7400314: Armature|Jogging //// Armature|R.Thigh
+    7400316: Armature|Stand //// Armature|R.Thigh
+    7400318: Armature|Stand 2 //// Armature|R.Thigh
+    7400320: Armature|Walking //// Armature|R.Thigh
+    7400322: Armature|DropThing //// Armature|R.Thigh
+    7400324: Armature|Faceplant //// Armature|R.Ankle
+    7400326: Armature|Falling //// Armature|R.Ankle
+    7400328: Armature|Inert //// Armature|R.Ankle
+    7400330: Armature|Jogging //// Armature|R.Ankle
+    7400332: Armature|Stand //// Armature|R.Ankle
+    7400334: Armature|Stand 2 //// Armature|R.Ankle
+    7400336: Armature|Walking //// Armature|R.Ankle
+    7400338: Armature|DropThing //// Armature|R.Ankle
+    7400340: Armature|Faceplant //// Armature|R.Foot
+    7400342: Armature|Falling //// Armature|R.Foot
+    7400344: Armature|Inert //// Armature|R.Foot
+    7400346: Armature|Jogging //// Armature|R.Foot
+    7400348: Armature|Stand //// Armature|R.Foot
+    7400350: Armature|Stand 2 //// Armature|R.Foot
+    7400352: Armature|Walking //// Armature|R.Foot
+    7400354: Armature|DropThing //// Armature|R.Foot
+    7400356: Armature|Faceplant //// Armature|R.Toe
+    7400358: Armature|Falling //// Armature|R.Toe
+    7400360: Armature|Inert //// Armature|R.Toe
+    7400362: Armature|Jogging //// Armature|R.Toe
+    7400364: Armature|Stand //// Armature|R.Toe
+    7400366: Armature|Stand 2 //// Armature|R.Toe
+    7400368: Armature|Walking //// Armature|R.Toe
+    7400370: Armature|DropThing //// Armature|R.Toe
+    7400372: Armature|Faceplant //// Armature|Abdomen
+    7400374: Armature|Falling //// Armature|Abdomen
+    7400376: Armature|Inert //// Armature|Abdomen
+    7400378: Armature|Jogging //// Armature|Abdomen
+    7400380: Armature|Stand //// Armature|Abdomen
+    7400382: Armature|Stand 2 //// Armature|Abdomen
+    7400384: Armature|Walking //// Armature|Abdomen
+    7400386: Armature|DropThing //// Armature|Abdomen
+    7400388: Armature|Faceplant //// Armature|Torso
+    7400390: Armature|Falling //// Armature|Torso
+    7400392: Armature|Inert //// Armature|Torso
+    7400394: Armature|Jogging //// Armature|Torso
+    7400396: Armature|Stand //// Armature|Torso
+    7400398: Armature|Stand 2 //// Armature|Torso
+    7400400: Armature|Walking //// Armature|Torso
+    7400402: Armature|DropThing //// Armature|Torso
+    7400404: Armature|Faceplant //// Armature|R.Shoulder
+    7400406: Armature|Falling //// Armature|R.Shoulder
+    7400408: Armature|Inert //// Armature|R.Shoulder
+    7400410: Armature|Jogging //// Armature|R.Shoulder
+    7400412: Armature|Stand //// Armature|R.Shoulder
+    7400414: Armature|Stand 2 //// Armature|R.Shoulder
+    7400416: Armature|Walking //// Armature|R.Shoulder
+    7400418: Armature|DropThing //// Armature|R.Shoulder
+    7400420: Armature|Faceplant //// Armature|R.Arm
+    7400422: Armature|Falling //// Armature|R.Arm
+    7400424: Armature|Inert //// Armature|R.Arm
+    7400426: Armature|Jogging //// Armature|R.Arm
+    7400428: Armature|Stand //// Armature|R.Arm
+    7400430: Armature|Stand 2 //// Armature|R.Arm
+    7400432: Armature|Walking //// Armature|R.Arm
+    7400434: Armature|DropThing //// Armature|R.Arm
+    7400436: Armature|Faceplant //// Armature|R.Forearm
+    7400438: Armature|Falling //// Armature|R.Forearm
+    7400440: Armature|Inert //// Armature|R.Forearm
+    7400442: Armature|Jogging //// Armature|R.Forearm
+    7400444: Armature|Stand //// Armature|R.Forearm
+    7400446: Armature|Stand 2 //// Armature|R.Forearm
+    7400448: Armature|Walking //// Armature|R.Forearm
+    7400450: Armature|DropThing //// Armature|R.Forearm
+    7400452: Armature|Faceplant //// Armature|R.Hand
+    7400454: Armature|Falling //// Armature|R.Hand
+    7400456: Armature|Inert //// Armature|R.Hand
+    7400458: Armature|Jogging //// Armature|R.Hand
+    7400460: Armature|Stand //// Armature|R.Hand
+    7400462: Armature|Stand 2 //// Armature|R.Hand
+    7400464: Armature|Walking //// Armature|R.Hand
+    7400466: Armature|DropThing //// Armature|R.Hand
+    7400468: Armature|Faceplant //// Armature|L.Shoulder
+    7400470: Armature|Falling //// Armature|L.Shoulder
+    7400472: Armature|Inert //// Armature|L.Shoulder
+    7400474: Armature|Jogging //// Armature|L.Shoulder
+    7400476: Armature|Stand //// Armature|L.Shoulder
+    7400478: Armature|Stand 2 //// Armature|L.Shoulder
+    7400480: Armature|Walking //// Armature|L.Shoulder
+    7400482: Armature|DropThing //// Armature|L.Shoulder
+    7400484: Armature|Faceplant //// Armature|L.Arm
+    7400486: Armature|Falling //// Armature|L.Arm
+    7400488: Armature|Inert //// Armature|L.Arm
+    7400490: Armature|Jogging //// Armature|L.Arm
+    7400492: Armature|Stand //// Armature|L.Arm
+    7400494: Armature|Stand 2 //// Armature|L.Arm
+    7400496: Armature|Walking //// Armature|L.Arm
+    7400498: Armature|DropThing //// Armature|L.Arm
+    7400500: Armature|Faceplant //// Armature|L.Forearm
+    7400502: Armature|Falling //// Armature|L.Forearm
+    7400504: Armature|Inert //// Armature|L.Forearm
+    7400506: Armature|Jogging //// Armature|L.Forearm
+    7400508: Armature|Stand //// Armature|L.Forearm
+    7400510: Armature|Stand 2 //// Armature|L.Forearm
+    7400512: Armature|Walking //// Armature|L.Forearm
+    7400514: Armature|DropThing //// Armature|L.Forearm
+    7400516: Armature|Faceplant //// Armature|L.Hand
+    7400518: Armature|Falling //// Armature|L.Hand
+    7400520: Armature|Inert //// Armature|L.Hand
+    7400522: Armature|Jogging //// Armature|L.Hand
+    7400524: Armature|Stand //// Armature|L.Hand
+    7400526: Armature|Stand 2 //// Armature|L.Hand
+    7400528: Armature|Walking //// Armature|L.Hand
+    7400530: Armature|DropThing //// Armature|L.Hand
+    7400532: Armature|Faceplant //// Armature|Neck
+    7400534: Armature|Falling //// Armature|Neck
+    7400536: Armature|Inert //// Armature|Neck
+    7400538: Armature|Jogging //// Armature|Neck
+    7400540: Armature|Stand //// Armature|Neck
+    7400542: Armature|Stand 2 //// Armature|Neck
+    7400544: Armature|Walking //// Armature|Neck
+    7400546: Armature|DropThing //// Armature|Neck
+    7400548: Armature|Faceplant //// Armature|Head
+    7400550: Armature|Falling //// Armature|Head
+    7400552: Armature|Inert //// Armature|Head
+    7400554: Armature|Jogging //// Armature|Head
+    7400556: Armature|Stand //// Armature|Head
+    7400558: Armature|Stand 2 //// Armature|Head
+    7400560: Armature|Walking //// Armature|Head
+    7400562: Armature|DropThing //// Armature|Head
+    7400564: Armature|Faceplant //// Armature|RightBosom
+    7400566: Armature|Falling //// Armature|RightBosom
+    7400568: Armature|Inert //// Armature|RightBosom
+    7400570: Armature|Jogging //// Armature|RightBosom
+    7400572: Armature|Stand //// Armature|RightBosom
+    7400574: Armature|Stand 2 //// Armature|RightBosom
+    7400576: Armature|Walking //// Armature|RightBosom
+    7400578: Armature|DropThing //// Armature|RightBosom
+    7400580: Armature|Faceplant //// Armature|LeftBosom
+    7400582: Armature|Falling //// Armature|LeftBosom
+    7400584: Armature|Inert //// Armature|LeftBosom
+    7400586: Armature|Jogging //// Armature|LeftBosom
+    7400588: Armature|Stand //// Armature|LeftBosom
+    7400590: Armature|Stand 2 //// Armature|LeftBosom
+    7400592: Armature|Walking //// Armature|LeftBosom
+    7400594: Armature|DropThing //// Armature|LeftBosom
+    7400596: Armature|Faceplant //// Armature|L.Thigh
+    7400598: Armature|Falling //// Armature|L.Thigh
+    7400600: Armature|Inert //// Armature|L.Thigh
+    7400602: Armature|Jogging //// Armature|L.Thigh
+    7400604: Armature|Stand //// Armature|L.Thigh
+    7400606: Armature|Stand 2 //// Armature|L.Thigh
+    7400608: Armature|Walking //// Armature|L.Thigh
+    7400610: Armature|DropThing //// Armature|L.Thigh
+    7400612: Armature|Faceplant //// Armature|L.Ankle
+    7400614: Armature|Falling //// Armature|L.Ankle
+    7400616: Armature|Inert //// Armature|L.Ankle
+    7400618: Armature|Jogging //// Armature|L.Ankle
+    7400620: Armature|Stand //// Armature|L.Ankle
+    7400622: Armature|Stand 2 //// Armature|L.Ankle
+    7400624: Armature|Walking //// Armature|L.Ankle
+    7400626: Armature|DropThing //// Armature|L.Ankle
+    7400628: Armature|Faceplant //// Armature|L.Foot
+    7400630: Armature|Falling //// Armature|L.Foot
+    7400632: Armature|Inert //// Armature|L.Foot
+    7400634: Armature|Jogging //// Armature|L.Foot
+    7400636: Armature|Stand //// Armature|L.Foot
+    7400638: Armature|Stand 2 //// Armature|L.Foot
+    7400640: Armature|Walking //// Armature|L.Foot
+    7400642: Armature|DropThing //// Armature|L.Foot
+    7400644: Armature|Faceplant //// Armature|L.Toe
+    7400646: Armature|Falling //// Armature|L.Toe
+    7400648: Armature|Inert //// Armature|L.Toe
+    7400650: Armature|Jogging //// Armature|L.Toe
+    7400652: Armature|Stand //// Armature|L.Toe
+    7400654: Armature|Stand 2 //// Armature|L.Toe
+    7400656: Armature|Walking //// Armature|L.Toe
+    7400658: Armature|DropThing //// Armature|L.Toe
+    7400660: Armature|Faceplant //// Armature|R.Thigh
+    7400662: Armature|Falling //// Armature|R.Thigh
+    7400664: Armature|Inert //// Armature|R.Thigh
+    7400666: Armature|Jogging //// Armature|R.Thigh
+    7400668: Armature|Stand //// Armature|R.Thigh
+    7400670: Armature|Stand 2 //// Armature|R.Thigh
+    7400672: Armature|Walking //// Armature|R.Thigh
+    7400674: Armature|DropThing //// Armature|R.Thigh
+    7400676: Armature|Faceplant //// Armature|R.Ankle
+    7400678: Armature|Falling //// Armature|R.Ankle
+    7400680: Armature|Inert //// Armature|R.Ankle
+    7400682: Armature|Jogging //// Armature|R.Ankle
+    7400684: Armature|Stand //// Armature|R.Ankle
+    7400686: Armature|Stand 2 //// Armature|R.Ankle
+    7400688: Armature|Walking //// Armature|R.Ankle
+    7400690: Armature|DropThing //// Armature|R.Ankle
+    7400692: Armature|Faceplant //// Armature|R.Foot
+    7400694: Armature|Falling //// Armature|R.Foot
+    7400696: Armature|Inert //// Armature|R.Foot
+    7400698: Armature|Jogging //// Armature|R.Foot
+    7400700: Armature|Stand //// Armature|R.Foot
+    7400702: Armature|Stand 2 //// Armature|R.Foot
+    7400704: Armature|Walking //// Armature|R.Foot
+    7400706: Armature|DropThing //// Armature|R.Foot
+    7400708: Armature|Faceplant //// Armature|R.Toe
+    7400710: Armature|Falling //// Armature|R.Toe
+    7400712: Armature|Inert //// Armature|R.Toe
+    7400714: Armature|Jogging //// Armature|R.Toe
+    7400716: Armature|Stand //// Armature|R.Toe
+    7400718: Armature|Stand 2 //// Armature|R.Toe
+    7400720: Armature|Walking //// Armature|R.Toe
+    7400722: Armature|DropThing //// Armature|R.Toe
+    7400724: Armature|Faceplant //// Armature|Abdomen
+    7400726: Armature|Falling //// Armature|Abdomen
+    7400728: Armature|Inert //// Armature|Abdomen
+    7400730: Armature|Jogging //// Armature|Abdomen
+    7400732: Armature|Stand //// Armature|Abdomen
+    7400734: Armature|Stand 2 //// Armature|Abdomen
+    7400736: Armature|Walking //// Armature|Abdomen
+    7400738: Armature|DropThing //// Armature|Abdomen
+    7400740: Armature|Faceplant //// Armature|Torso
+    7400742: Armature|Falling //// Armature|Torso
+    7400744: Armature|Inert //// Armature|Torso
+    7400746: Armature|Jogging //// Armature|Torso
+    7400748: Armature|Stand //// Armature|Torso
+    7400750: Armature|Stand 2 //// Armature|Torso
+    7400752: Armature|Walking //// Armature|Torso
+    7400754: Armature|DropThing //// Armature|Torso
+    7400756: Armature|Faceplant //// Armature|R.Shoulder
+    7400758: Armature|Falling //// Armature|R.Shoulder
+    7400760: Armature|Inert //// Armature|R.Shoulder
+    7400762: Armature|Jogging //// Armature|R.Shoulder
+    7400764: Armature|Stand //// Armature|R.Shoulder
+    7400766: Armature|Stand 2 //// Armature|R.Shoulder
+    7400768: Armature|Walking //// Armature|R.Shoulder
+    7400770: Armature|DropThing //// Armature|R.Shoulder
+    7400772: Armature|Faceplant //// Armature|R.Arm
+    7400774: Armature|Falling //// Armature|R.Arm
+    7400776: Armature|Inert //// Armature|R.Arm
+    7400778: Armature|Jogging //// Armature|R.Arm
+    7400780: Armature|Stand //// Armature|R.Arm
+    7400782: Armature|Stand 2 //// Armature|R.Arm
+    7400784: Armature|Walking //// Armature|R.Arm
+    7400786: Armature|DropThing //// Armature|R.Arm
+    7400788: Armature|Faceplant //// Armature|R.Forearm
+    7400790: Armature|Falling //// Armature|R.Forearm
+    7400792: Armature|Inert //// Armature|R.Forearm
+    7400794: Armature|Jogging //// Armature|R.Forearm
+    7400796: Armature|Stand //// Armature|R.Forearm
+    7400798: Armature|Stand 2 //// Armature|R.Forearm
+    7400800: Armature|Walking //// Armature|R.Forearm
+    7400802: Armature|DropThing //// Armature|R.Forearm
+    7400804: Armature|Faceplant //// Armature|R.Hand
+    7400806: Armature|Falling //// Armature|R.Hand
+    7400808: Armature|Inert //// Armature|R.Hand
+    7400810: Armature|Jogging //// Armature|R.Hand
+    7400812: Armature|Stand //// Armature|R.Hand
+    7400814: Armature|Stand 2 //// Armature|R.Hand
+    7400816: Armature|Walking //// Armature|R.Hand
+    7400818: Armature|DropThing //// Armature|R.Hand
+    7400820: Armature|Faceplant //// Armature|L.Shoulder
+    7400822: Armature|Falling //// Armature|L.Shoulder
+    7400824: Armature|Inert //// Armature|L.Shoulder
+    7400826: Armature|Jogging //// Armature|L.Shoulder
+    7400828: Armature|Stand //// Armature|L.Shoulder
+    7400830: Armature|Stand 2 //// Armature|L.Shoulder
+    7400832: Armature|Walking //// Armature|L.Shoulder
+    7400834: Armature|DropThing //// Armature|L.Shoulder
+    7400836: Armature|Faceplant //// Armature|L.Arm
+    7400838: Armature|Falling //// Armature|L.Arm
+    7400840: Armature|Inert //// Armature|L.Arm
+    7400842: Armature|Jogging //// Armature|L.Arm
+    7400844: Armature|Stand //// Armature|L.Arm
+    7400846: Armature|Stand 2 //// Armature|L.Arm
+    7400848: Armature|Walking //// Armature|L.Arm
+    7400850: Armature|DropThing //// Armature|L.Arm
+    7400852: Armature|Faceplant //// Armature|L.Forearm
+    7400854: Armature|Falling //// Armature|L.Forearm
+    7400856: Armature|Inert //// Armature|L.Forearm
+    7400858: Armature|Jogging //// Armature|L.Forearm
+    7400860: Armature|Stand //// Armature|L.Forearm
+    7400862: Armature|Stand 2 //// Armature|L.Forearm
+    7400864: Armature|Walking //// Armature|L.Forearm
+    7400866: Armature|DropThing //// Armature|L.Forearm
+    7400868: Armature|Faceplant //// Armature|L.Hand
+    7400870: Armature|Falling //// Armature|L.Hand
+    7400872: Armature|Inert //// Armature|L.Hand
+    7400874: Armature|Jogging //// Armature|L.Hand
+    7400876: Armature|Stand //// Armature|L.Hand
+    7400878: Armature|Stand 2 //// Armature|L.Hand
+    7400880: Armature|Walking //// Armature|L.Hand
+    7400882: Armature|DropThing //// Armature|L.Hand
+    7400884: Armature|Faceplant //// Armature|Neck
+    7400886: Armature|Falling //// Armature|Neck
+    7400888: Armature|Inert //// Armature|Neck
+    7400890: Armature|Jogging //// Armature|Neck
+    7400892: Armature|Stand //// Armature|Neck
+    7400894: Armature|Stand 2 //// Armature|Neck
+    7400896: Armature|Walking //// Armature|Neck
+    7400898: Armature|DropThing //// Armature|Neck
+    7400900: Armature|Faceplant //// Armature|Head
+    7400902: Armature|Falling //// Armature|Head
+    7400904: Armature|Inert //// Armature|Head
+    7400906: Armature|Jogging //// Armature|Head
+    7400908: Armature|Stand //// Armature|Head
+    7400910: Armature|Stand 2 //// Armature|Head
+    7400912: Armature|Walking //// Armature|Head
+    7400914: Armature|DropThing //// Armature|Head
+    7400916: Armature|Faceplant //// Armature|RightBosom
+    7400918: Armature|Falling //// Armature|RightBosom
+    7400920: Armature|Inert //// Armature|RightBosom
+    7400922: Armature|Jogging //// Armature|RightBosom
+    7400924: Armature|Stand //// Armature|RightBosom
+    7400926: Armature|Stand 2 //// Armature|RightBosom
+    7400928: Armature|Walking //// Armature|RightBosom
+    7400930: Armature|DropThing //// Armature|RightBosom
+    7400932: Armature|Faceplant //// Armature|LeftBosom
+    7400934: Armature|Falling //// Armature|LeftBosom
+    7400936: Armature|Inert //// Armature|LeftBosom
+    7400938: Armature|Jogging //// Armature|LeftBosom
+    7400940: Armature|Stand //// Armature|LeftBosom
+    7400942: Armature|Stand 2 //// Armature|LeftBosom
+    7400944: Armature|Walking //// Armature|LeftBosom
+    7400946: Armature|DropThing //// Armature|LeftBosom
+    7400948: Armature|Faceplant //// Armature|L.Thigh
+    7400950: Armature|Falling //// Armature|L.Thigh
+    7400952: Armature|Inert //// Armature|L.Thigh
+    7400954: Armature|Jogging //// Armature|L.Thigh
+    7400956: Armature|Stand //// Armature|L.Thigh
+    7400958: Armature|Stand 2 //// Armature|L.Thigh
+    7400960: Armature|Walking //// Armature|L.Thigh
+    7400962: Armature|DropThing //// Armature|L.Thigh
+    7400964: Armature|Faceplant //// Armature|L.Ankle
+    7400966: Armature|Falling //// Armature|L.Ankle
+    7400968: Armature|Inert //// Armature|L.Ankle
+    7400970: Armature|Jogging //// Armature|L.Ankle
+    7400972: Armature|Stand //// Armature|L.Ankle
+    7400974: Armature|Stand 2 //// Armature|L.Ankle
+    7400976: Armature|Walking //// Armature|L.Ankle
+    7400978: Armature|DropThing //// Armature|L.Ankle
+    7400980: Armature|Faceplant //// Armature|L.Foot
+    7400982: Armature|Falling //// Armature|L.Foot
+    7400984: Armature|Inert //// Armature|L.Foot
+    7400986: Armature|Jogging //// Armature|L.Foot
+    7400988: Armature|Stand //// Armature|L.Foot
+    7400990: Armature|Stand 2 //// Armature|L.Foot
+    7400992: Armature|Walking //// Armature|L.Foot
+    7400994: Armature|DropThing //// Armature|L.Foot
+    7400996: Armature|Faceplant //// Armature|L.Toe
+    7400998: Armature|Falling //// Armature|L.Toe
+    7401000: Armature|Inert //// Armature|L.Toe
+    7401002: Armature|Jogging //// Armature|L.Toe
+    7401004: Armature|Stand //// Armature|L.Toe
+    7401006: Armature|Stand 2 //// Armature|L.Toe
+    7401008: Armature|Walking //// Armature|L.Toe
+    7401010: Armature|DropThing //// Armature|L.Toe
+    7401012: Armature|Faceplant //// Armature|R.Thigh
+    7401014: Armature|Falling //// Armature|R.Thigh
+    7401016: Armature|Inert //// Armature|R.Thigh
+    7401018: Armature|Jogging //// Armature|R.Thigh
+    7401020: Armature|Stand //// Armature|R.Thigh
+    7401022: Armature|Stand 2 //// Armature|R.Thigh
+    7401024: Armature|Walking //// Armature|R.Thigh
+    7401026: Armature|DropThing //// Armature|R.Thigh
+    7401028: Armature|Faceplant //// Armature|R.Ankle
+    7401030: Armature|Falling //// Armature|R.Ankle
+    7401032: Armature|Inert //// Armature|R.Ankle
+    7401034: Armature|Jogging //// Armature|R.Ankle
+    7401036: Armature|Stand //// Armature|R.Ankle
+    7401038: Armature|Stand 2 //// Armature|R.Ankle
+    7401040: Armature|Walking //// Armature|R.Ankle
+    7401042: Armature|DropThing //// Armature|R.Ankle
+    7401044: Armature|Faceplant //// Armature|R.Foot
+    7401046: Armature|Falling //// Armature|R.Foot
+    7401048: Armature|Inert //// Armature|R.Foot
+    7401050: Armature|Jogging //// Armature|R.Foot
+    7401052: Armature|Stand //// Armature|R.Foot
+    7401054: Armature|Stand 2 //// Armature|R.Foot
+    7401056: Armature|Walking //// Armature|R.Foot
+    7401058: Armature|DropThing //// Armature|R.Foot
+    7401060: Armature|Faceplant //// Armature|R.Toe
+    7401062: Armature|Falling //// Armature|R.Toe
+    7401064: Armature|Inert //// Armature|R.Toe
+    7401066: Armature|Jogging //// Armature|R.Toe
+    7401068: Armature|Stand //// Armature|R.Toe
+    7401070: Armature|Stand 2 //// Armature|R.Toe
+    7401072: Armature|Walking //// Armature|R.Toe
+    7401074: Armature|DropThing //// Armature|R.Toe
+    7401076: Armature|Faceplant //// Armature|Abdomen
+    7401078: Armature|Falling //// Armature|Abdomen
+    7401080: Armature|Inert //// Armature|Abdomen
+    7401082: Armature|Jogging //// Armature|Abdomen
+    7401084: Armature|Stand //// Armature|Abdomen
+    7401086: Armature|Stand 2 //// Armature|Abdomen
+    7401088: Armature|Walking //// Armature|Abdomen
+    7401090: Armature|DropThing //// Armature|Abdomen
+    7401092: Armature|Faceplant //// Armature|Torso
+    7401094: Armature|Falling //// Armature|Torso
+    7401096: Armature|Inert //// Armature|Torso
+    7401098: Armature|Jogging //// Armature|Torso
+    7401100: Armature|Stand //// Armature|Torso
+    7401102: Armature|Stand 2 //// Armature|Torso
+    7401104: Armature|Walking //// Armature|Torso
+    7401106: Armature|DropThing //// Armature|Torso
+    7401108: Armature|Faceplant //// Armature|R.Shoulder
+    7401110: Armature|Falling //// Armature|R.Shoulder
+    7401112: Armature|Inert //// Armature|R.Shoulder
+    7401114: Armature|Jogging //// Armature|R.Shoulder
+    7401116: Armature|Stand //// Armature|R.Shoulder
+    7401118: Armature|Stand 2 //// Armature|R.Shoulder
+    7401120: Armature|Walking //// Armature|R.Shoulder
+    7401122: Armature|DropThing //// Armature|R.Shoulder
+    7401124: Armature|Faceplant //// Armature|R.Arm
+    7401126: Armature|Falling //// Armature|R.Arm
+    7401128: Armature|Inert //// Armature|R.Arm
+    7401130: Armature|Jogging //// Armature|R.Arm
+    7401132: Armature|Stand //// Armature|R.Arm
+    7401134: Armature|Stand 2 //// Armature|R.Arm
+    7401136: Armature|Walking //// Armature|R.Arm
+    7401138: Armature|DropThing //// Armature|R.Arm
+    7401140: Armature|Faceplant //// Armature|R.Forearm
+    7401142: Armature|Falling //// Armature|R.Forearm
+    7401144: Armature|Inert //// Armature|R.Forearm
+    7401146: Armature|Jogging //// Armature|R.Forearm
+    7401148: Armature|Stand //// Armature|R.Forearm
+    7401150: Armature|Stand 2 //// Armature|R.Forearm
+    7401152: Armature|Walking //// Armature|R.Forearm
+    7401154: Armature|DropThing //// Armature|R.Forearm
+    7401156: Armature|Faceplant //// Armature|R.Hand
+    7401158: Armature|Falling //// Armature|R.Hand
+    7401160: Armature|Inert //// Armature|R.Hand
+    7401162: Armature|Jogging //// Armature|R.Hand
+    7401164: Armature|Stand //// Armature|R.Hand
+    7401166: Armature|Stand 2 //// Armature|R.Hand
+    7401168: Armature|Walking //// Armature|R.Hand
+    7401170: Armature|DropThing //// Armature|R.Hand
+    7401172: Armature|Faceplant //// Armature|L.Shoulder
+    7401174: Armature|Falling //// Armature|L.Shoulder
+    7401176: Armature|Inert //// Armature|L.Shoulder
+    7401178: Armature|Jogging //// Armature|L.Shoulder
+    7401180: Armature|Stand //// Armature|L.Shoulder
+    7401182: Armature|Stand 2 //// Armature|L.Shoulder
+    7401184: Armature|Walking //// Armature|L.Shoulder
+    7401186: Armature|DropThing //// Armature|L.Shoulder
+    7401188: Armature|Faceplant //// Armature|L.Arm
+    7401190: Armature|Falling //// Armature|L.Arm
+    7401192: Armature|Inert //// Armature|L.Arm
+    7401194: Armature|Jogging //// Armature|L.Arm
+    7401196: Armature|Stand //// Armature|L.Arm
+    7401198: Armature|Stand 2 //// Armature|L.Arm
+    7401200: Armature|Walking //// Armature|L.Arm
+    7401202: Armature|DropThing //// Armature|L.Arm
+    7401204: Armature|Faceplant //// Armature|L.Forearm
+    7401206: Armature|Falling //// Armature|L.Forearm
+    7401208: Armature|Inert //// Armature|L.Forearm
+    7401210: Armature|Jogging //// Armature|L.Forearm
+    7401212: Armature|Stand //// Armature|L.Forearm
+    7401214: Armature|Stand 2 //// Armature|L.Forearm
+    7401216: Armature|Walking //// Armature|L.Forearm
+    7401218: Armature|DropThing //// Armature|L.Forearm
+    7401220: Armature|Faceplant //// Armature|L.Hand
+    7401222: Armature|Falling //// Armature|L.Hand
+    7401224: Armature|Inert //// Armature|L.Hand
+    7401226: Armature|Jogging //// Armature|L.Hand
+    7401228: Armature|Stand //// Armature|L.Hand
+    7401230: Armature|Stand 2 //// Armature|L.Hand
+    7401232: Armature|Walking //// Armature|L.Hand
+    7401234: Armature|DropThing //// Armature|L.Hand
+    7401236: Armature|Faceplant //// Armature|Neck
+    7401238: Armature|Falling //// Armature|Neck
+    7401240: Armature|Inert //// Armature|Neck
+    7401242: Armature|Jogging //// Armature|Neck
+    7401244: Armature|Stand //// Armature|Neck
+    7401246: Armature|Stand 2 //// Armature|Neck
+    7401248: Armature|Walking //// Armature|Neck
+    7401250: Armature|DropThing //// Armature|Neck
+    7401252: Armature|Faceplant //// Armature|Head
+    7401254: Armature|Falling //// Armature|Head
+    7401256: Armature|Inert //// Armature|Head
+    7401258: Armature|Jogging //// Armature|Head
+    7401260: Armature|Stand //// Armature|Head
+    7401262: Armature|Stand 2 //// Armature|Head
+    7401264: Armature|Walking //// Armature|Head
+    7401266: Armature|DropThing //// Armature|Head
+    7401268: Armature|Faceplant //// Armature|RightBosom
+    7401270: Armature|Falling //// Armature|RightBosom
+    7401272: Armature|Inert //// Armature|RightBosom
+    7401274: Armature|Jogging //// Armature|RightBosom
+    7401276: Armature|Stand //// Armature|RightBosom
+    7401278: Armature|Stand 2 //// Armature|RightBosom
+    7401280: Armature|Walking //// Armature|RightBosom
+    7401282: Armature|DropThing //// Armature|RightBosom
+    7401284: Armature|Faceplant //// Armature|LeftBosom
+    7401286: Armature|Falling //// Armature|LeftBosom
+    7401288: Armature|Inert //// Armature|LeftBosom
+    7401290: Armature|Jogging //// Armature|LeftBosom
+    7401292: Armature|Stand //// Armature|LeftBosom
+    7401294: Armature|Stand 2 //// Armature|LeftBosom
+    7401296: Armature|Walking //// Armature|LeftBosom
+    7401298: Armature|DropThing //// Armature|LeftBosom
+    7401300: Armature|Faceplant //// Armature|L.Thigh
+    7401302: Armature|Falling //// Armature|L.Thigh
+    7401304: Armature|Inert //// Armature|L.Thigh
+    7401306: Armature|Jogging //// Armature|L.Thigh
+    7401308: Armature|Stand //// Armature|L.Thigh
+    7401310: Armature|Stand 2 //// Armature|L.Thigh
+    7401312: Armature|Walking //// Armature|L.Thigh
+    7401314: Armature|DropThing //// Armature|L.Thigh
+    7401316: Armature|Faceplant //// Armature|L.Ankle
+    7401318: Armature|Falling //// Armature|L.Ankle
+    7401320: Armature|Inert //// Armature|L.Ankle
+    7401322: Armature|Jogging //// Armature|L.Ankle
+    7401324: Armature|Stand //// Armature|L.Ankle
+    7401326: Armature|Stand 2 //// Armature|L.Ankle
+    7401328: Armature|Walking //// Armature|L.Ankle
+    7401330: Armature|DropThing //// Armature|L.Ankle
+    7401332: Armature|Faceplant //// Armature|L.Foot
+    7401334: Armature|Falling //// Armature|L.Foot
+    7401336: Armature|Inert //// Armature|L.Foot
+    7401338: Armature|Jogging //// Armature|L.Foot
+    7401340: Armature|Stand //// Armature|L.Foot
+    7401342: Armature|Stand 2 //// Armature|L.Foot
+    7401344: Armature|Walking //// Armature|L.Foot
+    7401346: Armature|DropThing //// Armature|L.Foot
+    7401348: Armature|Faceplant //// Armature|L.Toe
+    7401350: Armature|Falling //// Armature|L.Toe
+    7401352: Armature|Inert //// Armature|L.Toe
+    7401354: Armature|Jogging //// Armature|L.Toe
+    7401356: Armature|Stand //// Armature|L.Toe
+    7401358: Armature|Stand 2 //// Armature|L.Toe
+    7401360: Armature|Walking //// Armature|L.Toe
+    7401362: Armature|DropThing //// Armature|L.Toe
+    7401364: Armature|Faceplant //// Armature|R.Thigh
+    7401366: Armature|Falling //// Armature|R.Thigh
+    7401368: Armature|Inert //// Armature|R.Thigh
+    7401370: Armature|Jogging //// Armature|R.Thigh
+    7401372: Armature|Stand //// Armature|R.Thigh
+    7401374: Armature|Stand 2 //// Armature|R.Thigh
+    7401376: Armature|Walking //// Armature|R.Thigh
+    7401378: Armature|DropThing //// Armature|R.Thigh
+    7401380: Armature|Faceplant //// Armature|R.Ankle
+    7401382: Armature|Falling //// Armature|R.Ankle
+    7401384: Armature|Inert //// Armature|R.Ankle
+    7401386: Armature|Jogging //// Armature|R.Ankle
+    7401388: Armature|Stand //// Armature|R.Ankle
+    7401390: Armature|Stand 2 //// Armature|R.Ankle
+    7401392: Armature|Walking //// Armature|R.Ankle
+    7401394: Armature|DropThing //// Armature|R.Ankle
+    7401396: Armature|Faceplant //// Armature|R.Foot
+    7401398: Armature|Falling //// Armature|R.Foot
+    7401400: Armature|Inert //// Armature|R.Foot
+    7401402: Armature|Jogging //// Armature|R.Foot
+    7401404: Armature|Stand //// Armature|R.Foot
+    7401406: Armature|Stand 2 //// Armature|R.Foot
+    7401408: Armature|Walking //// Armature|R.Foot
+    7401410: Armature|DropThing //// Armature|R.Foot
+    7401412: Armature|Faceplant //// Armature|R.Toe
+    7401414: Armature|Falling //// Armature|R.Toe
+    7401416: Armature|Inert //// Armature|R.Toe
+    7401418: Armature|Jogging //// Armature|R.Toe
+    7401420: Armature|Stand //// Armature|R.Toe
+    7401422: Armature|Stand 2 //// Armature|R.Toe
+    7401424: Armature|Walking //// Armature|R.Toe
+    7401426: Armature|DropThing //// Armature|R.Toe
+    7401428: Armature|Faceplant //// Armature|Abdomen
+    7401430: Armature|Falling //// Armature|Abdomen
+    7401432: Armature|Inert //// Armature|Abdomen
+    7401434: Armature|Jogging //// Armature|Abdomen
+    7401436: Armature|Stand //// Armature|Abdomen
+    7401438: Armature|Stand 2 //// Armature|Abdomen
+    7401440: Armature|Walking //// Armature|Abdomen
+    7401442: Armature|DropThing //// Armature|Abdomen
+    7401444: Armature|Faceplant //// Armature|Torso
+    7401446: Armature|Falling //// Armature|Torso
+    7401448: Armature|Inert //// Armature|Torso
+    7401450: Armature|Jogging //// Armature|Torso
+    7401452: Armature|Stand //// Armature|Torso
+    7401454: Armature|Stand 2 //// Armature|Torso
+    7401456: Armature|Walking //// Armature|Torso
+    7401458: Armature|DropThing //// Armature|Torso
+    7401460: Armature|Faceplant //// Armature|R.Shoulder
+    7401462: Armature|Falling //// Armature|R.Shoulder
+    7401464: Armature|Inert //// Armature|R.Shoulder
+    7401466: Armature|Jogging //// Armature|R.Shoulder
+    7401468: Armature|Stand //// Armature|R.Shoulder
+    7401470: Armature|Stand 2 //// Armature|R.Shoulder
+    7401472: Armature|Walking //// Armature|R.Shoulder
+    7401474: Armature|DropThing //// Armature|R.Shoulder
+    7401476: Armature|Faceplant //// Armature|R.Arm
+    7401478: Armature|Falling //// Armature|R.Arm
+    7401480: Armature|Inert //// Armature|R.Arm
+    7401482: Armature|Jogging //// Armature|R.Arm
+    7401484: Armature|Stand //// Armature|R.Arm
+    7401486: Armature|Stand 2 //// Armature|R.Arm
+    7401488: Armature|Walking //// Armature|R.Arm
+    7401490: Armature|DropThing //// Armature|R.Arm
+    7401492: Armature|Faceplant //// Armature|R.Forearm
+    7401494: Armature|Falling //// Armature|R.Forearm
+    7401496: Armature|Inert //// Armature|R.Forearm
+    7401498: Armature|Jogging //// Armature|R.Forearm
+    7401500: Armature|Stand //// Armature|R.Forearm
+    7401502: Armature|Stand 2 //// Armature|R.Forearm
+    7401504: Armature|Walking //// Armature|R.Forearm
+    7401506: Armature|DropThing //// Armature|R.Forearm
+    7401508: Armature|Faceplant //// Armature|R.Hand
+    7401510: Armature|Falling //// Armature|R.Hand
+    7401512: Armature|Inert //// Armature|R.Hand
+    7401514: Armature|Jogging //// Armature|R.Hand
+    7401516: Armature|Stand //// Armature|R.Hand
+    7401518: Armature|Stand 2 //// Armature|R.Hand
+    7401520: Armature|Walking //// Armature|R.Hand
+    7401522: Armature|DropThing //// Armature|R.Hand
+    7401524: Armature|Faceplant //// Armature|L.Shoulder
+    7401526: Armature|Falling //// Armature|L.Shoulder
+    7401528: Armature|Inert //// Armature|L.Shoulder
+    7401530: Armature|Jogging //// Armature|L.Shoulder
+    7401532: Armature|Stand //// Armature|L.Shoulder
+    7401534: Armature|Stand 2 //// Armature|L.Shoulder
+    7401536: Armature|Walking //// Armature|L.Shoulder
+    7401538: Armature|DropThing //// Armature|L.Shoulder
+    7401540: Armature|Faceplant //// Armature|L.Arm
+    7401542: Armature|Falling //// Armature|L.Arm
+    7401544: Armature|Inert //// Armature|L.Arm
+    7401546: Armature|Jogging //// Armature|L.Arm
+    7401548: Armature|Stand //// Armature|L.Arm
+    7401550: Armature|Stand 2 //// Armature|L.Arm
+    7401552: Armature|Walking //// Armature|L.Arm
+    7401554: Armature|DropThing //// Armature|L.Arm
+    7401556: Armature|Faceplant //// Armature|L.Forearm
+    7401558: Armature|Falling //// Armature|L.Forearm
+    7401560: Armature|Inert //// Armature|L.Forearm
+    7401562: Armature|Jogging //// Armature|L.Forearm
+    7401564: Armature|Stand //// Armature|L.Forearm
+    7401566: Armature|Stand 2 //// Armature|L.Forearm
+    7401568: Armature|Walking //// Armature|L.Forearm
+    7401570: Armature|DropThing //// Armature|L.Forearm
+    7401572: Armature|Faceplant //// Armature|L.Hand
+    7401574: Armature|Falling //// Armature|L.Hand
+    7401576: Armature|Inert //// Armature|L.Hand
+    7401578: Armature|Jogging //// Armature|L.Hand
+    7401580: Armature|Stand //// Armature|L.Hand
+    7401582: Armature|Stand 2 //// Armature|L.Hand
+    7401584: Armature|Walking //// Armature|L.Hand
+    7401586: Armature|DropThing //// Armature|L.Hand
+    7401588: Armature|Faceplant //// Armature|Neck
+    7401590: Armature|Falling //// Armature|Neck
+    7401592: Armature|Inert //// Armature|Neck
+    7401594: Armature|Jogging //// Armature|Neck
+    7401596: Armature|Stand //// Armature|Neck
+    7401598: Armature|Stand 2 //// Armature|Neck
+    7401600: Armature|Walking //// Armature|Neck
+    7401602: Armature|DropThing //// Armature|Neck
+    7401604: Armature|Faceplant //// Armature|Head
+    7401606: Armature|Falling //// Armature|Head
+    7401608: Armature|Inert //// Armature|Head
+    7401610: Armature|Jogging //// Armature|Head
+    7401612: Armature|Stand //// Armature|Head
+    7401614: Armature|Stand 2 //// Armature|Head
+    7401616: Armature|Walking //// Armature|Head
+    7401618: Armature|DropThing //// Armature|Head
+    7401620: Armature|Faceplant //// Armature|RightBosom
+    7401622: Armature|Falling //// Armature|RightBosom
+    7401624: Armature|Inert //// Armature|RightBosom
+    7401626: Armature|Jogging //// Armature|RightBosom
+    7401628: Armature|Stand //// Armature|RightBosom
+    7401630: Armature|Stand 2 //// Armature|RightBosom
+    7401632: Armature|Walking //// Armature|RightBosom
+    7401634: Armature|DropThing //// Armature|RightBosom
+    7401636: Armature|Faceplant //// Armature|LeftBosom
+    7401638: Armature|Falling //// Armature|LeftBosom
+    7401640: Armature|Inert //// Armature|LeftBosom
+    7401642: Armature|Jogging //// Armature|LeftBosom
+    7401644: Armature|Stand //// Armature|LeftBosom
+    7401646: Armature|Stand 2 //// Armature|LeftBosom
+    7401648: Armature|Walking //// Armature|LeftBosom
+    7401650: Armature|DropThing //// Armature|LeftBosom
+    7401652: Armature|Faceplant //// Armature|L.Thigh
+    7401654: Armature|Falling //// Armature|L.Thigh
+    7401656: Armature|Inert //// Armature|L.Thigh
+    7401658: Armature|Jogging //// Armature|L.Thigh
+    7401660: Armature|Stand //// Armature|L.Thigh
+    7401662: Armature|Stand 2 //// Armature|L.Thigh
+    7401664: Armature|Walking //// Armature|L.Thigh
+    7401666: Armature|DropThing //// Armature|L.Thigh
+    7401668: Armature|Faceplant //// Armature|L.Ankle
+    7401670: Armature|Falling //// Armature|L.Ankle
+    7401672: Armature|Inert //// Armature|L.Ankle
+    7401674: Armature|Jogging //// Armature|L.Ankle
+    7401676: Armature|Stand //// Armature|L.Ankle
+    7401678: Armature|Stand 2 //// Armature|L.Ankle
+    7401680: Armature|Walking //// Armature|L.Ankle
+    7401682: Armature|DropThing //// Armature|L.Ankle
+    7401684: Armature|Faceplant //// Armature|L.Foot
+    7401686: Armature|Falling //// Armature|L.Foot
+    7401688: Armature|Inert //// Armature|L.Foot
+    7401690: Armature|Jogging //// Armature|L.Foot
+    7401692: Armature|Stand //// Armature|L.Foot
+    7401694: Armature|Stand 2 //// Armature|L.Foot
+    7401696: Armature|Walking //// Armature|L.Foot
+    7401698: Armature|DropThing //// Armature|L.Foot
+    7401700: Armature|Faceplant //// Armature|L.Toe
+    7401702: Armature|Falling //// Armature|L.Toe
+    7401704: Armature|Inert //// Armature|L.Toe
+    7401706: Armature|Jogging //// Armature|L.Toe
+    7401708: Armature|Stand //// Armature|L.Toe
+    7401710: Armature|Stand 2 //// Armature|L.Toe
+    7401712: Armature|Walking //// Armature|L.Toe
+    7401714: Armature|DropThing //// Armature|L.Toe
+    7401716: Armature|Faceplant //// Armature|R.Thigh
+    7401718: Armature|Falling //// Armature|R.Thigh
+    7401720: Armature|Inert //// Armature|R.Thigh
+    7401722: Armature|Jogging //// Armature|R.Thigh
+    7401724: Armature|Stand //// Armature|R.Thigh
+    7401726: Armature|Stand 2 //// Armature|R.Thigh
+    7401728: Armature|Walking //// Armature|R.Thigh
+    7401730: Armature|DropThing //// Armature|R.Thigh
+    7401732: Armature|Faceplant //// Armature|R.Ankle
+    7401734: Armature|Falling //// Armature|R.Ankle
+    7401736: Armature|Inert //// Armature|R.Ankle
+    7401738: Armature|Jogging //// Armature|R.Ankle
+    7401740: Armature|Stand //// Armature|R.Ankle
+    7401742: Armature|Stand 2 //// Armature|R.Ankle
+    7401744: Armature|Walking //// Armature|R.Ankle
+    7401746: Armature|DropThing //// Armature|R.Ankle
+    7401748: Armature|Faceplant //// Armature|R.Foot
+    7401750: Armature|Falling //// Armature|R.Foot
+    7401752: Armature|Inert //// Armature|R.Foot
+    7401754: Armature|Jogging //// Armature|R.Foot
+    7401756: Armature|Stand //// Armature|R.Foot
+    7401758: Armature|Stand 2 //// Armature|R.Foot
+    7401760: Armature|Walking //// Armature|R.Foot
+    7401762: Armature|DropThing //// Armature|R.Foot
+    7401764: Armature|Faceplant //// Armature|R.Toe
+    7401766: Armature|Falling //// Armature|R.Toe
+    7401768: Armature|Inert //// Armature|R.Toe
+    7401770: Armature|Jogging //// Armature|R.Toe
+    7401772: Armature|Stand //// Armature|R.Toe
+    7401774: Armature|Stand 2 //// Armature|R.Toe
+    7401776: Armature|Walking //// Armature|R.Toe
+    7401778: Armature|DropThing //// Armature|R.Toe
+    7401780: Armature|Faceplant //// Armature|Abdomen
+    7401782: Armature|Falling //// Armature|Abdomen
+    7401784: Armature|Inert //// Armature|Abdomen
+    7401786: Armature|Jogging //// Armature|Abdomen
+    7401788: Armature|Stand //// Armature|Abdomen
+    7401790: Armature|Stand 2 //// Armature|Abdomen
+    7401792: Armature|Walking //// Armature|Abdomen
+    7401794: Armature|DropThing //// Armature|Abdomen
+    7401796: Armature|Faceplant //// Armature|Torso
+    7401798: Armature|Falling //// Armature|Torso
+    7401800: Armature|Inert //// Armature|Torso
+    7401802: Armature|Jogging //// Armature|Torso
+    7401804: Armature|Stand //// Armature|Torso
+    7401806: Armature|Stand 2 //// Armature|Torso
+    7401808: Armature|Walking //// Armature|Torso
+    7401810: Armature|DropThing //// Armature|Torso
+    7401812: Armature|Faceplant //// Armature|R.Shoulder
+    7401814: Armature|Falling //// Armature|R.Shoulder
+    7401816: Armature|Inert //// Armature|R.Shoulder
+    7401818: Armature|Jogging //// Armature|R.Shoulder
+    7401820: Armature|Stand //// Armature|R.Shoulder
+    7401822: Armature|Stand 2 //// Armature|R.Shoulder
+    7401824: Armature|Walking //// Armature|R.Shoulder
+    7401826: Armature|DropThing //// Armature|R.Shoulder
+    7401828: Armature|Faceplant //// Armature|R.Arm
+    7401830: Armature|Falling //// Armature|R.Arm
+    7401832: Armature|Inert //// Armature|R.Arm
+    7401834: Armature|Jogging //// Armature|R.Arm
+    7401836: Armature|Stand //// Armature|R.Arm
+    7401838: Armature|Stand 2 //// Armature|R.Arm
+    7401840: Armature|Walking //// Armature|R.Arm
+    7401842: Armature|DropThing //// Armature|R.Arm
+    7401844: Armature|Faceplant //// Armature|R.Forearm
+    7401846: Armature|Falling //// Armature|R.Forearm
+    7401848: Armature|Inert //// Armature|R.Forearm
+    7401850: Armature|Jogging //// Armature|R.Forearm
+    7401852: Armature|Stand //// Armature|R.Forearm
+    7401854: Armature|Stand 2 //// Armature|R.Forearm
+    7401856: Armature|Walking //// Armature|R.Forearm
+    7401858: Armature|DropThing //// Armature|R.Forearm
+    7401860: Armature|Faceplant //// Armature|R.Hand
+    7401862: Armature|Falling //// Armature|R.Hand
+    7401864: Armature|Inert //// Armature|R.Hand
+    7401866: Armature|Jogging //// Armature|R.Hand
+    7401868: Armature|Stand //// Armature|R.Hand
+    7401870: Armature|Stand 2 //// Armature|R.Hand
+    7401872: Armature|Walking //// Armature|R.Hand
+    7401874: Armature|DropThing //// Armature|R.Hand
+    7401876: Armature|Faceplant //// Armature|L.Shoulder
+    7401878: Armature|Falling //// Armature|L.Shoulder
+    7401880: Armature|Inert //// Armature|L.Shoulder
+    7401882: Armature|Jogging //// Armature|L.Shoulder
+    7401884: Armature|Stand //// Armature|L.Shoulder
+    7401886: Armature|Stand 2 //// Armature|L.Shoulder
+    7401888: Armature|Walking //// Armature|L.Shoulder
+    7401890: Armature|DropThing //// Armature|L.Shoulder
+    7401892: Armature|Faceplant //// Armature|L.Arm
+    7401894: Armature|Falling //// Armature|L.Arm
+    7401896: Armature|Inert //// Armature|L.Arm
+    7401898: Armature|Jogging //// Armature|L.Arm
+    7401900: Armature|Stand //// Armature|L.Arm
+    7401902: Armature|Stand 2 //// Armature|L.Arm
+    7401904: Armature|Walking //// Armature|L.Arm
+    7401906: Armature|DropThing //// Armature|L.Arm
+    7401908: Armature|Faceplant //// Armature|L.Forearm
+    7401910: Armature|Falling //// Armature|L.Forearm
+    7401912: Armature|Inert //// Armature|L.Forearm
+    7401914: Armature|Jogging //// Armature|L.Forearm
+    7401916: Armature|Stand //// Armature|L.Forearm
+    7401918: Armature|Stand 2 //// Armature|L.Forearm
+    7401920: Armature|Walking //// Armature|L.Forearm
+    7401922: Armature|DropThing //// Armature|L.Forearm
+    7401924: Armature|Faceplant //// Armature|L.Hand
+    7401926: Armature|Falling //// Armature|L.Hand
+    7401928: Armature|Inert //// Armature|L.Hand
+    7401930: Armature|Jogging //// Armature|L.Hand
+    7401932: Armature|Stand //// Armature|L.Hand
+    7401934: Armature|Stand 2 //// Armature|L.Hand
+    7401936: Armature|Walking //// Armature|L.Hand
+    7401938: Armature|DropThing //// Armature|L.Hand
+    7401940: Armature|Faceplant //// Armature|Neck
+    7401942: Armature|Falling //// Armature|Neck
+    7401944: Armature|Inert //// Armature|Neck
+    7401946: Armature|Jogging //// Armature|Neck
+    7401948: Armature|Stand //// Armature|Neck
+    7401950: Armature|Stand 2 //// Armature|Neck
+    7401952: Armature|Walking //// Armature|Neck
+    7401954: Armature|DropThing //// Armature|Neck
+    7401956: Armature|Faceplant //// Armature|Head
+    7401958: Armature|Falling //// Armature|Head
+    7401960: Armature|Inert //// Armature|Head
+    7401962: Armature|Jogging //// Armature|Head
+    7401964: Armature|Stand //// Armature|Head
+    7401966: Armature|Stand 2 //// Armature|Head
+    7401968: Armature|Walking //// Armature|Head
+    7401970: Armature|DropThing //// Armature|Head
+    7401972: Armature|Faceplant //// Armature|RightBosom
+    7401974: Armature|Falling //// Armature|RightBosom
+    7401976: Armature|Inert //// Armature|RightBosom
+    7401978: Armature|Jogging //// Armature|RightBosom
+    7401980: Armature|Stand //// Armature|RightBosom
+    7401982: Armature|Stand 2 //// Armature|RightBosom
+    7401984: Armature|Walking //// Armature|RightBosom
+    7401986: Armature|DropThing //// Armature|RightBosom
+    7401988: Armature|Faceplant //// Armature|LeftBosom
+    7401990: Armature|Falling //// Armature|LeftBosom
+    7401992: Armature|Inert //// Armature|LeftBosom
+    7401994: Armature|Jogging //// Armature|LeftBosom
+    7401996: Armature|Stand //// Armature|LeftBosom
+    7401998: Armature|Stand 2 //// Armature|LeftBosom
+    7402000: Armature|Walking //// Armature|LeftBosom
+    7402002: Armature|DropThing //// Armature|LeftBosom
+    7402004: Armature|Faceplant //// Armature|L.Thigh
+    7402006: Armature|Falling //// Armature|L.Thigh
+    7402008: Armature|Inert //// Armature|L.Thigh
+    7402010: Armature|Jogging //// Armature|L.Thigh
+    7402012: Armature|Stand //// Armature|L.Thigh
+    7402014: Armature|Stand 2 //// Armature|L.Thigh
+    7402016: Armature|Walking //// Armature|L.Thigh
+    7402018: Armature|DropThing //// Armature|L.Thigh
+    7402020: Armature|Faceplant //// Armature|L.Ankle
+    7402022: Armature|Falling //// Armature|L.Ankle
+    7402024: Armature|Inert //// Armature|L.Ankle
+    7402026: Armature|Jogging //// Armature|L.Ankle
+    7402028: Armature|Stand //// Armature|L.Ankle
+    7402030: Armature|Stand 2 //// Armature|L.Ankle
+    7402032: Armature|Walking //// Armature|L.Ankle
+    7402034: Armature|DropThing //// Armature|L.Ankle
+    7402036: Armature|Faceplant //// Armature|L.Foot
+    7402038: Armature|Falling //// Armature|L.Foot
+    7402040: Armature|Inert //// Armature|L.Foot
+    7402042: Armature|Jogging //// Armature|L.Foot
+    7402044: Armature|Stand //// Armature|L.Foot
+    7402046: Armature|Stand 2 //// Armature|L.Foot
+    7402048: Armature|Walking //// Armature|L.Foot
+    7402050: Armature|DropThing //// Armature|L.Foot
+    7402052: Armature|Faceplant //// Armature|L.Toe
+    7402054: Armature|Falling //// Armature|L.Toe
+    7402056: Armature|Inert //// Armature|L.Toe
+    7402058: Armature|Jogging //// Armature|L.Toe
+    7402060: Armature|Stand //// Armature|L.Toe
+    7402062: Armature|Stand 2 //// Armature|L.Toe
+    7402064: Armature|Walking //// Armature|L.Toe
+    7402066: Armature|DropThing //// Armature|L.Toe
+    7402068: Armature|Faceplant //// Armature|R.Thigh
+    7402070: Armature|Falling //// Armature|R.Thigh
+    7402072: Armature|Inert //// Armature|R.Thigh
+    7402074: Armature|Jogging //// Armature|R.Thigh
+    7402076: Armature|Stand //// Armature|R.Thigh
+    7402078: Armature|Stand 2 //// Armature|R.Thigh
+    7402080: Armature|Walking //// Armature|R.Thigh
+    7402082: Armature|DropThing //// Armature|R.Thigh
+    7402084: Armature|Faceplant //// Armature|R.Ankle
+    7402086: Armature|Falling //// Armature|R.Ankle
+    7402088: Armature|Inert //// Armature|R.Ankle
+    7402090: Armature|Jogging //// Armature|R.Ankle
+    7402092: Armature|Stand //// Armature|R.Ankle
+    7402094: Armature|Stand 2 //// Armature|R.Ankle
+    7402096: Armature|Walking //// Armature|R.Ankle
+    7402098: Armature|DropThing //// Armature|R.Ankle
+    7402100: Armature|Faceplant //// Armature|R.Foot
+    7402102: Armature|Falling //// Armature|R.Foot
+    7402104: Armature|Inert //// Armature|R.Foot
+    7402106: Armature|Jogging //// Armature|R.Foot
+    7402108: Armature|Stand //// Armature|R.Foot
+    7402110: Armature|Stand 2 //// Armature|R.Foot
+    7402112: Armature|Walking //// Armature|R.Foot
+    7402114: Armature|DropThing //// Armature|R.Foot
+    7402116: Armature|Faceplant //// Armature|R.Toe
+    7402118: Armature|Falling //// Armature|R.Toe
+    7402120: Armature|Inert //// Armature|R.Toe
+    7402122: Armature|Jogging //// Armature|R.Toe
+    7402124: Armature|Stand //// Armature|R.Toe
+    7402126: Armature|Stand 2 //// Armature|R.Toe
+    7402128: Armature|Walking //// Armature|R.Toe
+    7402130: Armature|DropThing //// Armature|R.Toe
+    7402132: Armature|Faceplant //// Armature|Abdomen
+    7402134: Armature|Falling //// Armature|Abdomen
+    7402136: Armature|Inert //// Armature|Abdomen
+    7402138: Armature|Jogging //// Armature|Abdomen
+    7402140: Armature|Stand //// Armature|Abdomen
+    7402142: Armature|Stand 2 //// Armature|Abdomen
+    7402144: Armature|Walking //// Armature|Abdomen
+    7402146: Armature|DropThing //// Armature|Abdomen
+    7402148: Armature|Faceplant //// Armature|Torso
+    7402150: Armature|Falling //// Armature|Torso
+    7402152: Armature|Inert //// Armature|Torso
+    7402154: Armature|Jogging //// Armature|Torso
+    7402156: Armature|Stand //// Armature|Torso
+    7402158: Armature|Stand 2 //// Armature|Torso
+    7402160: Armature|Walking //// Armature|Torso
+    7402162: Armature|DropThing //// Armature|Torso
+    7402164: Armature|Faceplant //// Armature|R.Shoulder
+    7402166: Armature|Falling //// Armature|R.Shoulder
+    7402168: Armature|Inert //// Armature|R.Shoulder
+    7402170: Armature|Jogging //// Armature|R.Shoulder
+    7402172: Armature|Stand //// Armature|R.Shoulder
+    7402174: Armature|Stand 2 //// Armature|R.Shoulder
+    7402176: Armature|Walking //// Armature|R.Shoulder
+    7402178: Armature|DropThing //// Armature|R.Shoulder
+    7402180: Armature|Faceplant //// Armature|R.Arm
+    7402182: Armature|Falling //// Armature|R.Arm
+    7402184: Armature|Inert //// Armature|R.Arm
+    7402186: Armature|Jogging //// Armature|R.Arm
+    7402188: Armature|Stand //// Armature|R.Arm
+    7402190: Armature|Stand 2 //// Armature|R.Arm
+    7402192: Armature|Walking //// Armature|R.Arm
+    7402194: Armature|DropThing //// Armature|R.Arm
+    7402196: Armature|Faceplant //// Armature|R.Forearm
+    7402198: Armature|Falling //// Armature|R.Forearm
+    7402200: Armature|Inert //// Armature|R.Forearm
+    7402202: Armature|Jogging //// Armature|R.Forearm
+    7402204: Armature|Stand //// Armature|R.Forearm
+    7402206: Armature|Stand 2 //// Armature|R.Forearm
+    7402208: Armature|Walking //// Armature|R.Forearm
+    7402210: Armature|DropThing //// Armature|R.Forearm
+    7402212: Armature|Faceplant //// Armature|R.Hand
+    7402214: Armature|Falling //// Armature|R.Hand
+    7402216: Armature|Inert //// Armature|R.Hand
+    7402218: Armature|Jogging //// Armature|R.Hand
+    7402220: Armature|Stand //// Armature|R.Hand
+    7402222: Armature|Stand 2 //// Armature|R.Hand
+    7402224: Armature|Walking //// Armature|R.Hand
+    7402226: Armature|DropThing //// Armature|R.Hand
+    7402228: Armature|Faceplant //// Armature|L.Shoulder
+    7402230: Armature|Falling //// Armature|L.Shoulder
+    7402232: Armature|Inert //// Armature|L.Shoulder
+    7402234: Armature|Jogging //// Armature|L.Shoulder
+    7402236: Armature|Stand //// Armature|L.Shoulder
+    7402238: Armature|Stand 2 //// Armature|L.Shoulder
+    7402240: Armature|Walking //// Armature|L.Shoulder
+    7402242: Armature|DropThing //// Armature|L.Shoulder
+    7402244: Armature|Faceplant //// Armature|L.Arm
+    7402246: Armature|Falling //// Armature|L.Arm
+    7402248: Armature|Inert //// Armature|L.Arm
+    7402250: Armature|Jogging //// Armature|L.Arm
+    7402252: Armature|Stand //// Armature|L.Arm
+    7402254: Armature|Stand 2 //// Armature|L.Arm
+    7402256: Armature|Walking //// Armature|L.Arm
+    7402258: Armature|DropThing //// Armature|L.Arm
+    7402260: Armature|Faceplant //// Armature|L.Forearm
+    7402262: Armature|Falling //// Armature|L.Forearm
+    7402264: Armature|Inert //// Armature|L.Forearm
+    7402266: Armature|Jogging //// Armature|L.Forearm
+    7402268: Armature|Stand //// Armature|L.Forearm
+    7402270: Armature|Stand 2 //// Armature|L.Forearm
+    7402272: Armature|Walking //// Armature|L.Forearm
+    7402274: Armature|DropThing //// Armature|L.Forearm
+    7402276: Armature|Faceplant //// Armature|L.Hand
+    7402278: Armature|Falling //// Armature|L.Hand
+    7402280: Armature|Inert //// Armature|L.Hand
+    7402282: Armature|Jogging //// Armature|L.Hand
+    7402284: Armature|Stand //// Armature|L.Hand
+    7402286: Armature|Stand 2 //// Armature|L.Hand
+    7402288: Armature|Walking //// Armature|L.Hand
+    7402290: Armature|DropThing //// Armature|L.Hand
+    7402292: Armature|Faceplant //// Armature|Neck
+    7402294: Armature|Falling //// Armature|Neck
+    7402296: Armature|Inert //// Armature|Neck
+    7402298: Armature|Jogging //// Armature|Neck
+    7402300: Armature|Stand //// Armature|Neck
+    7402302: Armature|Stand 2 //// Armature|Neck
+    7402304: Armature|Walking //// Armature|Neck
+    7402306: Armature|DropThing //// Armature|Neck
+    7402308: Armature|Faceplant //// Armature|Head
+    7402310: Armature|Falling //// Armature|Head
+    7402312: Armature|Inert //// Armature|Head
+    7402314: Armature|Jogging //// Armature|Head
+    7402316: Armature|Stand //// Armature|Head
+    7402318: Armature|Stand 2 //// Armature|Head
+    7402320: Armature|Walking //// Armature|Head
+    7402322: Armature|DropThing //// Armature|Head
+    7402324: Armature|Faceplant //// Armature|RightBosom
+    7402326: Armature|Falling //// Armature|RightBosom
+    7402328: Armature|Inert //// Armature|RightBosom
+    7402330: Armature|Jogging //// Armature|RightBosom
+    7402332: Armature|Stand //// Armature|RightBosom
+    7402334: Armature|Stand 2 //// Armature|RightBosom
+    7402336: Armature|Walking //// Armature|RightBosom
+    7402338: Armature|DropThing //// Armature|RightBosom
+    7402340: Armature|Faceplant //// Armature|LeftBosom
+    7402342: Armature|Falling //// Armature|LeftBosom
+    7402344: Armature|Inert //// Armature|LeftBosom
+    7402346: Armature|Jogging //// Armature|LeftBosom
+    7402348: Armature|Stand //// Armature|LeftBosom
+    7402350: Armature|Stand 2 //// Armature|LeftBosom
+    7402352: Armature|Walking //// Armature|LeftBosom
+    7402354: Armature|DropThing //// Armature|LeftBosom
+    7402356: Armature|Faceplant //// Armature|L.Thigh
+    7402358: Armature|Falling //// Armature|L.Thigh
+    7402360: Armature|Inert //// Armature|L.Thigh
+    7402362: Armature|Jogging //// Armature|L.Thigh
+    7402364: Armature|Stand //// Armature|L.Thigh
+    7402366: Armature|Stand 2 //// Armature|L.Thigh
+    7402368: Armature|Walking //// Armature|L.Thigh
+    7402370: Armature|DropThing //// Armature|L.Thigh
+    7402372: Armature|Faceplant //// Armature|L.Ankle
+    7402374: Armature|Falling //// Armature|L.Ankle
+    7402376: Armature|Inert //// Armature|L.Ankle
+    7402378: Armature|Jogging //// Armature|L.Ankle
+    7402380: Armature|Stand //// Armature|L.Ankle
+    7402382: Armature|Stand 2 //// Armature|L.Ankle
+    7402384: Armature|Walking //// Armature|L.Ankle
+    7402386: Armature|DropThing //// Armature|L.Ankle
+    7402388: Armature|Faceplant //// Armature|L.Foot
+    7402390: Armature|Falling //// Armature|L.Foot
+    7402392: Armature|Inert //// Armature|L.Foot
+    7402394: Armature|Jogging //// Armature|L.Foot
+    7402396: Armature|Stand //// Armature|L.Foot
+    7402398: Armature|Stand 2 //// Armature|L.Foot
+    7402400: Armature|Walking //// Armature|L.Foot
+    7402402: Armature|DropThing //// Armature|L.Foot
+    7402404: Armature|Faceplant //// Armature|L.Toe
+    7402406: Armature|Falling //// Armature|L.Toe
+    7402408: Armature|Inert //// Armature|L.Toe
+    7402410: Armature|Jogging //// Armature|L.Toe
+    7402412: Armature|Stand //// Armature|L.Toe
+    7402414: Armature|Stand 2 //// Armature|L.Toe
+    7402416: Armature|Walking //// Armature|L.Toe
+    7402418: Armature|DropThing //// Armature|L.Toe
+    7402420: Armature|Faceplant //// Armature|R.Thigh
+    7402422: Armature|Falling //// Armature|R.Thigh
+    7402424: Armature|Inert //// Armature|R.Thigh
+    7402426: Armature|Jogging //// Armature|R.Thigh
+    7402428: Armature|Stand //// Armature|R.Thigh
+    7402430: Armature|Stand 2 //// Armature|R.Thigh
+    7402432: Armature|Walking //// Armature|R.Thigh
+    7402434: Armature|DropThing //// Armature|R.Thigh
+    7402436: Armature|Faceplant //// Armature|R.Ankle
+    7402438: Armature|Falling //// Armature|R.Ankle
+    7402440: Armature|Inert //// Armature|R.Ankle
+    7402442: Armature|Jogging //// Armature|R.Ankle
+    7402444: Armature|Stand //// Armature|R.Ankle
+    7402446: Armature|Stand 2 //// Armature|R.Ankle
+    7402448: Armature|Walking //// Armature|R.Ankle
+    7402450: Armature|DropThing //// Armature|R.Ankle
+    7402452: Armature|Faceplant //// Armature|R.Foot
+    7402454: Armature|Falling //// Armature|R.Foot
+    7402456: Armature|Inert //// Armature|R.Foot
+    7402458: Armature|Jogging //// Armature|R.Foot
+    7402460: Armature|Stand //// Armature|R.Foot
+    7402462: Armature|Stand 2 //// Armature|R.Foot
+    7402464: Armature|Walking //// Armature|R.Foot
+    7402466: Armature|DropThing //// Armature|R.Foot
+    7402468: Armature|Faceplant //// Armature|R.Toe
+    7402470: Armature|Falling //// Armature|R.Toe
+    7402472: Armature|Inert //// Armature|R.Toe
+    7402474: Armature|Jogging //// Armature|R.Toe
+    7402476: Armature|Stand //// Armature|R.Toe
+    7402478: Armature|Stand 2 //// Armature|R.Toe
+    7402480: Armature|Walking //// Armature|R.Toe
+    7402482: Armature|DropThing //// Armature|R.Toe
+    7402484: Armature|Faceplant //// Armature|Abdomen
+    7402486: Armature|Falling //// Armature|Abdomen
+    7402488: Armature|Inert //// Armature|Abdomen
+    7402490: Armature|Jogging //// Armature|Abdomen
+    7402492: Armature|Stand //// Armature|Abdomen
+    7402494: Armature|Stand 2 //// Armature|Abdomen
+    7402496: Armature|Walking //// Armature|Abdomen
+    7402498: Armature|DropThing //// Armature|Abdomen
+    7402500: Armature|Faceplant //// Armature|Torso
+    7402502: Armature|Falling //// Armature|Torso
+    7402504: Armature|Inert //// Armature|Torso
+    7402506: Armature|Jogging //// Armature|Torso
+    7402508: Armature|Stand //// Armature|Torso
+    7402510: Armature|Stand 2 //// Armature|Torso
+    7402512: Armature|Walking //// Armature|Torso
+    7402514: Armature|DropThing //// Armature|Torso
+    7402516: Armature|Faceplant //// Armature|R.Shoulder
+    7402518: Armature|Falling //// Armature|R.Shoulder
+    7402520: Armature|Inert //// Armature|R.Shoulder
+    7402522: Armature|Jogging //// Armature|R.Shoulder
+    7402524: Armature|Stand //// Armature|R.Shoulder
+    7402526: Armature|Stand 2 //// Armature|R.Shoulder
+    7402528: Armature|Walking //// Armature|R.Shoulder
+    7402530: Armature|DropThing //// Armature|R.Shoulder
+    7402532: Armature|Faceplant //// Armature|R.Arm
+    7402534: Armature|Falling //// Armature|R.Arm
+    7402536: Armature|Inert //// Armature|R.Arm
+    7402538: Armature|Jogging //// Armature|R.Arm
+    7402540: Armature|Stand //// Armature|R.Arm
+    7402542: Armature|Stand 2 //// Armature|R.Arm
+    7402544: Armature|Walking //// Armature|R.Arm
+    7402546: Armature|DropThing //// Armature|R.Arm
+    7402548: Armature|Faceplant //// Armature|R.Forearm
+    7402550: Armature|Falling //// Armature|R.Forearm
+    7402552: Armature|Inert //// Armature|R.Forearm
+    7402554: Armature|Jogging //// Armature|R.Forearm
+    7402556: Armature|Stand //// Armature|R.Forearm
+    7402558: Armature|Stand 2 //// Armature|R.Forearm
+    7402560: Armature|Walking //// Armature|R.Forearm
+    7402562: Armature|DropThing //// Armature|R.Forearm
+    7402564: Armature|Faceplant //// Armature|R.Hand
+    7402566: Armature|Falling //// Armature|R.Hand
+    7402568: Armature|Inert //// Armature|R.Hand
+    7402570: Armature|Jogging //// Armature|R.Hand
+    7402572: Armature|Stand //// Armature|R.Hand
+    7402574: Armature|Stand 2 //// Armature|R.Hand
+    7402576: Armature|Walking //// Armature|R.Hand
+    7402578: Armature|DropThing //// Armature|R.Hand
+    7402580: Armature|Faceplant //// Armature|L.Shoulder
+    7402582: Armature|Falling //// Armature|L.Shoulder
+    7402584: Armature|Inert //// Armature|L.Shoulder
+    7402586: Armature|Jogging //// Armature|L.Shoulder
+    7402588: Armature|Stand //// Armature|L.Shoulder
+    7402590: Armature|Stand 2 //// Armature|L.Shoulder
+    7402592: Armature|Walking //// Armature|L.Shoulder
+    7402594: Armature|DropThing //// Armature|L.Shoulder
+    7402596: Armature|Faceplant //// Armature|L.Arm
+    7402598: Armature|Falling //// Armature|L.Arm
+    7402600: Armature|Inert //// Armature|L.Arm
+    7402602: Armature|Jogging //// Armature|L.Arm
+    7402604: Armature|Stand //// Armature|L.Arm
+    7402606: Armature|Stand 2 //// Armature|L.Arm
+    7402608: Armature|Walking //// Armature|L.Arm
+    7402610: Armature|DropThing //// Armature|L.Arm
+    7402612: Armature|Faceplant //// Armature|L.Forearm
+    7402614: Armature|Falling //// Armature|L.Forearm
+    7402616: Armature|Inert //// Armature|L.Forearm
+    7402618: Armature|Jogging //// Armature|L.Forearm
+    7402620: Armature|Stand //// Armature|L.Forearm
+    7402622: Armature|Stand 2 //// Armature|L.Forearm
+    7402624: Armature|Walking //// Armature|L.Forearm
+    7402626: Armature|DropThing //// Armature|L.Forearm
+    7402628: Armature|Faceplant //// Armature|L.Hand
+    7402630: Armature|Falling //// Armature|L.Hand
+    7402632: Armature|Inert //// Armature|L.Hand
+    7402634: Armature|Jogging //// Armature|L.Hand
+    7402636: Armature|Stand //// Armature|L.Hand
+    7402638: Armature|Stand 2 //// Armature|L.Hand
+    7402640: Armature|Walking //// Armature|L.Hand
+    7402642: Armature|DropThing //// Armature|L.Hand
+    7402644: Armature|Faceplant //// Armature|Neck
+    7402646: Armature|Falling //// Armature|Neck
+    7402648: Armature|Inert //// Armature|Neck
+    7402650: Armature|Jogging //// Armature|Neck
+    7402652: Armature|Stand //// Armature|Neck
+    7402654: Armature|Stand 2 //// Armature|Neck
+    7402656: Armature|Walking //// Armature|Neck
+    7402658: Armature|DropThing //// Armature|Neck
+    7402660: Armature|Faceplant //// Armature|RightBosom
+    7402662: Armature|Falling //// Armature|RightBosom
+    7402664: Armature|Inert //// Armature|RightBosom
+    7402666: Armature|Jogging //// Armature|RightBosom
+    7402668: Armature|Stand //// Armature|RightBosom
+    7402670: Armature|Stand 2 //// Armature|RightBosom
+    7402672: Armature|Walking //// Armature|RightBosom
+    7402674: Armature|DropThing //// Armature|RightBosom
+    7402676: Armature|Faceplant //// Armature|LeftBosom
+    7402678: Armature|Falling //// Armature|LeftBosom
+    7402680: Armature|Inert //// Armature|LeftBosom
+    7402682: Armature|Jogging //// Armature|LeftBosom
+    7402684: Armature|Stand //// Armature|LeftBosom
+    7402686: Armature|Stand 2 //// Armature|LeftBosom
+    7402688: Armature|Walking //// Armature|LeftBosom
+    7402690: Armature|DropThing //// Armature|LeftBosom
+    7402692: Armature|Faceplant //// Armature|L.Thigh
+    7402694: Armature|Falling //// Armature|L.Thigh
+    7402696: Armature|Inert //// Armature|L.Thigh
+    7402698: Armature|Jogging //// Armature|L.Thigh
+    7402700: Armature|Stand //// Armature|L.Thigh
+    7402702: Armature|Stand 2 //// Armature|L.Thigh
+    7402704: Armature|Walking //// Armature|L.Thigh
+    7402706: Armature|DropThing //// Armature|L.Thigh
+    7402708: Armature|Faceplant //// Armature|L.Ankle
+    7402710: Armature|Falling //// Armature|L.Ankle
+    7402712: Armature|Inert //// Armature|L.Ankle
+    7402714: Armature|Jogging //// Armature|L.Ankle
+    7402716: Armature|Stand //// Armature|L.Ankle
+    7402718: Armature|Stand 2 //// Armature|L.Ankle
+    7402720: Armature|Walking //// Armature|L.Ankle
+    7402722: Armature|DropThing //// Armature|L.Ankle
+    7402724: Armature|Faceplant //// Armature|L.Foot
+    7402726: Armature|Falling //// Armature|L.Foot
+    7402728: Armature|Inert //// Armature|L.Foot
+    7402730: Armature|Jogging //// Armature|L.Foot
+    7402732: Armature|Stand //// Armature|L.Foot
+    7402734: Armature|Stand 2 //// Armature|L.Foot
+    7402736: Armature|Walking //// Armature|L.Foot
+    7402738: Armature|DropThing //// Armature|L.Foot
+    7402740: Armature|Faceplant //// Armature|L.Toe
+    7402742: Armature|Falling //// Armature|L.Toe
+    7402744: Armature|Inert //// Armature|L.Toe
+    7402746: Armature|Jogging //// Armature|L.Toe
+    7402748: Armature|Stand //// Armature|L.Toe
+    7402750: Armature|Stand 2 //// Armature|L.Toe
+    7402752: Armature|Walking //// Armature|L.Toe
+    7402754: Armature|DropThing //// Armature|L.Toe
+    7402756: Armature|Faceplant //// Armature|R.Thigh
+    7402758: Armature|Falling //// Armature|R.Thigh
+    7402760: Armature|Inert //// Armature|R.Thigh
+    7402762: Armature|Jogging //// Armature|R.Thigh
+    7402764: Armature|Stand //// Armature|R.Thigh
+    7402766: Armature|Stand 2 //// Armature|R.Thigh
+    7402768: Armature|Walking //// Armature|R.Thigh
+    7402770: Armature|DropThing //// Armature|R.Thigh
+    7402772: Armature|Faceplant //// Armature|R.Ankle
+    7402774: Armature|Falling //// Armature|R.Ankle
+    7402776: Armature|Inert //// Armature|R.Ankle
+    7402778: Armature|Jogging //// Armature|R.Ankle
+    7402780: Armature|Stand //// Armature|R.Ankle
+    7402782: Armature|Stand 2 //// Armature|R.Ankle
+    7402784: Armature|Walking //// Armature|R.Ankle
+    7402786: Armature|DropThing //// Armature|R.Ankle
+    7402788: Armature|Faceplant //// Armature|R.Foot
+    7402790: Armature|Falling //// Armature|R.Foot
+    7402792: Armature|Inert //// Armature|R.Foot
+    7402794: Armature|Jogging //// Armature|R.Foot
+    7402796: Armature|Stand //// Armature|R.Foot
+    7402798: Armature|Stand 2 //// Armature|R.Foot
+    7402800: Armature|Walking //// Armature|R.Foot
+    7402802: Armature|DropThing //// Armature|R.Foot
+    7402804: Armature|Faceplant //// Armature|R.Toe
+    7402806: Armature|Falling //// Armature|R.Toe
+    7402808: Armature|Inert //// Armature|R.Toe
+    7402810: Armature|Jogging //// Armature|R.Toe
+    7402812: Armature|Stand //// Armature|R.Toe
+    7402814: Armature|Stand 2 //// Armature|R.Toe
+    7402816: Armature|Walking //// Armature|R.Toe
+    7402818: Armature|DropThing //// Armature|R.Toe
+    7402820: Armature|Faceplant //// Armature
+    7402822: Armature|Falling //// Armature
+    7402824: Armature|Inert //// Armature
+    7402826: Armature|Jogging //// Armature
+    7402828: Armature|Stand //// Armature
+    7402830: Armature|Stand 2 //// Armature
+    7402832: Armature|Walking //// Armature
+    7402834: Armature|DropThing //// Armature
+    7402836: Armature|Faceplant //// Armature
+    7402838: Armature|Falling //// Armature
+    7402840: Armature|Inert //// Armature
+    7402842: Armature|Jogging //// Armature
+    7402844: Armature|Stand //// Armature
+    7402846: Armature|Stand 2 //// Armature
+    7402848: Armature|Walking //// Armature
+    7402850: Armature|DropThing //// Armature
+    7402852: Armature|Faceplant //// Armature
+    7402854: Armature|Falling //// Armature
+    7402856: Armature|Inert //// Armature
+    7402858: Armature|Jogging //// Armature
+    7402860: Armature|Stand //// Armature
+    7402862: Armature|Stand 2 //// Armature
+    7402864: Armature|Walking //// Armature
+    7402866: Armature|DropThing //// Armature
+    7402868: Armature|Faceplant //// Armature
+    7402870: Armature|Falling //// Armature
+    7402872: Armature|Inert //// Armature
+    7402874: Armature|Jogging //// Armature
+    7402876: Armature|Stand //// Armature
+    7402878: Armature|Stand 2 //// Armature
+    7402880: Armature|Walking //// Armature
+    7402882: Armature|DropThing //// Armature
+    7402884: Armature|Faceplant //// Armature
+    7402886: Armature|Falling //// Armature
+    7402888: Armature|Inert //// Armature
+    7402890: Armature|Jogging //// Armature
+    7402892: Armature|Stand //// Armature
+    7402894: Armature|Stand 2 //// Armature
+    7402896: Armature|Walking //// Armature
+    7402898: Armature|DropThing //// Armature
+    7402900: Armature|Faceplant //// Armature
+    7402902: Armature|Falling //// Armature
+    7402904: Armature|Inert //// Armature
+    7402906: Armature|Jogging //// Armature
+    7402908: Armature|Stand //// Armature
+    7402910: Armature|Stand 2 //// Armature
+    7402912: Armature|Walking //// Armature
+    7402914: Armature|DropThing //// Armature
+    7402916: Armature|Faceplant //// Armature
+    7402918: Armature|Falling //// Armature
+    7402920: Armature|Inert //// Armature
+    7402922: Armature|Jogging //// Armature
+    7402924: Armature|Stand //// Armature
+    7402926: Armature|Stand 2 //// Armature
+    7402928: Armature|Walking //// Armature
+    7402930: Armature|DropThing //// Armature
+    7402932: Armature|Faceplant //// Armature
+    7402934: Armature|Falling //// Armature
+    7402936: Armature|Inert //// Armature
+    7402938: Armature|Jogging //// Armature
+    7402940: Armature|Stand //// Armature
+    7402942: Armature|Stand 2 //// Armature
+    7402944: Armature|Walking //// Armature
+    7402946: Armature|DropThing //// Armature
+    7402948: Armature|WalkingLB
+    7402950: PiriArmature|Faceplant
+    7402952: PiriArmature|Falling
+    7402954: PiriArmature|Jogging
+    7402956: PiriArmature|Stand
+    7402958: PiriArmature|Stand 2
+    7402960: PiriArmature|Walking
+    7402962: PiriArmature|DropThing
+    7402964: PiriArmature|Jump
+    7402966: PiriArmature|Land
+    7402968: PiriArmature|MotusRide
+    7402970: PiriArmature|Kick
+    7402972: PiriArmature|Floating
+    7402974: PiriArmature|FloatingF
+    7402976: PiriArmature|Swimming
+    7402978: PiriArmature|CepstolRide
+    7402980: PiriArmature|Holding
+    7402982: PiriArmature|HoldingOn
+    7402984: PiriArmature|HoldingW
+    9500000: //RootNode
+    11100000: //RootNode
+    11100002: Armature
+    11100004: Armature|Abdomen
+    11100006: Armature|Head
+    11100008: Armature|L.Ankle
+    11100010: Armature|L.Arm
+    11100012: Armature|L.Foot
+    11100014: Armature|L.Forearm
+    11100016: Armature|L.Hand
+    11100018: Armature|L.Shoulder
+    11100020: Armature|L.Thigh
+    11100022: Armature|L.Toe
+    11100024: Armature|LeftBosom
+    11100026: Armature|Neck
+    11100028: Armature|R.Ankle
+    11100030: Armature|R.Arm
+    11100032: Armature|R.Foot
+    11100034: Armature|R.Forearm
+    11100036: Armature|R.Hand
+    11100038: Armature|R.Shoulder
+    11100040: Armature|R.Thigh
+    11100042: Armature|R.Toe
+    11100044: Armature|RightBosom
+    11100046: Armature|Torso
+    11100048: Body
+    11100050: Camera
+    11100052: Eye
+    11100054: Eyelids
+    11100056: Eyelids2
+    11100058: Hand
+    11100060: Lamp
+    13700000: Body
+    13700002: PiriHead
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PiriArmature|Faceplant
+      takeName: PiriArmature|Faceplant
+      firstFrame: 0
+      lastFrame: 98
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Abdomen
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|LeftBosom
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|RightBosom
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm/Armature|L.Forearm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm/Armature|L.Forearm/Armature|L.Hand
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|Neck
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|Neck/Armature|Head
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm/Armature|R.Forearm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm/Armature|R.Forearm/Armature|R.Hand
+        weight: 1
+      - path: Armature/Armature|L.Thigh
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle/Armature|L.Foot
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle/Armature|L.Foot/Armature|L.Toe
+        weight: 1
+      - path: Armature/Armature|R.Thigh
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle/Armature|R.Foot
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle/Armature|R.Foot/Armature|R.Toe
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|Falling
+      takeName: PiriArmature|Falling
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Abdomen
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|LeftBosom
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|RightBosom
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm/Armature|L.Forearm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm/Armature|L.Forearm/Armature|L.Hand
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|Neck
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|Neck/Armature|Head
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm/Armature|R.Forearm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm/Armature|R.Forearm/Armature|R.Hand
+        weight: 1
+      - path: Armature/Armature|L.Thigh
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle/Armature|L.Foot
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle/Armature|L.Foot/Armature|L.Toe
+        weight: 1
+      - path: Armature/Armature|R.Thigh
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle/Armature|R.Foot
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle/Armature|R.Foot/Armature|R.Toe
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|Jogging
+      takeName: PiriArmature|Jogging
+      firstFrame: 0
+      lastFrame: 23
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Abdomen
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|LeftBosom
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|RightBosom
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm/Armature|L.Forearm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm/Armature|L.Forearm/Armature|L.Hand
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|Neck
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|Neck/Armature|Head
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm/Armature|R.Forearm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm/Armature|R.Forearm/Armature|R.Hand
+        weight: 1
+      - path: Armature/Armature|L.Thigh
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle/Armature|L.Foot
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle/Armature|L.Foot/Armature|L.Toe
+        weight: 1
+      - path: Armature/Armature|R.Thigh
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle/Armature|R.Foot
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle/Armature|R.Foot/Armature|R.Toe
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|Stand
+      takeName: PiriArmature|Stand
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Abdomen
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|LeftBosom
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|RightBosom
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm/Armature|L.Forearm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm/Armature|L.Forearm/Armature|L.Hand
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|Neck
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|Neck/Armature|Head
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm/Armature|R.Forearm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm/Armature|R.Forearm/Armature|R.Hand
+        weight: 1
+      - path: Armature/Armature|L.Thigh
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle/Armature|L.Foot
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle/Armature|L.Foot/Armature|L.Toe
+        weight: 1
+      - path: Armature/Armature|R.Thigh
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle/Armature|R.Foot
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle/Armature|R.Foot/Armature|R.Toe
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|Stand 2
+      takeName: PiriArmature|Stand 2
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Abdomen
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|LeftBosom
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|RightBosom
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm/Armature|L.Forearm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm/Armature|L.Forearm/Armature|L.Hand
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|Neck
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|Neck/Armature|Head
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm/Armature|R.Forearm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm/Armature|R.Forearm/Armature|R.Hand
+        weight: 1
+      - path: Armature/Armature|L.Thigh
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle/Armature|L.Foot
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle/Armature|L.Foot/Armature|L.Toe
+        weight: 1
+      - path: Armature/Armature|R.Thigh
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle/Armature|R.Foot
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle/Armature|R.Foot/Armature|R.Toe
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|Walking
+      takeName: PiriArmature|Walking
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Abdomen
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|LeftBosom
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|RightBosom
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm/Armature|L.Forearm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm/Armature|L.Forearm/Armature|L.Hand
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|Neck
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|Neck/Armature|Head
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm/Armature|R.Forearm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm/Armature|R.Forearm/Armature|R.Hand
+        weight: 1
+      - path: Armature/Armature|L.Thigh
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle/Armature|L.Foot
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle/Armature|L.Foot/Armature|L.Toe
+        weight: 1
+      - path: Armature/Armature|R.Thigh
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle/Armature|R.Foot
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle/Armature|R.Foot/Armature|R.Toe
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|DropThing
+      takeName: PiriArmature|DropThing
+      firstFrame: 0
+      lastFrame: 27
+      wrapMode: 1
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Armature|Abdomen
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|LeftBosom
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|RightBosom
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm/Armature|L.Forearm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|L.Shoulder/Armature|L.Arm/Armature|L.Forearm/Armature|L.Hand
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|Neck
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|Neck/Armature|Head
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm/Armature|R.Forearm
+        weight: 1
+      - path: Armature/Armature|Abdomen/Armature|Torso/Armature|R.Shoulder/Armature|R.Arm/Armature|R.Forearm/Armature|R.Hand
+        weight: 1
+      - path: Armature/Armature|L.Thigh
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle/Armature|L.Foot
+        weight: 1
+      - path: Armature/Armature|L.Thigh/Armature|L.Ankle/Armature|L.Foot/Armature|L.Toe
+        weight: 1
+      - path: Armature/Armature|R.Thigh
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle/Armature|R.Foot
+        weight: 1
+      - path: Armature/Armature|R.Thigh/Armature|R.Ankle/Armature|R.Foot/Armature|R.Toe
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: Lamp
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|Jump
+      takeName: PiriArmature|Jump
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: HandGunHold
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: PiriArmature
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|LeftBosom
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|RightBosom
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|L.Shoulder
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|L.Shoulder/PiriArmature|L.Arm
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|L.Shoulder/PiriArmature|L.Arm/PiriArmature|L.Forearm
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|L.Shoulder/PiriArmature|L.Arm/PiriArmature|L.Forearm/PiriArmature|L.Hand
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|Neck
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|Neck/PiriArmature|Head
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|R.Shoulder
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|R.Shoulder/PiriArmature|R.Arm
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|R.Shoulder/PiriArmature|R.Arm/PiriArmature|R.Forearm
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|R.Shoulder/PiriArmature|R.Arm/PiriArmature|R.Forearm/PiriArmature|R.Hand
+        weight: 1
+      - path: PiriArmature/PiriArmature|L.Thigh
+        weight: 1
+      - path: PiriArmature/PiriArmature|L.Thigh/PiriArmature|L.Ankle
+        weight: 1
+      - path: PiriArmature/PiriArmature|L.Thigh/PiriArmature|L.Ankle/PiriArmature|L.Foot
+        weight: 1
+      - path: PiriArmature/PiriArmature|L.Thigh/PiriArmature|L.Ankle/PiriArmature|L.Foot/PiriArmature|L.Toe
+        weight: 1
+      - path: PiriArmature/PiriArmature|R.Thigh
+        weight: 1
+      - path: PiriArmature/PiriArmature|R.Thigh/PiriArmature|R.Ankle
+        weight: 1
+      - path: PiriArmature/PiriArmature|R.Thigh/PiriArmature|R.Ankle/PiriArmature|R.Foot
+        weight: 1
+      - path: PiriArmature/PiriArmature|R.Thigh/PiriArmature|R.Ankle/PiriArmature|R.Foot/PiriArmature|R.Toe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|Land
+      takeName: PiriArmature|Land
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 4
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: HandGunHold
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: PiriArmature
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|LeftBosom
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|RightBosom
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|L.Shoulder
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|L.Shoulder/PiriArmature|L.Arm
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|L.Shoulder/PiriArmature|L.Arm/PiriArmature|L.Forearm
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|L.Shoulder/PiriArmature|L.Arm/PiriArmature|L.Forearm/PiriArmature|L.Hand
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|Neck
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|Neck/PiriArmature|Head
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|R.Shoulder
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|R.Shoulder/PiriArmature|R.Arm
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|R.Shoulder/PiriArmature|R.Arm/PiriArmature|R.Forearm
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|R.Shoulder/PiriArmature|R.Arm/PiriArmature|R.Forearm/PiriArmature|R.Hand
+        weight: 1
+      - path: PiriArmature/PiriArmature|L.Thigh
+        weight: 1
+      - path: PiriArmature/PiriArmature|L.Thigh/PiriArmature|L.Ankle
+        weight: 1
+      - path: PiriArmature/PiriArmature|L.Thigh/PiriArmature|L.Ankle/PiriArmature|L.Foot
+        weight: 1
+      - path: PiriArmature/PiriArmature|L.Thigh/PiriArmature|L.Ankle/PiriArmature|L.Foot/PiriArmature|L.Toe
+        weight: 1
+      - path: PiriArmature/PiriArmature|R.Thigh
+        weight: 1
+      - path: PiriArmature/PiriArmature|R.Thigh/PiriArmature|R.Ankle
+        weight: 1
+      - path: PiriArmature/PiriArmature|R.Thigh/PiriArmature|R.Ankle/PiriArmature|R.Foot
+        weight: 1
+      - path: PiriArmature/PiriArmature|R.Thigh/PiriArmature|R.Ankle/PiriArmature|R.Foot/PiriArmature|R.Toe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|MotusRide
+      takeName: PiriArmature|MotusRide
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: HandGunHold
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: PiriArmature
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|LeftBosom
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|RightBosom
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|L.Shoulder
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|L.Shoulder/PiriArmature|L.Arm
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|L.Shoulder/PiriArmature|L.Arm/PiriArmature|L.Forearm
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|L.Shoulder/PiriArmature|L.Arm/PiriArmature|L.Forearm/PiriArmature|L.Hand
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|Neck
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|Neck/PiriArmature|Head
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|R.Shoulder
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|R.Shoulder/PiriArmature|R.Arm
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|R.Shoulder/PiriArmature|R.Arm/PiriArmature|R.Forearm
+        weight: 1
+      - path: PiriArmature/PiriArmature|Abdomen/PiriArmature|Torso/PiriArmature|R.Shoulder/PiriArmature|R.Arm/PiriArmature|R.Forearm/PiriArmature|R.Hand
+        weight: 1
+      - path: PiriArmature/PiriArmature|L.Thigh
+        weight: 1
+      - path: PiriArmature/PiriArmature|L.Thigh/PiriArmature|L.Ankle
+        weight: 1
+      - path: PiriArmature/PiriArmature|L.Thigh/PiriArmature|L.Ankle/PiriArmature|L.Foot
+        weight: 1
+      - path: PiriArmature/PiriArmature|L.Thigh/PiriArmature|L.Ankle/PiriArmature|L.Foot/PiriArmature|L.Toe
+        weight: 1
+      - path: PiriArmature/PiriArmature|R.Thigh
+        weight: 1
+      - path: PiriArmature/PiriArmature|R.Thigh/PiriArmature|R.Ankle
+        weight: 1
+      - path: PiriArmature/PiriArmature|R.Thigh/PiriArmature|R.Ankle/PiriArmature|R.Foot
+        weight: 1
+      - path: PiriArmature/PiriArmature|R.Thigh/PiriArmature|R.Ankle/PiriArmature|R.Foot/PiriArmature|R.Toe
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|Kick
+      takeName: PiriArmature|Kick
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 8
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Camera
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: HandGunHold
+        weight: 1
+      - path: Lamp
+        weight: 1
+      - path: PiriArmature
+        weight: 1
+      - path: PiriArmature/Abdomen
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom/LeftBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom/RightBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand/L.Hand_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head/Head_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand/R.Hand_end
+        weight: 1
+      - path: PiriArmature/L.Thigh
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe/L.Toe_end
+        weight: 1
+      - path: PiriArmature/R.Thigh
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe/R.Toe_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|Floating
+      takeName: PiriArmature|Floating
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: HandGunHold
+        weight: 1
+      - path: PiriArmature
+        weight: 1
+      - path: PiriArmature/Abdomen
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom/LeftBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom/RightBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand/L.Hand_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head/Head_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand/R.Hand_end
+        weight: 1
+      - path: PiriArmature/L.Thigh
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe/L.Toe_end
+        weight: 1
+      - path: PiriArmature/R.Thigh
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe/R.Toe_end
+        weight: 1
+      - path: PlayerCol
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|FloatingF
+      takeName: PiriArmature|FloatingF
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: HandGunHold
+        weight: 1
+      - path: PiriArmature
+        weight: 1
+      - path: PiriArmature/Abdomen
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom/LeftBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom/RightBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand/L.Hand_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head/Head_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand/R.Hand_end
+        weight: 1
+      - path: PiriArmature/L.Thigh
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe/L.Toe_end
+        weight: 1
+      - path: PiriArmature/R.Thigh
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe/R.Toe_end
+        weight: 1
+      - path: PlayerCol
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|Swimming
+      takeName: PiriArmature|Swimming
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: HandGunHold
+        weight: 1
+      - path: PiriArmature
+        weight: 1
+      - path: PiriArmature/Abdomen
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom/LeftBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom/RightBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand/L.Hand_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head/Head_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand/R.Hand_end
+        weight: 1
+      - path: PiriArmature/L.Thigh
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe/L.Toe_end
+        weight: 1
+      - path: PiriArmature/R.Thigh
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe/R.Toe_end
+        weight: 1
+      - path: PiriHair
+        weight: 1
+      - path: PiriHead
+        weight: 1
+      - path: PiriHeadArmature
+        weight: 1
+      - path: PiriHeadArmature/Bone
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftBrow
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftBrow/LeftBrow_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftMouth
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftMouth/LeftMouth_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/PiriJaw
+        weight: 1
+      - path: PiriHeadArmature/Bone/PiriJaw/PiriJaw_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightBrow
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightBrow/RightBrow_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightMouth
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightMouth/RightMouth_end
+        weight: 1
+      - path: PlayerCol
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|CepstolRide
+      takeName: PiriArmature|CepstolRide
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: HandGunHold
+        weight: 1
+      - path: PiriArmature
+        weight: 1
+      - path: PiriArmature/Abdomen
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom/LeftBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom/RightBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand/L.Hand_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head/Head_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand/R.Hand_end
+        weight: 1
+      - path: PiriArmature/L.Thigh
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe/L.Toe_end
+        weight: 1
+      - path: PiriArmature/R.Thigh
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe/R.Toe_end
+        weight: 1
+      - path: PiriHair
+        weight: 1
+      - path: PiriHead
+        weight: 1
+      - path: PiriHeadArmature
+        weight: 1
+      - path: PiriHeadArmature/Bone
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftBrow
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftBrow/LeftBrow_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftMouth
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftMouth/LeftMouth_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/PiriJaw
+        weight: 1
+      - path: PiriHeadArmature/Bone/PiriJaw/PiriJaw_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightBrow
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightBrow/RightBrow_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightMouth
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightMouth/RightMouth_end
+        weight: 1
+      - path: PlayerCol
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|Holding
+      takeName: PiriArmature|Holding
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: HandGunHold
+        weight: 1
+      - path: PiriArmature
+        weight: 1
+      - path: PiriArmature/Abdomen
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom/LeftBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom/RightBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand/L.Hand_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head/Head_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand/R.Hand_end
+        weight: 1
+      - path: PiriArmature/L.Thigh
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe/L.Toe_end
+        weight: 1
+      - path: PiriArmature/R.Thigh
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe/R.Toe_end
+        weight: 1
+      - path: PiriHair
+        weight: 1
+      - path: PiriHead
+        weight: 1
+      - path: PiriHeadArmature
+        weight: 1
+      - path: PiriHeadArmature/Bone
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftBrow
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftBrow/LeftBrow_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftMouth
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftMouth/LeftMouth_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/PiriJaw
+        weight: 1
+      - path: PiriHeadArmature/Bone/PiriJaw/PiriJaw_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightBrow
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightBrow/RightBrow_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightMouth
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightMouth/RightMouth_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|HoldingOn
+      takeName: PiriArmature|HoldingOn
+      firstFrame: 0
+      lastFrame: 39
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: HandGunHold
+        weight: 1
+      - path: PiriArmature
+        weight: 1
+      - path: PiriArmature/Abdomen
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom/LeftBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom/RightBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand/L.Hand_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head/Head_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand/R.Hand_end
+        weight: 1
+      - path: PiriArmature/L.Thigh
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe/L.Toe_end
+        weight: 1
+      - path: PiriArmature/R.Thigh
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe/R.Toe_end
+        weight: 1
+      - path: PiriHair
+        weight: 1
+      - path: PiriHead
+        weight: 1
+      - path: PiriHeadArmature
+        weight: 1
+      - path: PiriHeadArmature/Bone
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftBrow
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftBrow/LeftBrow_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftMouth
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftMouth/LeftMouth_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/PiriJaw
+        weight: 1
+      - path: PiriHeadArmature/Bone/PiriJaw/PiriJaw_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightBrow
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightBrow/RightBrow_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightMouth
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightMouth/RightMouth_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: PiriArmature|HoldingW
+      takeName: PiriArmature|HoldingW
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: HandGunHold
+        weight: 1
+      - path: PiriArmature
+        weight: 1
+      - path: PiriArmature/Abdomen
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/LeftBosom/LeftBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom
+        weight: 1
+      - path: PiriArmature/Abdomen/RightBosom/RightBosom_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/L.Shoulder/L.Arm/L.Forearm/L.Hand/L.Hand_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/Neck/Head/Head_end
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand
+        weight: 1
+      - path: PiriArmature/Abdomen/Torso/R.Shoulder/R.Arm/R.Forearm/R.Hand/R.Hand_end
+        weight: 1
+      - path: PiriArmature/L.Thigh
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe
+        weight: 1
+      - path: PiriArmature/L.Thigh/L.Ankle/L.Foot/L.Toe/L.Toe_end
+        weight: 1
+      - path: PiriArmature/R.Thigh
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe
+        weight: 1
+      - path: PiriArmature/R.Thigh/R.Ankle/R.Foot/R.Toe/R.Toe_end
+        weight: 1
+      - path: PiriHair
+        weight: 1
+      - path: PiriHead
+        weight: 1
+      - path: PiriHeadArmature
+        weight: 1
+      - path: PiriHeadArmature/Bone
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftBrow
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftBrow/LeftBrow_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftMouth
+        weight: 1
+      - path: PiriHeadArmature/Bone/LeftMouth/LeftMouth_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/PiriJaw
+        weight: 1
+      - path: PiriHeadArmature/Bone/PiriJaw/PiriJaw_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightBrow
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightBrow/RightBrow_end
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightMouth
+        weight: 1
+      - path: PiriHeadArmature/Bone/RightMouth/RightMouth_end
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .400000006
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 45
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 

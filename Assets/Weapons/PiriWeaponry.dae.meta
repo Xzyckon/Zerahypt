@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 89b6bd7339e9bd743a8a30f2a9d7139b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Anoca_PT-15
+    100004: Posmer_HC40Barrel
+    100006: Posmer_HC40Base
+    100008: Posmer_HC40Breech
+    100010: _0mmShellSK
+    100012: _0mmShellSKEmpty
+    100014: _0mmShellSHE
+    100016: _0mmShellAP
+    100018: Tothler_Tygria_M2
+    400000: //RootNode
+    400002: Anoca_PT-15
+    400004: Posmer_HC40Barrel
+    400006: Posmer_HC40Base
+    400008: Posmer_HC40Breech
+    400010: _0mmShellSK
+    400012: _0mmShellSKEmpty
+    400014: _0mmShellSHE
+    400016: _0mmShellAP
+    400018: Tothler_Tygria_M2
+    2300000: //RootNode
+    2300002: Anoca_PT-15
+    2300004: Posmer_HC40Barrel
+    2300006: Posmer_HC40Base
+    2300008: Posmer_HC40Breech
+    2300010: _0mmShellSK
+    2300012: _0mmShellSKEmpty
+    2300014: _0mmShellSHE
+    2300016: _0mmShellAP
+    2300018: Tothler_Tygria_M2
+    3300000: //RootNode
+    3300002: Anoca_PT-15
+    3300004: Posmer_HC40Barrel
+    3300006: Posmer_HC40Base
+    3300008: Posmer_HC40Breech
+    3300010: _0mmShellSK
+    3300012: _0mmShellSKEmpty
+    3300014: _0mmShellSHE
+    3300016: _0mmShellAP
+    3300018: Tothler_Tygria_M2
+    4300000: Anoca_PT-15
+    4300002: Posmer_HC40Base
+    4300004: Posmer_HC40Barrel
+    4300006: Posmer_HC40Breech
+    4300008: _0mmShellSK
+    4300010: _0mmShellSKEmpty
+    4300012: _0mmShellSHE
+    4300014: _0mmShellAP
+    4300016: Tothler_Tygria_M2
+    6400000: Anoca_PT-15
+    6400002: Posmer_HC40Barrel
+    6400004: Posmer_HC40Base
+    6400006: Posmer_HC40Breech
+    6400008: _0mmShellSK
+    6400010: _0mmShellSKEmpty
+    6400012: _0mmShellSHE
+    6400014: _0mmShellAP
+    6400016: Tothler_Tygria_M2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

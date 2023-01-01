@@ -1,0 +1,127 @@
+fileFormatVersion: 2
+guid: 7e7a8182077ea684bb3e98567f727c40
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cylinder
+    100002: PiriComparison
+    100004: //RootNode
+    100006: Vessel
+    100008: Posmer3Axel
+    100010: Posmer3Chassis
+    100012: Posmer3Gun
+    100014: Posmer3GunBase
+    100016: Posmer3Turret
+    100018: Posmer3Wheel
+    100020: Posmer3GunCol1
+    100022: Posmer3GunCol2
+    400000: Cylinder
+    400002: PiriComparison
+    400004: //RootNode
+    400006: Vessel
+    400008: Posmer3Axel
+    400010: Posmer3Chassis
+    400012: Posmer3Gun
+    400014: Posmer3GunBase
+    400016: Posmer3Turret
+    400018: Posmer3Wheel
+    400020: Posmer3GunCol1
+    400022: Posmer3GunCol2
+    2300000: Cylinder
+    2300002: PiriComparison
+    2300004: Vessel
+    2300006: Posmer3Axel
+    2300008: Posmer3Chassis
+    2300010: Posmer3Gun
+    2300012: Posmer3GunBase
+    2300014: Posmer3Turret
+    2300016: Posmer3Wheel
+    2300018: Posmer3GunCol1
+    2300020: Posmer3GunCol2
+    3300000: Cylinder
+    3300002: PiriComparison
+    3300004: Vessel
+    3300006: Posmer3Axel
+    3300008: Posmer3Chassis
+    3300010: Posmer3Gun
+    3300012: Posmer3GunBase
+    3300014: Posmer3Turret
+    3300016: Posmer3Wheel
+    3300018: Posmer3GunCol1
+    3300020: Posmer3GunCol2
+    4300000: Cylinder
+    4300002: Vessel
+    4300004: PiriComparison
+    4300006: Posmer3Turret
+    4300008: Posmer3GunBase
+    4300010: Posmer3Gun
+    4300012: Posmer3Axel
+    4300014: Posmer3Chassis
+    4300016: Posmer3Wheel
+    4300018: Posmer3GunCol1
+    4300020: Posmer3GunCol2
+    6400000: PiriComparison
+    6400002: Posmer3Axel
+    6400004: Posmer3Chassis
+    6400006: Posmer3Gun
+    6400008: Posmer3GunBase
+    6400010: Posmer3Turret
+    6400012: Posmer3Wheel
+    6400014: Posmer3GunCol1
+    6400016: Posmer3GunCol2
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

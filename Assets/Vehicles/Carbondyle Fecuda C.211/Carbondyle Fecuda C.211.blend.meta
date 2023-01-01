@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: 7012f51ace12ab04c98da1025a1d9304
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cylinder
+    100004: Fecuda1Axel
+    100006: Fecuda1Chassis
+    100008: Fecuda1Wheel
+    100010: PiriComparison
+    100012: Vessel
+    100014: Fecuda2Axel
+    100016: Fecuda2Hull
+    100018: Fecuda2Wheel
+    400000: //RootNode
+    400002: Cylinder
+    400004: Fecuda1Axel
+    400006: Fecuda1Chassis
+    400008: Fecuda1Wheel
+    400010: PiriComparison
+    400012: Vessel
+    400014: Fecuda2Axel
+    400016: Fecuda2Hull
+    400018: Fecuda2Wheel
+    2300000: Cylinder
+    2300002: Fecuda1Axel
+    2300004: Fecuda1Chassis
+    2300006: Fecuda1Wheel
+    2300008: PiriComparison
+    2300010: Vessel
+    2300012: Fecuda2Axel
+    2300014: Fecuda2Hull
+    2300016: Fecuda2Wheel
+    3300000: Cylinder
+    3300002: Fecuda1Axel
+    3300004: Fecuda1Chassis
+    3300006: Fecuda1Wheel
+    3300008: PiriComparison
+    3300010: Vessel
+    3300012: Fecuda2Axel
+    3300014: Fecuda2Hull
+    3300016: Fecuda2Wheel
+    4300000: Cylinder
+    4300002: Vessel
+    4300004: PiriComparison
+    4300006: Fecuda1Axel
+    4300008: Fecuda1Chassis
+    4300010: Fecuda1Wheel
+    4300012: Fecuda2Hull
+    4300014: Fecuda2Axel
+    4300016: Fecuda2Wheel
+    6400000: Fecuda2Axel
+    6400002: Fecuda2Hull
+    6400004: Fecuda2Wheel
+    6400006: PiriComparison
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

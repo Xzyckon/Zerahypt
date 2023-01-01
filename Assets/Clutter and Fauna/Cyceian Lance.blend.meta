@@ -1,0 +1,81 @@
+fileFormatVersion: 2
+guid: 5bb47e9fa5d17584ba5c7a4d1abe9a6e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: CyceianLanceBase
+    100004: CyceianLanceCorona
+    100006: CyceianLanceDist
+    400000: //RootNode
+    400002: CyceianLanceBase
+    400004: CyceianLanceCorona
+    400006: CyceianLanceDist
+    2300000: CyceianLanceBase
+    2300002: CyceianLanceCorona
+    2300004: CyceianLanceDist
+    3300000: CyceianLanceBase
+    3300002: CyceianLanceCorona
+    3300004: CyceianLanceDist
+    4300000: CyceianLanceCorona
+    4300002: CyceianLanceBase
+    4300004: CyceianLanceDist
+    6400000: CyceianLanceBase
+    6400002: CyceianLanceCorona
+    6400004: CyceianLanceDist
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 80
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

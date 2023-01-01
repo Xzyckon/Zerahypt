@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 6f66b0a39264ab24ba72aa132149bb63
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PiriComparison
+    100004: Vessel
+    100006: Vessel_001
+    100008: Vessel_002
+    100010: Cylepo1
+    100012: CylepoSusp
+    100014: CylepoWheel
+    100016: Cylepo1BFX
+    100018: Cylepo1Gate
+    100020: Cylepo1GatePiece0
+    100022: Cylepo1GatePiece1
+    100024: Cylepo1GateCol
+    400000: //RootNode
+    400002: PiriComparison
+    400004: Vessel
+    400006: Vessel_001
+    400008: Vessel_002
+    400010: Cylepo1
+    400012: CylepoSusp
+    400014: CylepoWheel
+    400016: Cylepo1BFX
+    400018: Cylepo1Gate
+    400020: Cylepo1GatePiece0
+    400022: Cylepo1GatePiece1
+    400024: Cylepo1GateCol
+    2300000: PiriComparison
+    2300002: Vessel
+    2300004: Vessel_001
+    2300006: Vessel_002
+    2300008: Cylepo1
+    2300010: CylepoSusp
+    2300012: CylepoWheel
+    2300014: Cylepo1BFX
+    2300016: Cylepo1Gate
+    2300018: Cylepo1GatePiece0
+    2300020: Cylepo1GatePiece1
+    2300022: Cylepo1GateCol
+    3300000: PiriComparison
+    3300002: Vessel
+    3300004: Vessel_001
+    3300006: Vessel_002
+    3300008: Cylepo1
+    3300010: CylepoSusp
+    3300012: CylepoWheel
+    3300014: Cylepo1BFX
+    3300016: Cylepo1Gate
+    3300018: Cylepo1GatePiece0
+    3300020: Cylepo1GatePiece1
+    3300022: Cylepo1GateCol
+    4300000: Vessel
+    4300002: PiriComparison
+    4300004: Vessel_002
+    4300006: Vessel_001
+    4300008: CylepoSusp
+    4300010: CylepoWheel
+    4300012: Cylepo1
+    4300014: Cylepo1BFX
+    4300016: Cylepo1Gate
+    4300018: Cylepo1GatePiece1
+    4300020: Cylepo1GatePiece0
+    4300022: Cylepo1GateCol
+    6400000: Cylepo1
+    6400002: CylepoSusp
+    6400004: CylepoWheel
+    6400006: PiriComparison
+    6400008: Cylepo1BFX
+    6400010: Cylepo1Gate
+    6400012: Cylepo1GatePiece0
+    6400014: Cylepo1GatePiece1
+    6400016: Cylepo1GateCol
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

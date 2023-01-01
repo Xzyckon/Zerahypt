@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: f9cbfadb94baec6488e2b7fd6f04b160
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: PiriComparison
+    100002: //RootNode
+    100004: Zerzek1Fin
+    100006: Zerzek1FinBase
+    100008: Zerzek1Hull
+    100010: Zerzek1HullCol1
+    100012: Zerzek1HullCol2
+    100014: Zerzek1HullCol3
+    100016: Zerzek1Rotor
+    100018: Zerzek1StabProp
+    100020: Zerzek1HullCol4
+    400000: PiriComparison
+    400002: //RootNode
+    400004: Zerzek1Fin
+    400006: Zerzek1FinBase
+    400008: Zerzek1Hull
+    400010: Zerzek1HullCol1
+    400012: Zerzek1HullCol2
+    400014: Zerzek1HullCol3
+    400016: Zerzek1Rotor
+    400018: Zerzek1StabProp
+    400020: Zerzek1HullCol4
+    2300000: PiriComparison
+    2300002: Zerzek1Fin
+    2300004: Zerzek1FinBase
+    2300006: Zerzek1Hull
+    2300008: Zerzek1HullCol1
+    2300010: Zerzek1HullCol2
+    2300012: Zerzek1HullCol3
+    2300014: Zerzek1Rotor
+    2300016: Zerzek1StabProp
+    2300018: Zerzek1HullCol4
+    3300000: PiriComparison
+    3300002: Zerzek1Fin
+    3300004: Zerzek1FinBase
+    3300006: Zerzek1Hull
+    3300008: Zerzek1HullCol1
+    3300010: Zerzek1HullCol2
+    3300012: Zerzek1HullCol3
+    3300014: Zerzek1Rotor
+    3300016: Zerzek1StabProp
+    3300018: Zerzek1HullCol4
+    4300000: PiriComparison
+    4300002: Zerzek1Hull
+    4300004: Zerzek1Fin
+    4300006: Zerzek1StabProp
+    4300008: Zerzek1Rotor
+    4300010: Zerzek1FinBase
+    4300012: Zerzek1HullCol1
+    4300014: Zerzek1HullCol2
+    4300016: Zerzek1HullCol3
+    4300018: Zerzek1HullCol4
+    6400000: PiriComparison
+    6400002: Zerzek1Fin
+    6400004: Zerzek1FinBase
+    6400006: Zerzek1Hull
+    6400008: Zerzek1HullCol1
+    6400010: Zerzek1HullCol2
+    6400012: Zerzek1HullCol3
+    6400014: Zerzek1Rotor
+    6400016: Zerzek1StabProp
+    6400018: Zerzek1HullCol4
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

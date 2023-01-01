@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 068d268ef4176fa428673b60051598f0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Sandcruiser4
+    100004: Sandcruiser4Axel
+    100006: Sandcruiser4Wheel
+    100008: Sandcruiser4Col
+    100010: Sandcruiser4WheelCol
+    100012: Sandcruiser4Trailer
+    100014: Sandcruiser4HooksCol
+    100016: Sandcruiser4TrailerCol
+    100018: Sandcruiser4Ramp
+    100020: Sandcruiser4Col2
+    100022: Sandcruiser4TrailerHook
+    400000: //RootNode
+    400002: Sandcruiser4
+    400004: Sandcruiser4Axel
+    400006: Sandcruiser4Wheel
+    400008: Sandcruiser4Col
+    400010: Sandcruiser4WheelCol
+    400012: Sandcruiser4Trailer
+    400014: Sandcruiser4HooksCol
+    400016: Sandcruiser4TrailerCol
+    400018: Sandcruiser4Ramp
+    400020: Sandcruiser4Col2
+    400022: Sandcruiser4TrailerHook
+    2300000: Sandcruiser4
+    2300002: Sandcruiser4Axel
+    2300004: Sandcruiser4Wheel
+    2300006: Sandcruiser4Col
+    2300008: Sandcruiser4WheelCol
+    2300010: Sandcruiser4Trailer
+    2300012: Sandcruiser4HooksCol
+    2300014: Sandcruiser4TrailerCol
+    2300016: Sandcruiser4Ramp
+    2300018: Sandcruiser4Col2
+    2300020: Sandcruiser4TrailerHook
+    3300000: Sandcruiser4
+    3300002: Sandcruiser4Axel
+    3300004: Sandcruiser4Wheel
+    3300006: Sandcruiser4Col
+    3300008: Sandcruiser4WheelCol
+    3300010: Sandcruiser4Trailer
+    3300012: Sandcruiser4HooksCol
+    3300014: Sandcruiser4TrailerCol
+    3300016: Sandcruiser4Ramp
+    3300018: Sandcruiser4Col2
+    3300020: Sandcruiser4TrailerHook
+    4300000: Sandcruiser4Wheel
+    4300002: Sandcruiser4Axel
+    4300004: Sandcruiser4
+    4300006: Sandcruiser4Col
+    4300008: Sandcruiser4WheelCol
+    4300010: Sandcruiser4Trailer
+    4300012: Sandcruiser4HooksCol
+    4300014: Sandcruiser4TrailerCol
+    4300016: Sandcruiser4Ramp
+    4300018: Sandcruiser4Col2
+    4300020: Sandcruiser4TrailerHook
+    6400000: Sandcruiser4
+    6400002: Sandcruiser4Axel
+    6400004: Sandcruiser4Wheel
+    6400006: Sandcruiser4Col
+    6400008: Sandcruiser4WheelCol
+    6400010: Sandcruiser4Trailer
+    6400012: Sandcruiser4HooksCol
+    6400014: Sandcruiser4TrailerCol
+    6400016: Sandcruiser4Ramp
+    6400018: Sandcruiser4Col2
+    6400020: Sandcruiser4TrailerHook
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

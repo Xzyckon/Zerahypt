@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: 46f472e592f2646438f85cf54f906122
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: //RootNode
+    100004: Armature
+    100006: Body
+    100008: Eye
+    100010: Eyelids
+    100012: Eyelids2
+    100014: Hair
+    100016: Hand
+    100018: Head
+    100020: Head_0
+    100022: L_Ankle
+    100024: L_Arm
+    100026: L_Foot
+    100028: L_Forearm
+    100030: L_Hand
+    100032: L_Shoulder
+    100034: L_Thigh
+    100036: L_Toe
+    100038: LeftBosom
+    100040: Neck
+    100042: R_Ankle
+    100044: R_Arm
+    100046: R_Foot
+    100048: R_Forearm
+    100050: R_Hand
+    100052: R_Shoulder
+    100054: R_Thigh
+    100056: R_Toe
+    100058: RightBosom
+    100060: Torso
+    400000: Abdomen
+    400002: //RootNode
+    400004: Armature
+    400006: Body
+    400008: Eye
+    400010: Eyelids
+    400012: Eyelids2
+    400014: Hair
+    400016: Hand
+    400018: Head
+    400020: Head_0
+    400022: L_Ankle
+    400024: L_Arm
+    400026: L_Foot
+    400028: L_Forearm
+    400030: L_Hand
+    400032: L_Shoulder
+    400034: L_Thigh
+    400036: L_Toe
+    400038: LeftBosom
+    400040: Neck
+    400042: R_Ankle
+    400044: R_Arm
+    400046: R_Foot
+    400048: R_Forearm
+    400050: R_Hand
+    400052: R_Shoulder
+    400054: R_Thigh
+    400056: R_Toe
+    400058: RightBosom
+    400060: Torso
+    2300000: Eye
+    2300002: Eyelids
+    2300004: Eyelids2
+    2300006: Hand
+    2300008: Head
+    3300000: Eye
+    3300002: Eyelids
+    3300004: Eyelids2
+    3300006: Hand
+    3300008: Head
+    4300000: Eyelids2
+    4300002: Body
+    4300004: Head
+    4300006: Hair
+    4300008: Eyelids
+    4300010: Eye
+    4300012: Hand
+    6400000: Eye
+    6400002: Eyelids
+    6400004: Eyelids2
+    6400006: Hand
+    6400008: Head
+    7400000: Default Take
+    7400002: Falling
+    7400004: Inert
+    7400006: Jogging
+    7400008: Stand
+    7400010: Stand_2
+    7400012: Walking
+    7400014: AG_Falling
+    7400016: AG_Inert
+    7400018: AG_Jogging
+    7400020: AG_Stand
+    7400022: AG_Stand_2
+    7400024: AG_Walking
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body
+    13700002: Hair
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 3
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 3
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 249
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Abdomen
+        weight: 1
+      - path: Armature/Abdomen/LeftBosom
+        weight: 1
+      - path: Armature/Abdomen/RightBosom
+        weight: 1
+      - path: Armature/Abdomen/Torso
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm/L_Forearm
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm/L_Forearm/L_Hand
+        weight: 1
+      - path: Armature/Abdomen/Torso/Neck
+        weight: 1
+      - path: Armature/Abdomen/Torso/Neck/Head_0
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm/R_Forearm
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm/R_Forearm/R_Hand
+        weight: 1
+      - path: Armature/L_Thigh
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle/L_Foot
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle/L_Foot/L_Toe
+        weight: 1
+      - path: Armature/R_Thigh
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle/R_Foot
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle/R_Foot/R_Toe
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: AG_Falling
+      takeName: AG_Falling
+      firstFrame: -1
+      lastFrame: 233
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Abdomen
+        weight: 1
+      - path: Armature/Abdomen/LeftBosom
+        weight: 1
+      - path: Armature/Abdomen/RightBosom
+        weight: 1
+      - path: Armature/Abdomen/Torso
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm/L_Forearm
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm/L_Forearm/L_Hand
+        weight: 1
+      - path: Armature/Abdomen/Torso/Neck
+        weight: 1
+      - path: Armature/Abdomen/Torso/Neck/Head_0
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm/R_Forearm
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm/R_Forearm/R_Hand
+        weight: 1
+      - path: Armature/L_Thigh
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle/L_Foot
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle/L_Foot/L_Toe
+        weight: 1
+      - path: Armature/R_Thigh
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle/R_Foot
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle/R_Foot/R_Toe
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: AG_Inert
+      takeName: AG_Inert
+      firstFrame: -1
+      lastFrame: 9
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Abdomen
+        weight: 1
+      - path: Armature/Abdomen/LeftBosom
+        weight: 1
+      - path: Armature/Abdomen/RightBosom
+        weight: 1
+      - path: Armature/Abdomen/Torso
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm/L_Forearm
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm/L_Forearm/L_Hand
+        weight: 1
+      - path: Armature/Abdomen/Torso/Neck
+        weight: 1
+      - path: Armature/Abdomen/Torso/Neck/Head_0
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm/R_Forearm
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm/R_Forearm/R_Hand
+        weight: 1
+      - path: Armature/L_Thigh
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle/L_Foot
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle/L_Foot/L_Toe
+        weight: 1
+      - path: Armature/R_Thigh
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle/R_Foot
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle/R_Foot/R_Toe
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: AG_Jogging
+      takeName: AG_Jogging
+      firstFrame: -1
+      lastFrame: 23
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Abdomen
+        weight: 1
+      - path: Armature/Abdomen/LeftBosom
+        weight: 1
+      - path: Armature/Abdomen/RightBosom
+        weight: 1
+      - path: Armature/Abdomen/Torso
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm/L_Forearm
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm/L_Forearm/L_Hand
+        weight: 1
+      - path: Armature/Abdomen/Torso/Neck
+        weight: 1
+      - path: Armature/Abdomen/Torso/Neck/Head_0
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm/R_Forearm
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm/R_Forearm/R_Hand
+        weight: 1
+      - path: Armature/L_Thigh
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle/L_Foot
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle/L_Foot/L_Toe
+        weight: 1
+      - path: Armature/R_Thigh
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle/R_Foot
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle/R_Foot/R_Toe
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: AG_Stand
+      takeName: AG_Stand
+      firstFrame: -1
+      lastFrame: 89
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Abdomen
+        weight: 1
+      - path: Armature/Abdomen/LeftBosom
+        weight: 1
+      - path: Armature/Abdomen/RightBosom
+        weight: 1
+      - path: Armature/Abdomen/Torso
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm/L_Forearm
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm/L_Forearm/L_Hand
+        weight: 1
+      - path: Armature/Abdomen/Torso/Neck
+        weight: 1
+      - path: Armature/Abdomen/Torso/Neck/Head_0
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm/R_Forearm
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm/R_Forearm/R_Hand
+        weight: 1
+      - path: Armature/L_Thigh
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle/L_Foot
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle/L_Foot/L_Toe
+        weight: 1
+      - path: Armature/R_Thigh
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle/R_Foot
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle/R_Foot/R_Toe
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: AG_Stand_2
+      takeName: AG_Stand_2
+      firstFrame: -1
+      lastFrame: 67
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Abdomen
+        weight: 1
+      - path: Armature/Abdomen/LeftBosom
+        weight: 1
+      - path: Armature/Abdomen/RightBosom
+        weight: 1
+      - path: Armature/Abdomen/Torso
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm/L_Forearm
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm/L_Forearm/L_Hand
+        weight: 1
+      - path: Armature/Abdomen/Torso/Neck
+        weight: 1
+      - path: Armature/Abdomen/Torso/Neck/Head_0
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm/R_Forearm
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm/R_Forearm/R_Hand
+        weight: 1
+      - path: Armature/L_Thigh
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle/L_Foot
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle/L_Foot/L_Toe
+        weight: 1
+      - path: Armature/R_Thigh
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle/R_Foot
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle/R_Foot/R_Toe
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: AG_Walking
+      takeName: AG_Walking
+      firstFrame: -1
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Abdomen
+        weight: 1
+      - path: Armature/Abdomen/LeftBosom
+        weight: 1
+      - path: Armature/Abdomen/RightBosom
+        weight: 1
+      - path: Armature/Abdomen/Torso
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm/L_Forearm
+        weight: 1
+      - path: Armature/Abdomen/Torso/L_Shoulder/L_Arm/L_Forearm/L_Hand
+        weight: 1
+      - path: Armature/Abdomen/Torso/Neck
+        weight: 1
+      - path: Armature/Abdomen/Torso/Neck/Head_0
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm/R_Forearm
+        weight: 1
+      - path: Armature/Abdomen/Torso/R_Shoulder/R_Arm/R_Forearm/R_Hand
+        weight: 1
+      - path: Armature/L_Thigh
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle/L_Foot
+        weight: 1
+      - path: Armature/L_Thigh/L_Ankle/L_Foot/L_Toe
+        weight: 1
+      - path: Armature/R_Thigh
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle/R_Foot
+        weight: 1
+      - path: Armature/R_Thigh/R_Ankle/R_Foot/R_Toe
+        weight: 1
+      - path: Body
+        weight: 1
+      - path: Eye
+        weight: 1
+      - path: Eyelids
+        weight: 1
+      - path: Eyelids2
+        weight: 1
+      - path: Hair
+        weight: 1
+      - path: Hand
+        weight: 1
+      - path: Head
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .400000006
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 70
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

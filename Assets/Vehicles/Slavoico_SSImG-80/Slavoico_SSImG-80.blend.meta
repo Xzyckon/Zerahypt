@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 27e20ea6ada6cd541a6d9c7a97399877
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: PiriComparison
+    100002: Slavoico2Axel
+    100004: Slavoico2Chassis
+    100006: Slavoico2Launcher
+    100008: Slavoico2Pivot
+    100010: Slavoico2Wheel
+    100012: Slavoico_BM10
+    100014: //RootNode
+    100016: Slavoico2Col1
+    100018: Slavoico2Col2
+    100020: Slavoico2Chassis2
+    100022: Slavoico1Launcher
+    100024: Slavoico3Launcher
+    400000: PiriComparison
+    400002: Slavoico2Axel
+    400004: Slavoico2Chassis
+    400006: Slavoico2Launcher
+    400008: Slavoico2Pivot
+    400010: Slavoico2Wheel
+    400012: Slavoico_BM10
+    400014: //RootNode
+    400016: Slavoico2Col1
+    400018: Slavoico2Col2
+    400020: Slavoico2Chassis2
+    400022: Slavoico1Launcher
+    400024: Slavoico3Launcher
+    2300000: PiriComparison
+    2300002: Slavoico2Axel
+    2300004: Slavoico2Chassis
+    2300006: Slavoico2Launcher
+    2300008: Slavoico2Pivot
+    2300010: Slavoico2Wheel
+    2300012: Slavoico_BM10
+    2300014: Slavoico2Col1
+    2300016: Slavoico2Col2
+    2300018: Slavoico2Chassis2
+    2300020: Slavoico1Launcher
+    2300022: Slavoico3Launcher
+    3300000: PiriComparison
+    3300002: Slavoico2Axel
+    3300004: Slavoico2Chassis
+    3300006: Slavoico2Launcher
+    3300008: Slavoico2Pivot
+    3300010: Slavoico2Wheel
+    3300012: Slavoico_BM10
+    3300014: Slavoico2Col1
+    3300016: Slavoico2Col2
+    3300018: Slavoico2Chassis2
+    3300020: Slavoico1Launcher
+    3300022: Slavoico3Launcher
+    4300000: Slavoico_BM10
+    4300002: Slavoico2Launcher
+    4300004: Slavoico2Pivot
+    4300006: Slavoico2Axel
+    4300008: Slavoico2Wheel
+    4300010: Slavoico2Chassis
+    4300012: PiriComparison
+    4300014: Slavoico2Col2
+    4300016: Slavoico2Col1
+    4300018: Slavoico2Chassis2
+    4300020: Slavoico1Launcher
+    4300022: Slavoico3Launcher
+    6400000: PiriComparison
+    6400002: Slavoico2Axel
+    6400004: Slavoico2Chassis
+    6400006: Slavoico2Launcher
+    6400008: Slavoico2Pivot
+    6400010: Slavoico2Wheel
+    6400012: Slavoico_BM10
+    6400014: Slavoico2Col1
+    6400016: Slavoico2Col2
+    6400018: Slavoico2Chassis2
+    6400020: Slavoico1Launcher
+    6400022: Slavoico3Launcher
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

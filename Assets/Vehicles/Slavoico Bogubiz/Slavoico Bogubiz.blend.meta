@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 36a7482dd5724854a8e8294fcff636cb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: FImG-10
+    100002: FImG-10_001
+    100004: FImG-10FXM
+    100006: PiriComparison
+    100008: //RootNode
+    100010: BogubizAxel1
+    100012: BogubizAxel2
+    100014: BogubizHull1
+    100016: BogubizHull2
+    100018: BogubizLauncher
+    100020: BogubizLauncherCatapult
+    100022: BogubizWheel1
+    100024: BogubizWheel2
+    100026: BogubizFX
+    400000: FImG-10
+    400002: FImG-10_001
+    400004: FImG-10FXM
+    400006: PiriComparison
+    400008: //RootNode
+    400010: BogubizAxel1
+    400012: BogubizAxel2
+    400014: BogubizHull1
+    400016: BogubizHull2
+    400018: BogubizLauncher
+    400020: BogubizLauncherCatapult
+    400022: BogubizWheel1
+    400024: BogubizWheel2
+    400026: BogubizFX
+    2300000: FImG-10
+    2300002: FImG-10_001
+    2300004: FImG-10FXM
+    2300006: PiriComparison
+    2300008: BogubizAxel1
+    2300010: BogubizAxel2
+    2300012: BogubizHull1
+    2300014: BogubizHull2
+    2300016: BogubizLauncher
+    2300018: BogubizLauncherCatapult
+    2300020: BogubizWheel1
+    2300022: BogubizWheel2
+    2300024: BogubizFX
+    3300000: FImG-10
+    3300002: FImG-10_001
+    3300004: FImG-10FXM
+    3300006: PiriComparison
+    3300008: BogubizAxel1
+    3300010: BogubizAxel2
+    3300012: BogubizHull1
+    3300014: BogubizHull2
+    3300016: BogubizLauncher
+    3300018: BogubizLauncherCatapult
+    3300020: BogubizWheel1
+    3300022: BogubizWheel2
+    3300024: BogubizFX
+    4300000: FImG-10_001
+    4300002: FImG-10FXM
+    4300004: FImG-10
+    4300006: PiriComparison
+    4300008: BogubizLauncherCatapult
+    4300010: BogubizWheel2
+    4300012: BogubizWheel1
+    4300014: BogubizAxel2
+    4300016: BogubizAxel1
+    4300018: BogubizLauncher
+    4300020: BogubizHull1
+    4300022: BogubizHull2
+    4300024: BogubizFX
+    6400000: BogubizAxel1
+    6400002: BogubizAxel2
+    6400004: BogubizHull1
+    6400006: BogubizHull2
+    6400008: BogubizLauncher
+    6400010: BogubizLauncherCatapult
+    6400012: BogubizWheel1
+    6400014: BogubizWheel2
+    6400016: PiriComparison
+    6400018: BogubizFX
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

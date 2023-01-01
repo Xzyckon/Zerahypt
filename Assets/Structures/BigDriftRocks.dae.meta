@@ -1,0 +1,98 @@
+fileFormatVersion: 2
+guid: 305bd13bbae621d49a0d45645dd6dcb9
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: BigDriftRock1
+    100002: BigDriftRock1Col
+    100004: BigDriftRock2
+    100006: BigDriftRock2Col
+    100008: BigDriftRock3
+    100010: BigDriftRock3Col
+    100012: //RootNode
+    400000: BigDriftRock1
+    400002: BigDriftRock1Col
+    400004: BigDriftRock2
+    400006: BigDriftRock2Col
+    400008: BigDriftRock3
+    400010: BigDriftRock3Col
+    400012: //RootNode
+    2300000: BigDriftRock1
+    2300002: BigDriftRock1Col
+    2300004: BigDriftRock2
+    2300006: BigDriftRock2Col
+    2300008: BigDriftRock3
+    2300010: BigDriftRock3Col
+    3300000: BigDriftRock1
+    3300002: BigDriftRock1Col
+    3300004: BigDriftRock2
+    3300006: BigDriftRock2Col
+    3300008: BigDriftRock3
+    3300010: BigDriftRock3Col
+    4300000: BigDriftRock1
+    4300002: BigDriftRock2
+    4300004: BigDriftRock3
+    4300006: BigDriftRock3Col
+    4300008: BigDriftRock2Col
+    4300010: BigDriftRock1Col
+    6400000: BigDriftRock1
+    6400002: BigDriftRock1Col
+    6400004: BigDriftRock2
+    6400006: BigDriftRock2Col
+    6400008: BigDriftRock3
+    6400010: BigDriftRock3Col
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

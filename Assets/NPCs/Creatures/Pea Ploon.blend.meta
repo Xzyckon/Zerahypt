@@ -1,0 +1,83 @@
+fileFormatVersion: 2
+guid: 5cb6f3b32e5364f429621b2cce90aff6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Armature
+    100002: JelloonModel
+    100004: LeftFin
+    100006: LeftInner
+    100008: //RootNode
+    100010: RightFin
+    100012: RightInner
+    100014: PeaPloon
+    400000: Armature
+    400002: JelloonModel
+    400004: LeftFin
+    400006: LeftInner
+    400008: //RootNode
+    400010: RightFin
+    400012: RightInner
+    400014: PeaPloon
+    2300000: JelloonModel
+    3300000: JelloonModel
+    4300000: JelloonModel
+    4300002: PeaPloon
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: JelloonModel
+    13700002: PeaPloon
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

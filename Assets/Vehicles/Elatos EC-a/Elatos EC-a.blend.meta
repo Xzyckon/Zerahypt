@@ -1,0 +1,151 @@
+fileFormatVersion: 2
+guid: 541a73324e2e0154194c22be3a305b35
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PiriEstimate
+    100004: VinelaserGun
+    100006: VinelaserHinge
+    100008: VinelaserSwivel
+    100010: VinesauceShip
+    100012: VinesauceShipCol1
+    100014: VinesauceShipCol2
+    100016: VinesauceShipHatch
+    100018: ElatosGun
+    100020: ElatosHinge
+    100022: ElatosShip
+    100024: ElatosShipHatch
+    100026: ElatosSwivel
+    100028: ElatosShipCol1
+    100030: ElatosShipCol2
+    100032: ElatosShipCol3
+    400000: //RootNode
+    400002: PiriEstimate
+    400004: VinelaserGun
+    400006: VinelaserHinge
+    400008: VinelaserSwivel
+    400010: VinesauceShip
+    400012: VinesauceShipCol1
+    400014: VinesauceShipCol2
+    400016: VinesauceShipHatch
+    400018: ElatosGun
+    400020: ElatosHinge
+    400022: ElatosShip
+    400024: ElatosShipHatch
+    400026: ElatosSwivel
+    400028: ElatosShipCol1
+    400030: ElatosShipCol2
+    400032: ElatosShipCol3
+    2300000: PiriEstimate
+    2300002: VinelaserGun
+    2300004: VinelaserHinge
+    2300006: VinelaserSwivel
+    2300008: VinesauceShip
+    2300010: VinesauceShipCol1
+    2300012: VinesauceShipCol2
+    2300014: VinesauceShipHatch
+    2300016: ElatosGun
+    2300018: ElatosHinge
+    2300020: ElatosShip
+    2300022: ElatosShipHatch
+    2300024: ElatosSwivel
+    2300026: ElatosShipCol1
+    2300028: ElatosShipCol2
+    2300030: ElatosShipCol3
+    3300000: PiriEstimate
+    3300002: VinelaserGun
+    3300004: VinelaserHinge
+    3300006: VinelaserSwivel
+    3300008: VinesauceShip
+    3300010: VinesauceShipCol1
+    3300012: VinesauceShipCol2
+    3300014: VinesauceShipHatch
+    3300016: ElatosGun
+    3300018: ElatosHinge
+    3300020: ElatosShip
+    3300022: ElatosShipHatch
+    3300024: ElatosSwivel
+    3300026: ElatosShipCol1
+    3300028: ElatosShipCol2
+    3300030: ElatosShipCol3
+    4300000: VinelaserSwivel
+    4300002: VinelaserHinge
+    4300004: VinelaserGun
+    4300006: VinesauceShipCol2
+    4300008: VinesauceShipCol1
+    4300010: VinesauceShipHatch
+    4300012: PiriEstimate
+    4300014: VinesauceShip
+    4300016: ElatosSwivel
+    4300018: ElatosHinge
+    4300020: ElatosGun
+    4300022: ElatosShipHatch
+    4300024: ElatosShip
+    4300026: ElatosShipCol3
+    4300028: ElatosShipCol2
+    4300030: ElatosShipCol1
+    6400000: ElatosGun
+    6400002: ElatosHinge
+    6400004: ElatosShip
+    6400006: ElatosShipCol1
+    6400008: ElatosShipCol2
+    6400010: ElatosShipCol3
+    6400012: ElatosShipHatch
+    6400014: ElatosSwivel
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

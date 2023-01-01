@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: c4b7b6d696334fe47abf099771f38d82
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Garret_M-110Hull
+    100004: Garret_M-110Miner
+    100006: Garret_M-110Rotor
+    100008: Garret_M-110Turret
+    100010: Garret_M-110Wheel
+    100012: Cylinder
+    100014: Garret_M-110Turret_001
+    100016: Garret_M-110Hatch
+    100018: Garret_M-110TurretCol1
+    100020: Garret_M-110TurretCol2
+    400000: //RootNode
+    400002: Garret_M-110Hull
+    400004: Garret_M-110Miner
+    400006: Garret_M-110Rotor
+    400008: Garret_M-110Turret
+    400010: Garret_M-110Wheel
+    400012: Cylinder
+    400014: Garret_M-110Turret_001
+    400016: Garret_M-110Hatch
+    400018: Garret_M-110TurretCol1
+    400020: Garret_M-110TurretCol2
+    2300000: Garret_M-110Hull
+    2300002: Garret_M-110Miner
+    2300004: Garret_M-110Rotor
+    2300006: Garret_M-110Turret
+    2300008: Garret_M-110Wheel
+    2300010: Cylinder
+    2300012: Garret_M-110Turret_001
+    2300014: Garret_M-110Hatch
+    2300016: Garret_M-110TurretCol1
+    2300018: Garret_M-110TurretCol2
+    3300000: Garret_M-110Hull
+    3300002: Garret_M-110Miner
+    3300004: Garret_M-110Rotor
+    3300006: Garret_M-110Turret
+    3300008: Garret_M-110Wheel
+    3300010: Cylinder
+    3300012: Garret_M-110Turret_001
+    3300014: Garret_M-110Hatch
+    3300016: Garret_M-110TurretCol1
+    3300018: Garret_M-110TurretCol2
+    4300000: Garret_M-110Hull
+    4300002: Garret_M-110Turret
+    4300004: Garret_M-110Miner
+    4300006: Garret_M-110Wheel
+    4300008: Garret_M-110Rotor
+    4300010: Cylinder
+    4300012: Garret_M-110Turret_001
+    4300014: Garret_M-110Hatch
+    4300016: Garret_M-110TurretCol1
+    4300018: Garret_M-110TurretCol2
+    6400000: Garret_M-110Hull
+    6400002: Garret_M-110Miner
+    6400004: Garret_M-110Rotor
+    6400006: Garret_M-110Turret
+    6400008: Garret_M-110Wheel
+    6400010: Cylinder
+    6400012: Garret_M-110Turret_001
+    6400014: Garret_M-110Hatch
+    6400016: Garret_M-110TurretCol1
+    6400018: Garret_M-110TurretCol2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

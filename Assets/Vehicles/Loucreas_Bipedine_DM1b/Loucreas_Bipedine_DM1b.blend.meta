@@ -1,0 +1,126 @@
+fileFormatVersion: 2
+guid: 891a194381b2d5b4d96fb346e179c5e4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PiriComparison
+    100004: Vessel
+    100006: Vessel_001
+    100008: Vessel_002
+    100010: Walker1Hull
+    100012: Walker1Leg1
+    100014: Walker1Leg2
+    100016: Walker1LLeg1
+    100018: Walker1RLeg1
+    100020: Walker1Hip
+    100022: Walker1Foot
+    400000: //RootNode
+    400002: PiriComparison
+    400004: Vessel
+    400006: Vessel_001
+    400008: Vessel_002
+    400010: Walker1Hull
+    400012: Walker1Leg1
+    400014: Walker1Leg2
+    400016: Walker1LLeg1
+    400018: Walker1RLeg1
+    400020: Walker1Hip
+    400022: Walker1Foot
+    2300000: PiriComparison
+    2300002: Vessel
+    2300004: Vessel_001
+    2300006: Vessel_002
+    2300008: Walker1Hull
+    2300010: Walker1Leg1
+    2300012: Walker1Leg2
+    2300014: Walker1LLeg1
+    2300016: Walker1RLeg1
+    2300018: Walker1Hip
+    2300020: Walker1Foot
+    3300000: PiriComparison
+    3300002: Vessel
+    3300004: Vessel_001
+    3300006: Vessel_002
+    3300008: Walker1Hull
+    3300010: Walker1Leg1
+    3300012: Walker1Leg2
+    3300014: Walker1LLeg1
+    3300016: Walker1RLeg1
+    3300018: Walker1Hip
+    3300020: Walker1Foot
+    4300000: Vessel_002
+    4300002: Vessel_001
+    4300004: Vessel
+    4300006: PiriComparison
+    4300008: Walker1Leg2
+    4300010: Walker1Leg1
+    4300012: Walker1Hull
+    4300014: Walker1RLeg1
+    4300016: Walker1LLeg1
+    4300018: Walker1Hip
+    4300020: Walker1Foot
+    6400000: PiriComparison
+    6400002: Walker1Hull
+    6400004: Walker1Leg1
+    6400006: Walker1Leg2
+    6400008: Walker1LLeg1
+    6400010: Walker1RLeg1
+    6400012: Walker1Hip
+    6400014: Walker1Foot
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

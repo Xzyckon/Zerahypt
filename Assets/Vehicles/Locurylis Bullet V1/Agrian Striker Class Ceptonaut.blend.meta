@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 44f300a86cae18e4ebce8d1b1bceed9e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AgrianSCCchassis
+    100004: AgrianSCCchassisCol
+    100006: AgrianSCCmissile
+    100008: AgrianSCCthruster
+    100010: PiriEstimate
+    100012: AgrianSCCFragment
+    100014: Locurylis1Chassis
+    100016: Locurylis1Col
+    100018: Locurylis2chassis
+    100020: Locurylis2Col
+    100022: LocurylisFragment
+    400000: //RootNode
+    400002: AgrianSCCchassis
+    400004: AgrianSCCchassisCol
+    400006: AgrianSCCmissile
+    400008: AgrianSCCthruster
+    400010: PiriEstimate
+    400012: AgrianSCCFragment
+    400014: Locurylis1Chassis
+    400016: Locurylis1Col
+    400018: Locurylis2chassis
+    400020: Locurylis2Col
+    400022: LocurylisFragment
+    2300000: AgrianSCCchassis
+    2300002: AgrianSCCchassisCol
+    2300004: AgrianSCCmissile
+    2300006: AgrianSCCthruster
+    2300008: PiriEstimate
+    2300010: AgrianSCCFragment
+    2300012: Locurylis1Chassis
+    2300014: Locurylis1Col
+    2300016: Locurylis2chassis
+    2300018: Locurylis2Col
+    2300020: LocurylisFragment
+    3300000: AgrianSCCchassis
+    3300002: AgrianSCCchassisCol
+    3300004: AgrianSCCmissile
+    3300006: AgrianSCCthruster
+    3300008: PiriEstimate
+    3300010: AgrianSCCFragment
+    3300012: Locurylis1Chassis
+    3300014: Locurylis1Col
+    3300016: Locurylis2chassis
+    3300018: Locurylis2Col
+    3300020: LocurylisFragment
+    4300000: AgrianSCCchassisCol
+    4300002: AgrianSCCthruster
+    4300004: PiriEstimate
+    4300006: AgrianSCCchassis
+    4300008: AgrianSCCmissile
+    4300010: AgrianSCCFragment
+    4300012: Locurylis2Col
+    4300014: Locurylis2chassis
+    4300016: LocurylisFragment
+    4300018: Locurylis1Col
+    4300020: Locurylis1Chassis
+    6400000: AgrianSCCchassis
+    6400002: AgrianSCCchassisCol
+    6400004: AgrianSCCFragment
+    6400006: AgrianSCCmissile
+    6400008: AgrianSCCthruster
+    6400010: PiriEstimate
+    6400012: Locurylis1Chassis
+    6400014: Locurylis1Col
+    6400016: Locurylis2chassis
+    6400018: Locurylis2Col
+    6400020: LocurylisFragment
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: dae6891180de8ea40af503b5c26f7994
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AkbarTemple
+    100004: PiriComparison
+    100006: AkbarBannerAnchor
+    100008: AkbarFence
+    100010: Cube
+    100012: WoodAmmoCrate
+    100014: AkbarShed
+    100016: WoodReel
+    100018: Cylinder
+    100020: BannerPole
+    400000: //RootNode
+    400002: AkbarTemple
+    400004: PiriComparison
+    400006: AkbarBannerAnchor
+    400008: AkbarFence
+    400010: Cube
+    400012: WoodAmmoCrate
+    400014: AkbarShed
+    400016: WoodReel
+    400018: Cylinder
+    400020: BannerPole
+    2300000: AkbarTemple
+    2300002: PiriComparison
+    2300004: AkbarBannerAnchor
+    2300006: AkbarFence
+    2300008: Cube
+    2300010: WoodAmmoCrate
+    2300012: AkbarShed
+    2300014: WoodReel
+    2300016: Cylinder
+    2300018: BannerPole
+    3300000: AkbarTemple
+    3300002: PiriComparison
+    3300004: AkbarBannerAnchor
+    3300006: AkbarFence
+    3300008: Cube
+    3300010: WoodAmmoCrate
+    3300012: AkbarShed
+    3300014: WoodReel
+    3300016: Cylinder
+    3300018: BannerPole
+    4300000: PiriComparison
+    4300002: AkbarTemple
+    4300004: AkbarBannerAnchor
+    4300006: AkbarFence
+    4300008: WoodAmmoCrate
+    4300010: Cube
+    4300012: AkbarShed
+    4300014: WoodReel
+    4300016: Cylinder
+    4300018: BannerPole
+    6400000: AkbarBannerAnchor
+    6400002: AkbarFence
+    6400004: AkbarShed
+    6400006: AkbarTemple
+    6400008: PiriComparison
+    6400010: WoodAmmoCrate
+    6400012: WoodReel
+    6400014: Cylinder
+    6400016: BannerPole
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,108 @@
+fileFormatVersion: 2
+guid: 3d0d3fa37aa01c04287242076fd4187e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: EncydrosInspector
+    100004: Missile
+    100006: MissileDispenser
+    100008: WinchRod
+    100010: Hook
+    100012: DozerHatch
+    100014: Dozer
+    400000: //RootNode
+    400002: EncydrosInspector
+    400004: Missile
+    400006: MissileDispenser
+    400008: WinchRod
+    400010: Hook
+    400012: DozerHatch
+    400014: Dozer
+    2300000: //RootNode
+    2300002: EncydrosInspector
+    2300004: Missile
+    2300006: MissileDispenser
+    2300008: WinchRod
+    2300010: Hook
+    2300012: DozerHatch
+    2300014: Dozer
+    3300000: //RootNode
+    3300002: EncydrosInspector
+    3300004: Missile
+    3300006: MissileDispenser
+    3300008: WinchRod
+    3300010: Hook
+    3300012: DozerHatch
+    3300014: Dozer
+    4300000: EncydrosInspector
+    4300002: Missile
+    4300004: MissileDispenser
+    4300006: WinchRod
+    4300008: Hook
+    4300010: DozerHatch
+    4300012: Dozer
+    6400000: //RootNode
+    6400002: EncydrosInspector
+    6400004: Missile
+    6400006: MissileDispenser
+    6400008: WinchRod
+    6400010: Hook
+    6400012: DozerHatch
+    6400014: Dozer
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

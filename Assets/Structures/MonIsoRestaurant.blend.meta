@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: 94afad53a81b1f544a116fb15651d8e6
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: MonIsoRestaurant
+    100004: MonIsoRestaurantInterior
+    100006: MonIsoRestaurantWindow
+    100008: PiriEstimate
+    100010: MonIsoRestaurantCol1
+    100012: MonIsoRestaurantCol2
+    100014: MonIsoRestaurantCol3
+    400000: //RootNode
+    400002: MonIsoRestaurant
+    400004: MonIsoRestaurantInterior
+    400006: MonIsoRestaurantWindow
+    400008: PiriEstimate
+    400010: MonIsoRestaurantCol1
+    400012: MonIsoRestaurantCol2
+    400014: MonIsoRestaurantCol3
+    2300000: MonIsoRestaurant
+    2300002: MonIsoRestaurantInterior
+    2300004: MonIsoRestaurantWindow
+    2300006: PiriEstimate
+    2300008: MonIsoRestaurantCol1
+    2300010: MonIsoRestaurantCol2
+    2300012: MonIsoRestaurantCol3
+    3300000: MonIsoRestaurant
+    3300002: MonIsoRestaurantInterior
+    3300004: MonIsoRestaurantWindow
+    3300006: PiriEstimate
+    3300008: MonIsoRestaurantCol1
+    3300010: MonIsoRestaurantCol2
+    3300012: MonIsoRestaurantCol3
+    4300000: MonIsoRestaurantWindow
+    4300002: MonIsoRestaurantInterior
+    4300004: MonIsoRestaurant
+    4300006: PiriEstimate
+    4300008: MonIsoRestaurantCol3
+    4300010: MonIsoRestaurantCol1
+    4300012: MonIsoRestaurantCol2
+    6400000: MonIsoRestaurant
+    6400002: MonIsoRestaurantInterior
+    6400004: MonIsoRestaurantWindow
+    6400006: PiriEstimate
+    6400008: MonIsoRestaurantCol1
+    6400010: MonIsoRestaurantCol2
+    6400012: MonIsoRestaurantCol3
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 0
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

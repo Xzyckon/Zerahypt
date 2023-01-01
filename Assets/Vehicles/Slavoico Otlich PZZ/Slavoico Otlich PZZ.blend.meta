@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: a0dcd52356973394081afec47686aab4
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: PiriComparison
+    100002: //RootNode
+    100004: Slavoico2Chassis2
+    100006: SlavuicCruiser
+    100008: SlavoicoCruiserLauncher
+    100010: SlavuicCruiserCol
+    100012: SlavuicCruiserCol1
+    100014: SlavuicCruiserCol2
+    100016: SlavuicCruiserCol3
+    100018: SlavoicoCruiserLauncherCol
+    100020: SlavuicCruiser_002
+    100022: SlavuicCruiserBombLauncher
+    100024: BBDM100
+    100026: SlavoicoBM100
+    100028: SlavuicCruiser_001
+    100030: SlavuicCruiserGate1
+    400000: PiriComparison
+    400002: //RootNode
+    400004: Slavoico2Chassis2
+    400006: SlavuicCruiser
+    400008: SlavoicoCruiserLauncher
+    400010: SlavuicCruiserCol
+    400012: SlavuicCruiserCol1
+    400014: SlavuicCruiserCol2
+    400016: SlavuicCruiserCol3
+    400018: SlavoicoCruiserLauncherCol
+    400020: SlavuicCruiser_002
+    400022: SlavuicCruiserBombLauncher
+    400024: BBDM100
+    400026: SlavoicoBM100
+    400028: SlavuicCruiser_001
+    400030: SlavuicCruiserGate1
+    2300000: PiriComparison
+    2300002: Slavoico2Chassis2
+    2300004: SlavuicCruiser
+    2300006: SlavoicoCruiserLauncher
+    2300008: SlavuicCruiserCol
+    2300010: SlavuicCruiserCol1
+    2300012: SlavuicCruiserCol2
+    2300014: SlavuicCruiserCol3
+    2300016: SlavoicoCruiserLauncherCol
+    2300018: SlavuicCruiser_002
+    2300020: SlavuicCruiserBombLauncher
+    2300022: BBDM100
+    2300024: SlavoicoBM100
+    2300026: SlavuicCruiser_001
+    2300028: SlavuicCruiserGate1
+    3300000: PiriComparison
+    3300002: Slavoico2Chassis2
+    3300004: SlavuicCruiser
+    3300006: SlavoicoCruiserLauncher
+    3300008: SlavuicCruiserCol
+    3300010: SlavuicCruiserCol1
+    3300012: SlavuicCruiserCol2
+    3300014: SlavuicCruiserCol3
+    3300016: SlavoicoCruiserLauncherCol
+    3300018: SlavuicCruiser_002
+    3300020: SlavuicCruiserBombLauncher
+    3300022: BBDM100
+    3300024: SlavoicoBM100
+    3300026: SlavuicCruiser_001
+    3300028: SlavuicCruiserGate1
+    4300000: Slavoico2Chassis2
+    4300002: PiriComparison
+    4300004: SlavuicCruiser
+    4300006: SlavoicoCruiserLauncher
+    4300008: SlavuicCruiserCol
+    4300010: SlavuicCruiserCol3
+    4300012: SlavuicCruiserCol2
+    4300014: SlavuicCruiserCol1
+    4300016: SlavoicoCruiserLauncherCol
+    4300018: SlavuicCruiser_002
+    4300020: SlavuicCruiserBombLauncher
+    4300022: BBDM100
+    4300024: SlavoicoBM100
+    4300026: SlavuicCruiser_001
+    4300028: SlavuicCruiserGate1
+    6400000: PiriComparison
+    6400002: Slavoico2Chassis2
+    6400004: SlavuicCruiser
+    6400006: SlavoicoCruiserLauncher
+    6400008: SlavuicCruiserCol
+    6400010: SlavuicCruiserCol1
+    6400012: SlavuicCruiserCol2
+    6400014: SlavuicCruiserCol3
+    6400016: SlavoicoCruiserLauncherCol
+    6400018: SlavuicCruiser_002
+    6400020: SlavuicCruiserBombLauncher
+    6400022: BBDM100
+    6400024: SlavoicoBM100
+    6400026: SlavuicCruiser_001
+    6400028: SlavuicCruiserGate1
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: 2a9400b8af1fa1e4385de0988b5c2582
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SunSpurgeFruit
+    100004: SunSpurgeLeaf2
+    100006: SunSpurgeLeaf2_001
+    100008: SunSpurgeLeaf2_002
+    100010: SunSpurgeLeaf2_003
+    100012: SunSpurgeStem
+    400000: //RootNode
+    400002: SunSpurgeFruit
+    400004: SunSpurgeLeaf2
+    400006: SunSpurgeLeaf2_001
+    400008: SunSpurgeLeaf2_002
+    400010: SunSpurgeLeaf2_003
+    400012: SunSpurgeStem
+    2300000: SunSpurgeFruit
+    2300002: SunSpurgeLeaf2
+    2300004: SunSpurgeLeaf2_001
+    2300006: SunSpurgeLeaf2_002
+    2300008: SunSpurgeLeaf2_003
+    2300010: SunSpurgeStem
+    3300000: SunSpurgeFruit
+    3300002: SunSpurgeLeaf2
+    3300004: SunSpurgeLeaf2_001
+    3300006: SunSpurgeLeaf2_002
+    3300008: SunSpurgeLeaf2_003
+    3300010: SunSpurgeStem
+    4300000: SunSpurgeLeaf2_003
+    4300002: SunSpurgeLeaf2_002
+    4300004: SunSpurgeLeaf2_001
+    4300006: SunSpurgeLeaf2
+    4300008: SunSpurgeFruit
+    4300010: SunSpurgeStem
+    6400000: SunSpurgeFruit
+    6400002: SunSpurgeLeaf2
+    6400004: SunSpurgeLeaf2_001
+    6400006: SunSpurgeLeaf2_002
+    6400008: SunSpurgeLeaf2_003
+    6400010: SunSpurgeStem
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 80
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

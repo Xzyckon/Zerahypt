@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 2.76.0 commit date:2015-10-11, commit time:06:55, hash:48f7dd6</authoring_tool>
+    </contributor>
+    <created>2016-01-03T04:05:37</created>
+    <modified>2016-01-03T04:05:37</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_images/>
+  <library_effects>
+    <effect id="InteriorDirt-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.1259473 0.07477977 0.04935835 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="InteriorWood-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.5199945 0.4033206 0.165787 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="InteriorSand-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.7878969 0.7402629 0.5121455 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="InteriorDarkWood-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.3215676 0.2719666 0.158756 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="AnDunal-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.3104998 0.1010472 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="AcriCrystals-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.6839712 0.4157724 0.09251876 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="ExteriorDarkWood-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.300592 0.2511604 0.143823 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="InteriorWood2-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.3583741 0.1354964 0.06165612 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="InteriorDarkWoodPlankless-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.3433726 0.2950736 0.1250886 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="InteriorDirt_001-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.1969501 0.1855024 0.1150983 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="InteriorWood_001-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.5199945 0.4033206 0.165787 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="InteriorSand_001-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.7878969 0.7402629 0.5121455 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="InteriorDarkWood_001-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.3215676 0.2719666 0.158756 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="AnDunal_001-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.64 0.3104998 0.1010472 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="AcriCrystals_001-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.6839712 0.4157724 0.09251876 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="ExteriorDarkWood_001-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.300592 0.2511604 0.143823 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+    <effect id="InteriorWood2_001-effect">
+      <profile_COMMON>
+        <technique sid="common">
+          <phong>
+            <emission>
+              <color sid="emission">0 0 0 1</color>
+            </emission>
+            <ambient>
+              <color sid="ambient">0 0 0 1</color>
+            </ambient>
+            <diffuse>
+              <color sid="diffuse">0.3583741 0.1354964 0.06165612 1</color>
+            </diffuse>
+            <specular>
+              <color sid="specular">0.5 0.5 0.5 1</color>
+            </specular>
+            <shininess>
+              <float sid="shininess">50</float>
+            </shininess>
+            <index_of_refraction>
+              <float sid="index_of_refraction">1</float>
+            </index_of_refraction>
+          </phong>
+        </technique>
+        <extra>
+          <technique profile="GOOGLEEARTH">
+            <double_sided>1</double_sided>
+          </technique>
+        </extra>
+      </profile_COMMON>
+      <extra><technique profile="MAX3D"><double_sided>1</double_sided></technique></extra>
+    </effect>
+  </library_effects>
+  <library_materials>
+    <material id="InteriorDirt-material" name="InteriorDirt">
+      <instance_effect url="#InteriorDirt-effect"/>
+    </material>
+    <material id="InteriorWood-material" name="InteriorWood">
+      <instance_effect url="#InteriorWood-effect"/>
+    </material>
+    <material id="InteriorSand-material" name="InteriorSand">
+      <instance_effect url="#InteriorSand-effect"/>
+    </material>
+    <material id="InteriorDarkWood-material" name="InteriorDarkWood">
+      <instance_effect url="#InteriorDarkWood-effect"/>
+    </material>
+    <material id="AnDunal-material" name="AnDunal">
+      <instance_effect url="#AnDunal-effect"/>
+    </material>
+    <material id="AcriCrystals-material" name="AcriCrystals">
+      <instance_effect url="#AcriCrystals-effect"/>
+    </material>
+    <material id="ExteriorDarkWood-material" name="ExteriorDarkWood">
+      <instance_effect url="#ExteriorDarkWood-effect"/>
+    </material>
+    <material id="InteriorWood2-material" name="InteriorWood2">
+      <instance_effect url="#InteriorWood2-effect"/>
+    </material>
+    <material id="InteriorDarkWoodPlankless-material" name="InteriorDarkWoodPlankless">
+      <instance_effect url="#InteriorDarkWoodPlankless-effect"/>
+    </material>
+    <material id="InteriorDirt_001-material" name="InteriorDirt_001">
+      <instance_effect url="#InteriorDirt_001-effect"/>
+    </material>
+    <material id="InteriorWood_001-material" name="InteriorWood_001">
+      <instance_effect url="#InteriorWood_001-effect"/>
+    </material>
+    <material id="InteriorSand_001-material" name="InteriorSand_001">
+      <instance_effect url="#InteriorSand_001-effect"/>
+    </material>
+    <material id="InteriorDarkWood_001-material" name="InteriorDarkWood_001">
+      <instance_effect url="#InteriorDarkWood_001-effect"/>
+    </material>
+    <material id="AnDunal_001-material" name="AnDunal_001">
+      <instance_effect url="#AnDunal_001-effect"/>
+    </material>
+    <material id="AcriCrystals_001-material" name="AcriCrystals_001">
+      <instance_effect url="#AcriCrystals_001-effect"/>
+    </material>
+    <material id="ExteriorDarkWood_001-material" name="ExteriorDarkWood_001">
+      <instance_effect url="#ExteriorDarkWood_001-effect"/>
+    </material>
+    <material id="InteriorWood2_001-material" name="InteriorWood2_001">
+      <instance_effect url="#InteriorWood2_001-effect"/>
+    </material>
+  </library_materials>
+  <library_geometries>
+    <geometry id="Cube_002-mesh" name="Cube.002">
+      <mesh>
+        <source id="Cube_002-mesh-positions">
+          <float_array id="Cube_002-mesh-positions-array" count="204">13.35848 5.108613 -0.9278021 11.85505 5.108613 -0.9278393 11.84291 5.108613 1.944711 13.37063 5.108613 1.951796 13.32483 -2.187284 1.633683 13.32483 -2.147271 -0.4908442 13.42032 -3.062016 -0.5068217 13.42032 -3.102029 1.630266 13.28294 -2.123675 2.000586 11.76731 -2.123674 1.999153 11.75371 -2.187625 2.012944 13.30063 -2.187625 2.012952 13.39612 -3.10237 2.003211 11.8492 -3.10237 2.003211 13.32311 -2.051651 -0.4807053 13.32324 -2.090312 1.60923 11.86197 -3.061675 -0.8797662 13.39612 -3.061675 -0.8797663 13.30063 -2.14693 -0.8700327 11.76648 -2.14693 -0.8700327 11.77976 -2.083299 -0.8718639 13.28319 -2.083299 -0.871864 11.72809 -2.090311 1.607737 11.74024 -2.05165 -0.4807577 11.8251 -3.102029 1.630266 11.83766 -3.062016 -0.5068218 11.74217 -2.147271 -0.4908443 11.72961 -2.187284 1.633668 13.42115 -3.147989 1.627564 13.42115 -3.107911 -0.511236 11.84774 -3.148297 1.999938 13.39922 -3.148297 1.999938 13.39922 -3.107602 -0.8836098 11.86052 -3.107602 -0.8836098 11.8385 -3.107911 -0.5112361 11.82591 -3.147989 1.627564 -1.579947 4.119643 -13.04196 1.570319 4.119643 -13.04196 1.570319 4.119643 -8.426651 -1.579947 4.119643 -8.426651 1.570319 13.84695 -8.426651 -1.579947 13.84695 -8.426651 -1.794769 13.84695 -13.34183 1.785142 13.84695 -13.34183 1.785142 13.84695 -8.126782 -1.794769 13.84695 -8.126782 -1.794769 13.36714 -13.34183 1.785142 13.36714 -13.34183 1.785142 13.36714 -8.126782 -1.794769 13.36714 -8.126782 -1.579947 13.84695 -13.25374 -1.579947 13.39684 -13.04196 -1.579947 13.84695 -12.90684 1.570319 13.39684 -13.04196 1.570319 13.84695 -13.25374 1.570319 13.84695 -12.90684 -1.579947 -4.740748 -13.04196 1.570319 -4.740748 -13.04196 1.570319 -4.740748 -8.426651 -1.579947 -4.740748 -8.426651 -4.861745 12.79776 -8.114496 -8.518889 2.398313 -8.114496 1.570319 -18.03978 -8.114496 -5.850745 -10.63124 -8.114496 33.01021 -2.621032 -8.114496 33.01021 5.08835 -8.114496 22.93874 -13.11707 -8.114496 27.02686 11.71441 -8.114496</float_array>
+          <technique_common>
+            <accessor source="#Cube_002-mesh-positions-array" count="68" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Cube_002-mesh-normals">
+          <float_array id="Cube_002-mesh-normals-array" count="213">-0.9945971 -0.1037915 -0.001954793 0.004636943 -0.006802141 -0.9999662 0 0.01064908 -0.9999434 0 -0.01064008 0.9999435 -2.47837e-5 0.007777929 0.9999698 0.9998668 -0.01576948 0.004225373 0.9945789 0.10369 0.007834017 -0.999838 -0.01799559 -2.71202e-4 -0.9924654 -0.1042864 0.06431859 -0.9998394 -0.01792085 -3.35642e-4 -0.9926614 -0.1029468 -0.06344461 0.9948078 -0.00962615 0.1013162 9.24497e-4 -0.2109983 -0.977486 0 0.07107692 -0.9974709 0.9925971 0.1038528 -0.06297385 -0.9948613 0.01119774 0.1006274 0 -0.08339506 0.9965167 0 0.02876698 0.9995862 0.9925762 0.1029249 0.06479948 0.9997889 0.01959425 0.00617522 0.9998266 0.01755481 0.006211459 -0.9934382 -0.04305911 -0.105956 -0.963068 -0.2622016 0.06123995 0.9948588 -0.011357 -0.100634 0.9773671 -0.2021126 0.06248241 -0.9959256 -0.06282258 -0.06469571 -0.9956637 -0.07228457 0.05855602 0.9975507 -0.02710276 -0.06448304 0.9975901 -0.03657728 0.05895948 0.9948627 -0.01115804 -0.1006171 -0.9947752 0.01137614 -0.1014538 -0.9999776 0.005203187 0.004218459 0 -1 1.03106e-5 1 0 0 0 0 -1 1 3.81731e-7 0 0 1 3.02861e-6 0 1 0 0 0 1 -1 0 0 0 -1 0 0 -0.4257488 -0.9048414 -0.9945944 -0.1038184 -0.001943767 9.45859e-4 -0.007537186 -0.9999712 5.22287e-6 0.01064079 -0.9999434 0 -0.01064008 0.9999435 0 0.007782876 0.9999697 0.9998535 -0.01620531 0.005512952 0.9945683 0.1037944 0.00778985 -0.9998635 -0.01651841 -3.11127e-4 -0.9924888 -0.1047102 0.06326073 -0.9998388 -0.01795786 -3.36157e-4 -0.9925486 -0.1033691 -0.06451416 5.02822e-6 -0.1898539 -0.9818124 -2.08596e-7 0.07108038 -0.9974707 0.9924834 0.1042883 -0.06403565 0 -0.08339679 0.9965165 0 0.02876687 0.9995862 0.9926879 0.1025096 0.06373912 0.9998315 0.01726686 0.006237924 0.9998311 0.01730006 0.00620234 -0.9588882 -0.2770522 -0.06144535 -0.9941773 -0.0289179 0.1038039 0.973437 -0.2203872 -0.06204789 0.9949635 0.009622097 0.09977531 -0.9981673 -0.01440554 -0.05877548 -0.9976102 -0.02417707 0.06472575 0.9980648 0.02113336 -0.05848181 0.9978099 0.01195198 0.06505835 -0.9999784 0.006574094 1.83214e-4 0 -0.425747 -0.9048423</float_array>
+          <technique_common>
+            <accessor source="#Cube_002-mesh-normals-array" count="71" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="Cube_002-mesh-map-0">
+          <float_array id="Cube_002-mesh-map-0-array" count="600">0.376329 0.9099759 0.387265 0.9096742 0.3873071 0.9143866 0.8081845 0.0212062 0.8152121 0.02127826 0.8146926 0.05875992 0.8147449 0.05909329 0.8152082 0.06383752 0.8080753 0.06376516 0.9051733 0.0174638 0.9130639 0.0174638 0.9125702 0.02220559 0.912482 0.02253538 0.9129318 0.05981218 0.9051992 0.05981218 0.9263637 0.06661707 0.9281643 0.1037446 0.9143748 0.1036726 0.9263192 0.06138193 0.9264101 0.06612169 0.9162192 0.06586098 0.3764542 0.9094731 0.3872122 0.90918 0.387265 0.9096742 0.3892311 0.9096614 0.389241 0.9143741 0.3873071 0.9143866 0.3763206 0.9149265 0.3763064 0.9146888 0.3873071 0.9143866 0.3744007 0.9147131 0.3743907 0.9100004 0.376329 0.9099759 0.9281643 0.1037446 0.9263637 0.06661707 0.9281687 0.06646335 0.807612 0.05902093 0.8077072 0.05868887 0.8146926 0.05875992 0.8080763 0.06400281 0.8080753 0.06376516 0.8152082 0.06383752 0.9160677 0.06112092 0.9162192 0.06586098 0.9143489 0.06585007 0.3893719 0.8720782 0.3892496 0.9093361 0.3872122 0.90918 0.905168 0.01722562 0.9130821 0.01722562 0.9130639 0.0174638 0.912482 0.02253538 0.9047493 0.02253538 0.9046797 0.02220565 0.9263192 0.06138193 0.9280656 0.06139338 0.9281866 0.06613332 0.9264101 0.06612169 0.9263637 0.06661707 0.9163451 0.06636428 0.91608 0.0608828 0.9263396 0.06114417 0.9263192 0.06138193 0.3744636 0.909673 0.3764542 0.9094731 0.376329 0.9099759 0.3892496 0.9093361 0.3892311 0.9096614 0.387265 0.9096742 0.9162192 0.06586098 0.9163451 0.06636428 0.9143879 0.06618213 0.9264101 0.06612169 0.9281866 0.06613332 0.9281687 0.06646335 0.3744165 0.91495 0.3744007 0.9147131 0.3763064 0.9146888 0.389241 0.9143741 0.3892598 0.914611 0.3873301 0.9146238 0.9160677 0.06112092 0.914228 0.06111019 0.9142473 0.06087219 0.9263396 0.06114417 0.9280877 0.06115543 0.9280656 0.06139338 0.9163451 0.06636428 0.9143748 0.1036726 0.9143879 0.06618213 0.3745411 0.8722034 0.3764542 0.9094731 0.3744636 0.909673 0.3745411 0.8722034 0.3893719 0.8720782 0.3872122 0.90918 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.3763064 0.9146888 0.376329 0.9099759 0.3873071 0.9143866 0.8077072 0.05868887 0.8081845 0.0212062 0.8146926 0.05875992 0.807612 0.05902093 0.8147449 0.05909329 0.8080753 0.06376516 0.9046797 0.02220565 0.9051733 0.0174638 0.9125702 0.02220559 0.9047493 0.02253538 0.912482 0.02253538 0.9051992 0.05981218 0.9163451 0.06636428 0.9263637 0.06661707 0.9143748 0.1036726 0.9160677 0.06112092 0.9263192 0.06138193 0.9162192 0.06586098 0.376329 0.9099759 0.3764542 0.9094731 0.387265 0.9096742 0.387265 0.9096742 0.3892311 0.9096614 0.3873071 0.9143866 0.3873301 0.9146238 0.3763206 0.9149265 0.3873071 0.9143866 0.3763064 0.9146888 0.3744007 0.9147131 0.376329 0.9099759 0.8147449 0.05909329 0.807612 0.05902093 0.8146926 0.05875992 0.8152303 0.06407541 0.8080763 0.06400281 0.8152082 0.06383752 0.914228 0.06111019 0.9160677 0.06112092 0.9143489 0.06585007 0.9051733 0.0174638 0.905168 0.01722562 0.9130639 0.0174638 0.9125702 0.02220559 0.912482 0.02253538 0.9046797 0.02220565 0.9264101 0.06612169 0.9263192 0.06138193 0.9281866 0.06613332 0.9162192 0.06586098 0.9264101 0.06612169 0.9163451 0.06636428 0.9160677 0.06112092 0.91608 0.0608828 0.9263192 0.06138193 0.3743907 0.9100004 0.3744636 0.909673 0.376329 0.9099759 0.3872122 0.90918 0.3892496 0.9093361 0.387265 0.9096742 0.9143489 0.06585007 0.9162192 0.06586098 0.9143879 0.06618213 0.9263637 0.06661707 0.9264101 0.06612169 0.9281687 0.06646335 0.3763206 0.9149265 0.3744165 0.91495 0.3763064 0.9146888 0.3873071 0.9143866 0.389241 0.9143741 0.3873301 0.9146238 0.91608 0.0608828 0.9160677 0.06112092 0.9142473 0.06087219 0.9263192 0.06138193 0.9263396 0.06114417 0.9280656 0.06139338 0.3764542 0.9094731 0.3745411 0.8722034 0.3872122 0.90918 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0</float_array>
+          <technique_common>
+            <accessor source="#Cube_002-mesh-map-0-array" count="300" stride="2">
+              <param name="S" type="float"/>
+              <param name="T" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="Cube_002-mesh-vertices">
+          <input semantic="POSITION" source="#Cube_002-mesh-positions"/>
+        </vertices>
+        <lines count="8">
+          <input semantic="VERTEX" source="#Cube_002-mesh-vertices" offset="0"/>
+          <p>60 61 62 63 63 61 62 66 64 65 65 67 66 64 67 60</p>
+        </lines>
+        <polylist material="InteriorDarkWood-material" count="60">
+          <input semantic="VERTEX" source="#Cube_002-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cube_002-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Cube_002-mesh-map-0" offset="2" set="0"/>
+          <vcount>3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </vcount>
+          <p>4 0 0 5 0 1 6 0 2 2 1 3 3 1 4 8 1 5 11 2 6 12 2 7 13 2 8 16 3 9 17 3 10 18 3 11 21 4 12 0 4 13 1 4 14 23 5 15 1 5 16 2 5 17 25 6 18 26 6 19 27 6 20 15 7 21 14 7 22 5 7 23 18 8 24 17 8 25 6 8 26 28 9 27 7 9 28 6 9 29 12 10 30 11 10 31 4 10 32 1 11 33 23 11 34 20 11 35 10 12 36 9 12 37 8 12 38 30 13 39 13 13 40 12 13 41 24 14 42 27 14 43 10 14 44 0 15 45 21 15 46 14 15 47 33 16 48 32 16 49 17 16 50 21 17 51 20 17 52 19 17 53 25 18 54 16 18 55 19 18 56 26 19 57 23 19 58 22 19 59 35 20 60 34 20 61 25 20 62 8 21 63 15 21 64 4 21 65 21 22 66 18 22 67 5 22 68 27 23 69 22 23 70 9 23 71 26 24 72 19 24 73 20 24 74 31 25 75 12 25 76 7 25 77 17 26 78 32 26 79 29 26 80 24 27 81 13 27 82 30 27 83 34 28 84 33 28 85 16 28 86 22 29 87 2 29 88 9 29 89 3 30 90 15 30 91 8 30 92 3 31 93 0 31 94 14 31 95 7 42 153 4 42 154 6 42 155 9 43 156 2 43 157 8 43 158 10 44 159 11 44 160 13 44 161 19 45 162 16 45 163 18 45 164 20 46 165 21 46 166 1 46 167 22 47 168 23 47 169 2 47 170 24 48 171 25 48 172 27 48 173 4 49 174 15 49 175 5 49 176 5 50 177 18 50 178 6 50 179 29 51 180 28 51 181 6 51 182 7 52 183 12 52 184 4 52 185 11 53 186 10 53 187 8 53 188 31 54 189 30 54 190 12 54 191 13 55 192 24 55 193 10 55 194 16 56 195 33 56 196 17 56 197 18 57 198 21 57 199 19 57 200 26 58 201 25 58 202 19 58 203 27 59 204 26 59 205 22 59 206 24 60 207 35 60 208 25 60 209 11 61 210 8 61 211 4 61 212 14 62 213 21 62 214 5 62 215 10 63 216 27 63 217 9 63 218 23 64 219 26 64 220 20 64 221 28 65 222 31 65 223 7 65 224 6 66 225 17 66 226 29 66 227 35 67 228 24 67 229 30 67 230 25 68 231 34 68 232 16 68 233 15 69 234 3 69 235 14 69 236</p>
+        </polylist>
+        <polylist material="InteriorDirt_001-material" count="40">
+          <input semantic="VERTEX" source="#Cube_002-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#Cube_002-mesh-normals" offset="1"/>
+          <input semantic="TEXCOORD" source="#Cube_002-mesh-map-0" offset="2" set="0"/>
+          <vcount>3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 3 </vcount>
+          <p>54 32 96 50 32 97 42 32 98 53 33 99 54 33 100 55 33 101 39 34 102 41 34 103 40 34 104 52 35 105 51 35 106 50 35 107 53 33 108 55 33 109 40 33 110 40 36 111 41 36 112 45 36 113 52 37 114 50 37 115 42 37 116 45 38 117 49 38 118 48 38 119 42 38 120 46 38 121 47 38 122 42 39 123 46 39 124 49 39 125 43 39 126 47 39 127 48 39 128 51 33 129 52 33 130 41 33 131 40 40 132 55 40 133 44 40 134 54 41 135 53 41 136 51 41 137 36 34 138 51 34 139 53 34 140 39 33 141 59 33 142 56 33 143 38 33 144 58 33 145 57 33 146 38 34 147 58 34 148 59 34 149 37 34 150 57 34 151 56 34 152 43 40 237 54 40 238 42 40 239 38 34 240 39 34 241 40 34 242 40 33 243 38 33 244 53 33 245 37 33 246 53 33 247 38 33 248 44 37 249 40 37 250 45 37 251 42 37 252 45 37 253 52 37 254 41 37 255 52 37 256 45 37 257 44 38 258 45 38 259 48 38 260 43 38 261 42 38 262 47 38 263 45 39 264 42 39 265 49 39 266 44 39 267 43 39 268 48 39 269 41 33 270 39 33 271 51 33 272 36 33 273 51 33 274 39 33 275 43 40 276 44 40 277 55 40 278 55 40 279 54 40 280 43 40 281 50 70 282 54 70 283 51 70 284 37 34 285 36 34 286 53 34 287 36 33 288 39 33 289 56 33 290 37 33 291 38 33 292 57 33 293 39 34 294 38 34 295 59 34 296 36 34 297 37 34 298 56 34 299</p>
+        </polylist>
+      </mesh>
+      <extra><technique profile="MAYA"><double_sided>1</double_sided></technique></extra>
+    </geometry>
+  </library_geometries>
+  <library_animations/>
+  <library_controllers/>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="DeepAcri3" name="DeepAcri3" type="NODE">
+        <translate sid="location">0 0 14.87793</translate>
+        <rotate sid="rotationZ">0 0 1 0</rotate>
+        <rotate sid="rotationY">0 1 0 0</rotate>
+        <rotate sid="rotationX">1 0 0 0</rotate>
+        <scale sid="scale">1 1 1</scale>
+        <instance_geometry url="#Cube_002-mesh" name="DeepAcri3">
+          <bind_material>
+            <technique_common>
+              <instance_material symbol="InteriorDirt-material" target="#InteriorDirt-material"/>
+              <instance_material symbol="InteriorWood-material" target="#InteriorWood-material"/>
+              <instance_material symbol="InteriorSand-material" target="#InteriorSand-material"/>
+              <instance_material symbol="InteriorDarkWood-material" target="#InteriorDarkWood-material"/>
+              <instance_material symbol="AnDunal-material" target="#AnDunal-material"/>
+              <instance_material symbol="AcriCrystals-material" target="#AcriCrystals-material"/>
+              <instance_material symbol="ExteriorDarkWood-material" target="#ExteriorDarkWood-material"/>
+              <instance_material symbol="InteriorWood2-material" target="#InteriorWood2-material"/>
+              <instance_material symbol="InteriorDarkWoodPlankless-material" target="#InteriorDarkWoodPlankless-material"/>
+              <instance_material symbol="InteriorDirt_001-material" target="#InteriorDirt_001-material"/>
+              <instance_material symbol="InteriorWood_001-material" target="#InteriorWood_001-material"/>
+              <instance_material symbol="InteriorSand_001-material" target="#InteriorSand_001-material"/>
+              <instance_material symbol="InteriorDarkWood_001-material" target="#InteriorDarkWood_001-material"/>
+              <instance_material symbol="AnDunal_001-material" target="#AnDunal_001-material"/>
+              <instance_material symbol="AcriCrystals_001-material" target="#AcriCrystals_001-material"/>
+              <instance_material symbol="ExteriorDarkWood_001-material" target="#ExteriorDarkWood_001-material"/>
+              <instance_material symbol="InteriorWood2_001-material" target="#InteriorWood2_001-material"/>
+            </technique_common>
+          </bind_material>
+        </instance_geometry>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

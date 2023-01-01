@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: cac91cb51afe4bd4192915d189d75862
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Frond
+    100002: //RootNode
+    100004: FrondTop
+    100006: FrondBase1
+    100008: FrondShoot1
+    100010: FrondTop1
+    100012: FrondBasePart1
+    100014: FrondBasePart2
+    100016: FrondBasePart3
+    100018: FrondBase2
+    100020: FrondBase3
+    100022: FrondTopPart1
+    100024: Frondit
+    100026: FrondBaseDist
+    100028: FrondTop1Dist
+    400000: Frond
+    400002: //RootNode
+    400004: FrondTop
+    400006: FrondBase1
+    400008: FrondShoot1
+    400010: FrondTop1
+    400012: FrondBasePart1
+    400014: FrondBasePart2
+    400016: FrondBasePart3
+    400018: FrondBase2
+    400020: FrondBase3
+    400022: FrondTopPart1
+    400024: Frondit
+    400026: FrondBaseDist
+    400028: FrondTop1Dist
+    2300000: Frond
+    2300002: FrondTop
+    2300004: FrondBase1
+    2300006: FrondShoot1
+    2300008: FrondTop1
+    2300010: FrondBasePart1
+    2300012: FrondBasePart2
+    2300014: FrondBasePart3
+    2300016: FrondBase2
+    2300018: FrondBase3
+    2300020: FrondTopPart1
+    2300022: Frondit
+    2300024: FrondBaseDist
+    2300026: FrondTop1Dist
+    3300000: Frond
+    3300002: FrondTop
+    3300004: FrondBase1
+    3300006: FrondShoot1
+    3300008: FrondTop1
+    3300010: FrondBasePart1
+    3300012: FrondBasePart2
+    3300014: FrondBasePart3
+    3300016: FrondBase2
+    3300018: FrondBase3
+    3300020: FrondTopPart1
+    3300022: Frondit
+    3300024: FrondBaseDist
+    3300026: FrondTop1Dist
+    4300000: FrondTop
+    4300002: Frond
+    4300004: FrondShoot1
+    4300006: FrondTop1
+    4300008: FrondBase1
+    4300010: FrondBasePart2
+    4300012: FrondBasePart1
+    4300014: FrondBasePart3
+    4300016: FrondBase3
+    4300018: FrondBase2
+    4300020: FrondTopPart1
+    4300022: Frondit
+    4300024: FrondBaseDist
+    4300026: FrondTop1Dist
+    6400000: FrondBase1
+    6400002: FrondShoot1
+    6400004: FrondTop1
+    6400006: FrondBasePart1
+    6400008: FrondBasePart2
+    6400010: FrondBasePart3
+    6400012: FrondBase2
+    6400014: FrondBase3
+    6400016: FrondTopPart1
+    6400018: Frondit
+    6400020: FrondBaseDist
+    6400022: FrondTop1Dist
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

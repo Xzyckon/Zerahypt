@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: e48f868e5b07cc649a3cc0408f94a440
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cube
+    100002: PiriComparison
+    100004: //RootNode
+    100006: SPKPlanetoid
+    100008: SPKPlanetoidArchitecture
+    100010: SPKPlanetoidCover
+    100012: SPKPlanetoidShadow
+    100014: SPKPlanetoidShadow2
+    100016: SPKPlanetoidFX
+    400000: Cube
+    400002: PiriComparison
+    400004: //RootNode
+    400006: SPKPlanetoid
+    400008: SPKPlanetoidArchitecture
+    400010: SPKPlanetoidCover
+    400012: SPKPlanetoidShadow
+    400014: SPKPlanetoidShadow2
+    400016: SPKPlanetoidFX
+    2300000: Cube
+    2300002: PiriComparison
+    2300004: SPKPlanetoid
+    2300006: SPKPlanetoidArchitecture
+    2300008: SPKPlanetoidCover
+    2300010: SPKPlanetoidShadow
+    2300012: SPKPlanetoidShadow2
+    2300014: SPKPlanetoidFX
+    3300000: Cube
+    3300002: PiriComparison
+    3300004: SPKPlanetoid
+    3300006: SPKPlanetoidArchitecture
+    3300008: SPKPlanetoidCover
+    3300010: SPKPlanetoidShadow
+    3300012: SPKPlanetoidShadow2
+    3300014: SPKPlanetoidFX
+    4300000: PiriComparison
+    4300002: Cube
+    4300004: SPKPlanetoid
+    4300006: SPKPlanetoidCover
+    4300008: SPKPlanetoidArchitecture
+    4300010: SPKPlanetoidShadow
+    4300012: SPKPlanetoidShadow2
+    4300014: SPKPlanetoidFX
+    6400000: PiriComparison
+    6400002: SPKPlanetoid
+    6400004: SPKPlanetoidArchitecture
+    6400006: SPKPlanetoidCover
+    6400008: SPKPlanetoidShadow
+    6400010: SPKPlanetoidShadow2
+    6400012: SPKPlanetoidFX
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

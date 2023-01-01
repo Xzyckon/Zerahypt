@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 0a00745083e377840a094f575b62ec9c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: AgrianNode
+    100002: AgrianPivotGear2
+    100004: AgrianSandGate
+    100006: AgrianShortMContainer
+    100008: //RootNode
+    100010: AgrianTruss
+    100012: AgrianTubeBase
+    100014: Helirotor1Body
+    100016: PiriComparison
+    100018: AgrianMetalStretch
+    400000: AgrianNode
+    400002: AgrianPivotGear2
+    400004: AgrianSandGate
+    400006: AgrianShortMContainer
+    400008: //RootNode
+    400010: AgrianTruss
+    400012: AgrianTubeBase
+    400014: Helirotor1Body
+    400016: PiriComparison
+    400018: AgrianMetalStretch
+    2300000: AgrianNode
+    2300002: AgrianPivotGear2
+    2300004: AgrianSandGate
+    2300006: AgrianShortMContainer
+    2300008: AgrianTruss
+    2300010: AgrianTubeBase
+    2300012: Helirotor1Body
+    2300014: PiriComparison
+    2300016: AgrianMetalStretch
+    3300000: AgrianNode
+    3300002: AgrianPivotGear2
+    3300004: AgrianSandGate
+    3300006: AgrianShortMContainer
+    3300008: AgrianTruss
+    3300010: AgrianTubeBase
+    3300012: Helirotor1Body
+    3300014: PiriComparison
+    3300016: AgrianMetalStretch
+    4300000: AgrianNode
+    4300002: AgrianShortMContainer
+    4300004: AgrianSandGate
+    4300006: AgrianPivotGear2
+    4300008: AgrianTubeBase
+    4300010: AgrianTruss
+    4300012: Helirotor1Body
+    4300014: PiriComparison
+    4300016: AgrianMetalStretch
+    6400000: AgrianNode
+    6400002: AgrianPivotGear2
+    6400004: AgrianSandGate
+    6400006: AgrianShortMContainer
+    6400008: AgrianTruss
+    6400010: AgrianTubeBase
+    6400012: Helirotor1Body
+    6400014: PiriComparison
+    6400016: AgrianMetalStretch
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

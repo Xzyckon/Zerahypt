@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 5b0d9b08f4c7b3f469e6b3032d90d6e0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DT-6_Chassis
+    100004: DT-6_ColSide
+    100006: DT-6_Gun
+    100008: DT-6_Gunmount
+    100010: DT-6_Track
+    100012: DT-6_Turret
+    100014: DT-6_TurretCol
+    100016: DT-6_Wheel1
+    100018: DT-6Col
+    100020: 50mm
+    400000: //RootNode
+    400002: DT-6_Chassis
+    400004: DT-6_ColSide
+    400006: DT-6_Gun
+    400008: DT-6_Gunmount
+    400010: DT-6_Track
+    400012: DT-6_Turret
+    400014: DT-6_TurretCol
+    400016: DT-6_Wheel1
+    400018: DT-6Col
+    400020: 50mm
+    2300000: DT-6_Chassis
+    2300002: DT-6_ColSide
+    2300004: DT-6_Gun
+    2300006: DT-6_Gunmount
+    2300008: DT-6_Track
+    2300010: DT-6_Turret
+    2300012: DT-6_TurretCol
+    2300014: DT-6_Wheel1
+    2300016: DT-6Col
+    2300018: 50mm
+    3300000: DT-6_Chassis
+    3300002: DT-6_ColSide
+    3300004: DT-6_Gun
+    3300006: DT-6_Gunmount
+    3300008: DT-6_Track
+    3300010: DT-6_Turret
+    3300012: DT-6_TurretCol
+    3300014: DT-6_Wheel1
+    3300016: DT-6Col
+    3300018: 50mm
+    4300000: DT-6_TurretCol
+    4300002: DT-6_ColSide
+    4300004: DT-6Col
+    4300006: DT-6_Wheel1
+    4300008: DT-6_Gunmount
+    4300010: DT-6_Gun
+    4300012: DT-6_Track
+    4300014: DT-6_Turret
+    4300016: DT-6_Chassis
+    4300018: 50mm
+    6400000: DT-6_Chassis
+    6400002: DT-6_ColSide
+    6400004: DT-6_Gun
+    6400006: DT-6_Gunmount
+    6400008: DT-6_Track
+    6400010: DT-6_Turret
+    6400012: DT-6_TurretCol
+    6400014: DT-6_Wheel1
+    6400016: DT-6Col
+    6400018: 50mm
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

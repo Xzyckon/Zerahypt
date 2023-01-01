@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 72689cd71c4c3c24c89f81cd4dd8eca0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: AcriCrystalBowl
+    100004: Acrityrda
+    100006: AcriLightSpreadchute
+    100008: AcriCrystalSection
+    100010: AcriCrystalPedestal
+    100012: AcriCrystalLantern
+    100014: AcriCrystalLantern2
+    100016: AcrityrdaBigColumn
+    100018: AcrityrdaDoubleColumn
+    100020: AcriCrystalBowlHuge
+    100022: HugeAnDunalBeacon
+    400000: //RootNode
+    400002: AcriCrystalBowl
+    400004: Acrityrda
+    400006: AcriLightSpreadchute
+    400008: AcriCrystalSection
+    400010: AcriCrystalPedestal
+    400012: AcriCrystalLantern
+    400014: AcriCrystalLantern2
+    400016: AcrityrdaBigColumn
+    400018: AcrityrdaDoubleColumn
+    400020: AcriCrystalBowlHuge
+    400022: HugeAnDunalBeacon
+    2300000: //RootNode
+    2300002: AcriCrystalBowl
+    2300004: Acrityrda
+    2300006: AcriLightSpreadchute
+    2300008: AcriCrystalSection
+    2300010: AcriCrystalPedestal
+    2300012: AcriCrystalLantern
+    2300014: AcriCrystalLantern2
+    2300016: AcrityrdaBigColumn
+    2300018: AcrityrdaDoubleColumn
+    2300020: AcriCrystalBowlHuge
+    2300022: HugeAnDunalBeacon
+    3300000: //RootNode
+    3300002: AcriCrystalBowl
+    3300004: Acrityrda
+    3300006: AcriLightSpreadchute
+    3300008: AcriCrystalSection
+    3300010: AcriCrystalPedestal
+    3300012: AcriCrystalLantern
+    3300014: AcriCrystalLantern2
+    3300016: AcrityrdaBigColumn
+    3300018: AcrityrdaDoubleColumn
+    3300020: AcriCrystalBowlHuge
+    3300022: HugeAnDunalBeacon
+    4300000: Acrityrda
+    4300002: AcriCrystalBowl
+    4300004: AcriLightSpreadchute
+    4300006: AcriCrystalSection
+    4300008: AcriCrystalPedestal
+    4300010: AcriCrystalLantern
+    4300012: AcriCrystalLantern2
+    4300014: AcrityrdaBigColumn
+    4300016: AcrityrdaDoubleColumn
+    4300018: AcriCrystalBowlHuge
+    4300020: HugeAnDunalBeacon
+    6400000: //RootNode
+    6400002: AcriCrystalBowl
+    6400004: Acrityrda
+    6400006: AcriLightSpreadchute
+    6400008: AcriCrystalSection
+    6400010: AcriCrystalPedestal
+    6400012: AcriCrystalLantern
+    6400014: AcriCrystalLantern2
+    6400016: AcrityrdaBigColumn
+    6400018: AcrityrdaDoubleColumn
+    6400020: AcriCrystalBowlHuge
+    6400022: HugeAnDunalBeacon
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

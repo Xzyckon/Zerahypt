@@ -1,0 +1,125 @@
+fileFormatVersion: 2
+guid: ceeda1ba155fcc14381e504a5f7f7d02
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: DeepAcriT3
+    100004: DeepAcriT3_001
+    100006: AcrityrdaBoiler
+    100008: DeepAcri3
+    100010: KnugGrotto
+    100012: BigKnugianRoot1
+    100014: BigKnugianRoot1_001
+    100016: KnugianRootBig1
+    100018: KnugianRootBig2
+    100020: DeepAcri3Outpost
+    400000: //RootNode
+    400002: DeepAcriT3
+    400004: DeepAcriT3_001
+    400006: AcrityrdaBoiler
+    400008: DeepAcri3
+    400010: KnugGrotto
+    400012: BigKnugianRoot1
+    400014: BigKnugianRoot1_001
+    400016: KnugianRootBig1
+    400018: KnugianRootBig2
+    400020: DeepAcri3Outpost
+    2300000: //RootNode
+    2300002: DeepAcriT3
+    2300004: DeepAcriT3_001
+    2300006: AcrityrdaBoiler
+    2300008: DeepAcri3
+    2300010: KnugGrotto
+    2300012: BigKnugianRoot1
+    2300014: BigKnugianRoot1_001
+    2300016: KnugianRootBig1
+    2300018: KnugianRootBig2
+    2300020: DeepAcri3Outpost
+    3300000: //RootNode
+    3300002: DeepAcriT3
+    3300004: DeepAcriT3_001
+    3300006: AcrityrdaBoiler
+    3300008: DeepAcri3
+    3300010: KnugGrotto
+    3300012: BigKnugianRoot1
+    3300014: BigKnugianRoot1_001
+    3300016: KnugianRootBig1
+    3300018: KnugianRootBig2
+    3300020: DeepAcri3Outpost
+    4300000: DeepAcri2
+    4300002: DeepAcri3
+    4300004: DeepAcriT3
+    4300006: DeepAcriT3_001
+    4300008: AcrityrdaBoiler
+    4300010: KnugGrotto
+    4300012: BigKnugianRoot1
+    4300014: BigKnugianRoot1_001
+    4300016: KnugianRootBig2
+    4300018: KnugianRootBig1
+    4300020: DeepAcri3Outpost
+    6400000: AcrityrdaBoiler
+    6400002: DeepAcri3
+    6400004: DeepAcriT3
+    6400006: KnugGrotto
+    6400008: BigKnugianRoot1
+    6400010: BigKnugianRoot1_001
+    6400012: KnugianRootBig1
+    6400014: KnugianRootBig2
+    6400016: DeepAcri3Outpost
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 40
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 106820ece9858a546a48ea408c9998d0
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ChaustolCruiserChassis
+    100004: ChaustolCruiserCol1
+    100006: ChaustolCruiserCol2
+    100008: ChaustolCruiserCol3
+    100010: ChaustolCruiserGun
+    100012: ChaustolCruiserGunBase
+    100014: ChaustolCruiserMissile
+    100016: ChaustolCruiserTurret
+    100018: PiriEstimate
+    100020: ChaustolCruiserGateL
+    100022: ChaustolCruiserGateR
+    400000: //RootNode
+    400002: ChaustolCruiserChassis
+    400004: ChaustolCruiserCol1
+    400006: ChaustolCruiserCol2
+    400008: ChaustolCruiserCol3
+    400010: ChaustolCruiserGun
+    400012: ChaustolCruiserGunBase
+    400014: ChaustolCruiserMissile
+    400016: ChaustolCruiserTurret
+    400018: PiriEstimate
+    400020: ChaustolCruiserGateL
+    400022: ChaustolCruiserGateR
+    2300000: ChaustolCruiserChassis
+    2300002: ChaustolCruiserCol1
+    2300004: ChaustolCruiserCol2
+    2300006: ChaustolCruiserCol3
+    2300008: ChaustolCruiserGun
+    2300010: ChaustolCruiserGunBase
+    2300012: ChaustolCruiserMissile
+    2300014: ChaustolCruiserTurret
+    2300016: PiriEstimate
+    2300018: ChaustolCruiserGateL
+    2300020: ChaustolCruiserGateR
+    3300000: ChaustolCruiserChassis
+    3300002: ChaustolCruiserCol1
+    3300004: ChaustolCruiserCol2
+    3300006: ChaustolCruiserCol3
+    3300008: ChaustolCruiserGun
+    3300010: ChaustolCruiserGunBase
+    3300012: ChaustolCruiserMissile
+    3300014: ChaustolCruiserTurret
+    3300016: PiriEstimate
+    3300018: ChaustolCruiserGateL
+    3300020: ChaustolCruiserGateR
+    4300000: ChaustolCruiserCol2
+    4300002: ChaustolCruiserCol3
+    4300004: ChaustolCruiserCol1
+    4300006: ChaustolCruiserMissile
+    4300008: ChaustolCruiserGun
+    4300010: ChaustolCruiserGunBase
+    4300012: ChaustolCruiserTurret
+    4300014: ChaustolCruiserChassis
+    4300016: PiriEstimate
+    4300018: ChaustolCruiserGateR
+    4300020: ChaustolCruiserGateL
+    6400000: ChaustolCruiserChassis
+    6400002: ChaustolCruiserCol1
+    6400004: ChaustolCruiserCol2
+    6400006: ChaustolCruiserCol3
+    6400008: ChaustolCruiserGun
+    6400010: ChaustolCruiserGunBase
+    6400012: ChaustolCruiserMissile
+    6400014: ChaustolCruiserTurret
+    6400016: PiriEstimate
+    6400018: ChaustolCruiserGateL
+    6400020: ChaustolCruiserGateR
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

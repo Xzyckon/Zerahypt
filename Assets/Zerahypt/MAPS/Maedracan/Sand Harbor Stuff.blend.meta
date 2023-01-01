@@ -1,0 +1,138 @@
+fileFormatVersion: 2
+guid: 022133f4981b25b47b97375a56c7901c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SandPier
+    100004: SandPlatform
+    100006: SandShed
+    100008: WoodStack
+    100010: WoodBox
+    100012: WoodPlank
+    100014: WoodTreater
+    100016: WoodTreaterArm
+    100018: WoodTreaterFan
+    100020: WoodTreaterFlywheel
+    100022: WoodTreaterPiston
+    100024: SandShed2
+    400000: //RootNode
+    400002: SandPier
+    400004: SandPlatform
+    400006: SandShed
+    400008: WoodStack
+    400010: WoodBox
+    400012: WoodPlank
+    400014: WoodTreater
+    400016: WoodTreaterArm
+    400018: WoodTreaterFan
+    400020: WoodTreaterFlywheel
+    400022: WoodTreaterPiston
+    400024: SandShed2
+    2300000: //RootNode
+    2300002: SandPier
+    2300004: SandPlatform
+    2300006: SandShed
+    2300008: WoodStack
+    2300010: WoodBox
+    2300012: WoodPlank
+    2300014: WoodTreater
+    2300016: WoodTreaterArm
+    2300018: WoodTreaterFan
+    2300020: WoodTreaterFlywheel
+    2300022: WoodTreaterPiston
+    2300024: SandShed2
+    3300000: //RootNode
+    3300002: SandPier
+    3300004: SandPlatform
+    3300006: SandShed
+    3300008: WoodStack
+    3300010: WoodBox
+    3300012: WoodPlank
+    3300014: WoodTreater
+    3300016: WoodTreaterArm
+    3300018: WoodTreaterFan
+    3300020: WoodTreaterFlywheel
+    3300022: WoodTreaterPiston
+    3300024: SandShed2
+    4300000: SandPier
+    4300002: SandPlatform
+    4300004: SandShed
+    4300006: WoodStack
+    4300008: WoodBox
+    4300010: WoodPlank
+    4300012: WoodTreater
+    4300014: WoodTreaterFan
+    4300016: WoodTreaterFlywheel
+    4300018: WoodTreaterArm
+    4300020: WoodTreaterPiston
+    4300022: SandShed2
+    6400000: //RootNode
+    6400002: SandPier
+    6400004: SandPlatform
+    6400006: SandShed
+    6400008: WoodStack
+    6400010: WoodBox
+    6400012: WoodPlank
+    6400014: WoodTreater
+    6400016: WoodTreaterArm
+    6400018: WoodTreaterFan
+    6400020: WoodTreaterFlywheel
+    6400022: WoodTreaterPiston
+    6400024: SandShed2
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 30
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

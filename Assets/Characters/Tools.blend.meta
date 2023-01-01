@@ -1,0 +1,111 @@
+fileFormatVersion: 2
+guid: e4fc205bd1e008143812a006662fdccb
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: PiriComparison
+    100002: RadarDrone
+    100004: RadarDroneCol
+    100006: //RootNode
+    100008: SmallBothunterHull
+    100010: Backpack
+    100012: Backpack1
+    100014: Backpack1Lid
+    100016: Backpack1Col
+    400000: PiriComparison
+    400002: RadarDrone
+    400004: RadarDroneCol
+    400006: //RootNode
+    400008: SmallBothunterHull
+    400010: Backpack
+    400012: Backpack1
+    400014: Backpack1Lid
+    400016: Backpack1Col
+    2300000: PiriComparison
+    2300002: RadarDrone
+    2300004: RadarDroneCol
+    2300006: SmallBothunterHull
+    2300008: Backpack
+    2300010: Backpack1
+    2300012: Backpack1Lid
+    2300014: Backpack1Col
+    3300000: PiriComparison
+    3300002: RadarDrone
+    3300004: RadarDroneCol
+    3300006: SmallBothunterHull
+    3300008: Backpack
+    3300010: Backpack1
+    3300012: Backpack1Lid
+    3300014: Backpack1Col
+    4300000: RadarDroneCol
+    4300002: PiriComparison
+    4300004: RadarDrone
+    4300006: SmallBothunterHull
+    4300008: Backpack
+    4300010: Backpack1
+    4300012: Backpack1Lid
+    4300014: Backpack1Col
+    6400000: PiriComparison
+    6400002: RadarDrone
+    6400004: RadarDroneCol
+    6400006: SmallBothunterHull
+    6400008: Backpack
+    6400010: Backpack1
+    6400012: Backpack1Lid
+    6400014: Backpack1Col
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

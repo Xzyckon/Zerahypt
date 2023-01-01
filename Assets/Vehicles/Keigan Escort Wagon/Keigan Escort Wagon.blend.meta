@@ -1,0 +1,140 @@
+fileFormatVersion: 2
+guid: 7b9622c778cff674bb4b4a20c86f0a7e
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Cube_001
+    100002: //RootNode
+    100004: KeiganEscortWagon
+    100006: KeiganEscortWagonLeg
+    100008: KeiganEscortWagonWheel
+    100010: KeiganEscortWagon2
+    100012: KeiganEscortWagonLeg2
+    100014: KeiganEscortWagonWheel2
+    100016: KeiganEscortWagon_001
+    100018: KeiganEscortWagonFAxel
+    100020: KeiganEscortWagonRAxel
+    100022: KeiganEscortWagonBoxback
+    100024: KeiganEscortWagonBoxbackGate
+    100026: KeiganEscortWagonFlatback
+    400000: Cube_001
+    400002: //RootNode
+    400004: KeiganEscortWagon
+    400006: KeiganEscortWagonLeg
+    400008: KeiganEscortWagonWheel
+    400010: KeiganEscortWagon2
+    400012: KeiganEscortWagonLeg2
+    400014: KeiganEscortWagonWheel2
+    400016: KeiganEscortWagon_001
+    400018: KeiganEscortWagonFAxel
+    400020: KeiganEscortWagonRAxel
+    400022: KeiganEscortWagonBoxback
+    400024: KeiganEscortWagonBoxbackGate
+    400026: KeiganEscortWagonFlatback
+    2300000: Cube_001
+    2300002: KeiganEscortWagon
+    2300004: KeiganEscortWagonLeg
+    2300006: KeiganEscortWagonWheel
+    2300008: KeiganEscortWagon2
+    2300010: KeiganEscortWagonLeg2
+    2300012: KeiganEscortWagonWheel2
+    2300014: KeiganEscortWagon_001
+    2300016: KeiganEscortWagonFAxel
+    2300018: KeiganEscortWagonRAxel
+    2300020: KeiganEscortWagonBoxback
+    2300022: KeiganEscortWagonBoxbackGate
+    2300024: KeiganEscortWagonFlatback
+    3300000: Cube_001
+    3300002: KeiganEscortWagon
+    3300004: KeiganEscortWagonLeg
+    3300006: KeiganEscortWagonWheel
+    3300008: KeiganEscortWagon2
+    3300010: KeiganEscortWagonLeg2
+    3300012: KeiganEscortWagonWheel2
+    3300014: KeiganEscortWagon_001
+    3300016: KeiganEscortWagonFAxel
+    3300018: KeiganEscortWagonRAxel
+    3300020: KeiganEscortWagonBoxback
+    3300022: KeiganEscortWagonBoxbackGate
+    3300024: KeiganEscortWagonFlatback
+    4300000: Cube_001
+    4300002: KeiganEscortWagon
+    4300004: KeiganEscortWagonWheel
+    4300006: KeiganEscortWagonLeg
+    4300008: KeiganEscortWagonWheel2
+    4300010: KeiganEscortWagonLeg2
+    4300012: KeiganEscortWagon2
+    4300014: KeiganEscortWagon_001
+    4300016: KeiganEscortWagonFAxel
+    4300018: KeiganEscortWagonRAxel
+    4300020: KeiganEscortWagonBoxbackGate
+    4300022: KeiganEscortWagonBoxback
+    4300024: KeiganEscortWagonFlatback
+    6400000: KeiganEscortWagon
+    6400002: KeiganEscortWagonLeg
+    6400004: KeiganEscortWagonWheel
+    6400006: KeiganEscortWagon2
+    6400008: KeiganEscortWagonLeg2
+    6400010: KeiganEscortWagonWheel2
+    6400012: KeiganEscortWagon_001
+    6400014: KeiganEscortWagonFAxel
+    6400016: KeiganEscortWagonRAxel
+    6400018: KeiganEscortWagonBoxback
+    6400020: KeiganEscortWagonBoxbackGate
+    6400022: KeiganEscortWagonFlatback
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

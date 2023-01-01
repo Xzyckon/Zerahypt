@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 20de53cb0f6d40f4a89513f2f3daf148
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Abdomen
+    100002: Armature
+    100004: Body
+    100006: Eye
+    100008: Eyelids
+    100010: Eyelids2
+    100012: Hair
+    100014: Head
+    100016: Head_0
+    100018: L_Ankle
+    100020: L_Arm
+    100022: L_Foot
+    100024: L_Forearm
+    100026: L_Hand
+    100028: L_Shoulder
+    100030: L_Thigh
+    100032: L_Toe
+    100034: LeftBosom
+    100036: Neck
+    100038: R_Ankle
+    100040: R_Arm
+    100042: R_Foot
+    100044: R_Forearm
+    100046: R_Hand
+    100048: R_Shoulder
+    100050: R_Thigh
+    100052: R_Toe
+    100054: RightBosom
+    100056: //RootNode
+    100058: Torso
+    100060: Hand
+    400000: Abdomen
+    400002: Armature
+    400004: Body
+    400006: Eye
+    400008: Eyelids
+    400010: Eyelids2
+    400012: Hair
+    400014: Head
+    400016: Head_0
+    400018: L_Ankle
+    400020: L_Arm
+    400022: L_Foot
+    400024: L_Forearm
+    400026: L_Hand
+    400028: L_Shoulder
+    400030: L_Thigh
+    400032: L_Toe
+    400034: LeftBosom
+    400036: Neck
+    400038: R_Ankle
+    400040: R_Arm
+    400042: R_Foot
+    400044: R_Forearm
+    400046: R_Hand
+    400048: R_Shoulder
+    400050: R_Thigh
+    400052: R_Toe
+    400054: RightBosom
+    400056: //RootNode
+    400058: Torso
+    400060: Hand
+    2300000: Body
+    2300002: Eye
+    2300004: Eyelids
+    2300006: Eyelids2
+    2300008: Head
+    2300010: Hand
+    3300000: Body
+    3300002: Eye
+    3300004: Eyelids
+    3300006: Eyelids2
+    3300008: Head
+    3300010: Hand
+    4300000: Eyelids2
+    4300002: Head
+    4300004: Hair
+    4300006: Eyelids
+    4300008: Eye
+    4300010: Body
+    4300012: Hand
+    7400000: Default Take
+    7400002: Falling
+    7400004: Inert
+    7400006: Jogging
+    7400008: Stand
+    7400010: Stand_2
+    7400012: Walking
+    9500000: //RootNode
+    13700000: Hair
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

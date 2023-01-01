@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: e100bfe94a0352b4984cfbd81a001716
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Turret1
+    100004: Turret1Base
+    100006: Turret1Base1
+    100008: Turret1Base2
+    100010: Turret1_001
+    100012: LevNavIM
+    100014: Turret2
+    100016: Turret2Launcher
+    100018: BigTurretBase1
+    100020: DazisCruiser1Gun
+    100022: DazisCruiser1GunBase
+    100024: DazisCruiser1Turret
+    400000: //RootNode
+    400002: Turret1
+    400004: Turret1Base
+    400006: Turret1Base1
+    400008: Turret1Base2
+    400010: Turret1_001
+    400012: LevNavIM
+    400014: Turret2
+    400016: Turret2Launcher
+    400018: BigTurretBase1
+    400020: DazisCruiser1Gun
+    400022: DazisCruiser1GunBase
+    400024: DazisCruiser1Turret
+    2300000: Turret1
+    2300002: Turret1Base
+    2300004: Turret1Base1
+    2300006: Turret1Base2
+    2300008: Turret1_001
+    2300010: LevNavIM
+    2300012: Turret2
+    2300014: Turret2Launcher
+    2300016: BigTurretBase1
+    2300018: DazisCruiser1Gun
+    2300020: DazisCruiser1GunBase
+    2300022: DazisCruiser1Turret
+    3300000: Turret1
+    3300002: Turret1Base
+    3300004: Turret1Base1
+    3300006: Turret1Base2
+    3300008: Turret1_001
+    3300010: LevNavIM
+    3300012: Turret2
+    3300014: Turret2Launcher
+    3300016: BigTurretBase1
+    3300018: DazisCruiser1Gun
+    3300020: DazisCruiser1GunBase
+    3300022: DazisCruiser1Turret
+    4300000: Turret1
+    4300002: Turret1Base
+    4300004: Turret1Base1
+    4300006: Turret1Base2
+    4300008: Turret1_001
+    4300010: Turret2Launcher
+    4300012: Turret2
+    4300014: LevNavIM
+    4300016: DazisCruiser1Turret
+    4300018: DazisCruiser1GunBase
+    4300020: DazisCruiser1Gun
+    4300022: BigTurretBase1
+    6400000: Turret1
+    6400002: Turret1Base
+    6400004: Turret1Base1
+    6400006: Turret1Base2
+    6400008: Turret1_001
+    6400010: LevNavIM
+    6400012: Turret2
+    6400014: Turret2Launcher
+    6400016: BigTurretBase1
+    6400018: DazisCruiser1Gun
+    6400020: DazisCruiser1GunBase
+    6400022: DazisCruiser1Turret
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

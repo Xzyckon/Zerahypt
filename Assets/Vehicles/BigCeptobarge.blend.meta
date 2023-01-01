@@ -1,0 +1,122 @@
+fileFormatVersion: 2
+guid: 0ed4b63a2f8b38e489925a99f4205882
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cylinder
+    100004: PiriComparison
+    100006: BigDropContainer
+    100008: BigDropContainerFloor
+    100010: BigDropContainerFloorCol
+    100012: BigDropContainerCol
+    100014: Cube
+    100016: BigCeptobarge
+    100018: BigCeptobargeCol1
+    100020: BigCeptobargeCol2
+    400000: //RootNode
+    400002: Cylinder
+    400004: PiriComparison
+    400006: BigDropContainer
+    400008: BigDropContainerFloor
+    400010: BigDropContainerFloorCol
+    400012: BigDropContainerCol
+    400014: Cube
+    400016: BigCeptobarge
+    400018: BigCeptobargeCol1
+    400020: BigCeptobargeCol2
+    2300000: Cylinder
+    2300002: PiriComparison
+    2300004: BigDropContainer
+    2300006: BigDropContainerFloor
+    2300008: BigDropContainerFloorCol
+    2300010: BigDropContainerCol
+    2300012: Cube
+    2300014: BigCeptobarge
+    2300016: BigCeptobargeCol1
+    2300018: BigCeptobargeCol2
+    3300000: Cylinder
+    3300002: PiriComparison
+    3300004: BigDropContainer
+    3300006: BigDropContainerFloor
+    3300008: BigDropContainerFloorCol
+    3300010: BigDropContainerCol
+    3300012: Cube
+    3300014: BigCeptobarge
+    3300016: BigCeptobargeCol1
+    3300018: BigCeptobargeCol2
+    4300000: Cylinder
+    4300002: PiriComparison
+    4300004: BigDropContainerFloorCol
+    4300006: BigDropContainerFloor
+    4300008: BigDropContainer
+    4300010: BigDropContainerCol
+    4300012: Cube
+    4300014: BigCeptobarge
+    4300016: BigCeptobargeCol1
+    4300018: BigCeptobargeCol2
+    6400000: BigDropContainer
+    6400002: BigDropContainerFloor
+    6400004: BigDropContainerFloorCol
+    6400006: PiriComparison
+    6400008: BigDropContainerCol
+    6400010: Cube
+    6400012: BigCeptobarge
+    6400014: BigCeptobargeCol1
+    6400016: BigCeptobargeCol2
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 20
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

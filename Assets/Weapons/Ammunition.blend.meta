@@ -1,0 +1,141 @@
+fileFormatVersion: 2
+guid: 1e33d891b25ce2a46a2edc5014a75423
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: 10mmShellSK
+    100002: 40mmShellSHE
+    100004: 40mmShellSK
+    100006: 40mmShellSKEmpty
+    100008: //RootNode
+    100010: 115mmShell
+    100012: 142mmShell
+    100014: 54mmShell
+    100016: 100mmShell
+    100018: 150mmShell
+    100020: 50mmShell
+    100022: 100mmShellL
+    100024: 20mmShellSK
+    100026: 30mmShell
+    400000: 10mmShellSK
+    400002: 40mmShellSHE
+    400004: 40mmShellSK
+    400006: 40mmShellSKEmpty
+    400008: //RootNode
+    400010: 115mmShell
+    400012: 142mmShell
+    400014: 54mmShell
+    400016: 100mmShell
+    400018: 150mmShell
+    400020: 50mmShell
+    400022: 100mmShellL
+    400024: 20mmShellSK
+    400026: 30mmShell
+    2300000: 10mmShellSK
+    2300002: 40mmShellSHE
+    2300004: 40mmShellSK
+    2300006: 40mmShellSKEmpty
+    2300008: 115mmShell
+    2300010: 142mmShell
+    2300012: 54mmShell
+    2300014: 100mmShell
+    2300016: 150mmShell
+    2300018: 50mmShell
+    2300020: 100mmShellL
+    2300022: 20mmShellSK
+    2300024: 30mmShell
+    3300000: 10mmShellSK
+    3300002: 40mmShellSHE
+    3300004: 40mmShellSK
+    3300006: 40mmShellSKEmpty
+    3300008: 115mmShell
+    3300010: 142mmShell
+    3300012: 54mmShell
+    3300014: 100mmShell
+    3300016: 150mmShell
+    3300018: 50mmShell
+    3300020: 100mmShellL
+    3300022: 20mmShellSK
+    3300024: 30mmShell
+    4300000: 10mmShellSK
+    4300002: 40mmShellSHE
+    4300004: 40mmShellSKEmpty
+    4300006: 40mmShellSK
+    4300008: 54mmShell
+    4300010: 115mmShell
+    4300012: 142mmShell
+    4300014: 50mmShell
+    4300016: 100mmShell
+    4300018: 150mmShell
+    4300020: 100mmShellL
+    4300022: 20mmShellSK
+    4300024: 30mmShell
+    6400000: 10mmShellSK
+    6400002: 40mmShellSHE
+    6400004: 40mmShellSK
+    6400006: 40mmShellSKEmpty
+    6400008: 115mmShell
+    6400010: 142mmShell
+    6400012: 54mmShell
+    6400014: 100mmShell
+    6400016: 150mmShell
+    6400018: 50mmShell
+    6400020: 100mmShellL
+    6400022: 20mmShellSK
+    6400024: 30mmShell
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

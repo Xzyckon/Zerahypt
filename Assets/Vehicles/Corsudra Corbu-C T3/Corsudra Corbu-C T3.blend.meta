@@ -1,0 +1,98 @@
+fileFormatVersion: 2
+guid: be8fa5615e79cff4aaaa509919fd0ee7
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Corsudra1_Gun
+    100004: Corsudra1_Hull
+    100006: Corsudra1_Turret
+    100008: Corsudra1_Wheel
+    100010: Corsudra1_GunBase
+    100012: PiriComparison
+    100014: Corsudra1_Axel
+    400000: //RootNode
+    400002: Corsudra1_Gun
+    400004: Corsudra1_Hull
+    400006: Corsudra1_Turret
+    400008: Corsudra1_Wheel
+    400010: Corsudra1_GunBase
+    400012: PiriComparison
+    400014: Corsudra1_Axel
+    2300000: Corsudra1_Gun
+    2300002: Corsudra1_Hull
+    2300004: Corsudra1_Turret
+    2300006: Corsudra1_Wheel
+    2300008: Corsudra1_GunBase
+    2300010: PiriComparison
+    2300012: Corsudra1_Axel
+    3300000: Corsudra1_Gun
+    3300002: Corsudra1_Hull
+    3300004: Corsudra1_Turret
+    3300006: Corsudra1_Wheel
+    3300008: Corsudra1_GunBase
+    3300010: PiriComparison
+    3300012: Corsudra1_Axel
+    4300000: Corsudra1_Gun
+    4300002: Corsudra1_Wheel
+    4300004: Corsudra1_Turret
+    4300006: Corsudra1_Hull
+    4300008: Corsudra1_GunBase
+    4300010: PiriComparison
+    4300012: Corsudra1_Axel
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

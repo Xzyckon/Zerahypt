@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: f9b730c64f812654bb7df753bdb8d513
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cube
+    100004: PiriComparison
+    100006: AgrianPlatform1
+    100008: AgrianPlatform1Building1
+    100010: AgrianSubroad
+    100012: AgrianSubroadDowel
+    100014: AgrianSubroadJunction
+    100016: AgrianPlatform1Building1_001
+    100018: AgrianPlatform1Building1_002
+    100020: AgrianPlatform1BuildingBase1
+    100022: AgrianPlatform1BuildingPiece1
+    100024: AgrianPlatform1BuildingPiece2
+    100026: AgrianPlatform1BuildingPiece3
+    100028: AgrianDock1
+    400000: //RootNode
+    400002: Cube
+    400004: PiriComparison
+    400006: AgrianPlatform1
+    400008: AgrianPlatform1Building1
+    400010: AgrianSubroad
+    400012: AgrianSubroadDowel
+    400014: AgrianSubroadJunction
+    400016: AgrianPlatform1Building1_001
+    400018: AgrianPlatform1Building1_002
+    400020: AgrianPlatform1BuildingBase1
+    400022: AgrianPlatform1BuildingPiece1
+    400024: AgrianPlatform1BuildingPiece2
+    400026: AgrianPlatform1BuildingPiece3
+    400028: AgrianDock1
+    2300000: Cube
+    2300002: PiriComparison
+    2300004: AgrianPlatform1
+    2300006: AgrianPlatform1Building1
+    2300008: AgrianSubroad
+    2300010: AgrianSubroadDowel
+    2300012: AgrianSubroadJunction
+    2300014: AgrianPlatform1Building1_001
+    2300016: AgrianPlatform1Building1_002
+    2300018: AgrianPlatform1BuildingBase1
+    2300020: AgrianPlatform1BuildingPiece1
+    2300022: AgrianPlatform1BuildingPiece2
+    2300024: AgrianPlatform1BuildingPiece3
+    2300026: AgrianDock1
+    3300000: Cube
+    3300002: PiriComparison
+    3300004: AgrianPlatform1
+    3300006: AgrianPlatform1Building1
+    3300008: AgrianSubroad
+    3300010: AgrianSubroadDowel
+    3300012: AgrianSubroadJunction
+    3300014: AgrianPlatform1Building1_001
+    3300016: AgrianPlatform1Building1_002
+    3300018: AgrianPlatform1BuildingBase1
+    3300020: AgrianPlatform1BuildingPiece1
+    3300022: AgrianPlatform1BuildingPiece2
+    3300024: AgrianPlatform1BuildingPiece3
+    3300026: AgrianDock1
+    4300000: PiriComparison
+    4300002: Cube
+    4300004: AgrianPlatform1Building1
+    4300006: AgrianSubroadJunction
+    4300008: AgrianSubroadDowel
+    4300010: AgrianSubroad
+    4300012: AgrianPlatform1
+    4300014: AgrianPlatform1Building1_002
+    4300016: AgrianPlatform1Building1_001
+    4300018: AgrianPlatform1BuildingPiece2
+    4300020: AgrianPlatform1BuildingPiece1
+    4300022: AgrianPlatform1BuildingBase1
+    4300024: AgrianPlatform1BuildingPiece3
+    4300026: AgrianDock1
+    6400000: AgrianPlatform1
+    6400002: AgrianPlatform1BuildingBase1
+    6400004: AgrianPlatform1BuildingPiece1
+    6400006: AgrianPlatform1BuildingPiece2
+    6400008: AgrianSubroad
+    6400010: AgrianSubroadDowel
+    6400012: AgrianSubroadJunction
+    6400014: PiriComparison
+    6400016: AgrianPlatform1BuildingPiece3
+    6400018: AgrianDock1
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

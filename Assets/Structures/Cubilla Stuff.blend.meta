@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: f193ff8c82e46134eb0492dbb816bb86
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Cubilla1
+    100004: Cubilla2
+    100006: CublaACfan
+    100008: Lounger1
+    100010: LRVcanister1
+    100012: PiriEstimate
+    100014: Sunrotor1
+    100016: Sunrotor1Fan
+    100018: WaterBarrel1
+    100020: WaterCondenser1
+    100022: WaterContainer1
+    100024: WoodenCrate2
+    400000: //RootNode
+    400002: Cubilla1
+    400004: Cubilla2
+    400006: CublaACfan
+    400008: Lounger1
+    400010: LRVcanister1
+    400012: PiriEstimate
+    400014: Sunrotor1
+    400016: Sunrotor1Fan
+    400018: WaterBarrel1
+    400020: WaterCondenser1
+    400022: WaterContainer1
+    400024: WoodenCrate2
+    2300000: Cubilla1
+    2300002: Cubilla2
+    2300004: CublaACfan
+    2300006: Lounger1
+    2300008: LRVcanister1
+    2300010: PiriEstimate
+    2300012: Sunrotor1
+    2300014: Sunrotor1Fan
+    2300016: WaterBarrel1
+    2300018: WaterCondenser1
+    2300020: WaterContainer1
+    2300022: WoodenCrate2
+    3300000: Cubilla1
+    3300002: Cubilla2
+    3300004: CublaACfan
+    3300006: Lounger1
+    3300008: LRVcanister1
+    3300010: PiriEstimate
+    3300012: Sunrotor1
+    3300014: Sunrotor1Fan
+    3300016: WaterBarrel1
+    3300018: WaterCondenser1
+    3300020: WaterContainer1
+    3300022: WoodenCrate2
+    4300000: WaterContainer1
+    4300002: LRVcanister1
+    4300004: WoodenCrate2
+    4300006: Cubilla2
+    4300008: Sunrotor1Fan
+    4300010: Sunrotor1
+    4300012: WaterBarrel1
+    4300014: Lounger1
+    4300016: WaterCondenser1
+    4300018: CublaACfan
+    4300020: Cubilla1
+    4300022: PiriEstimate
+    6400000: Cubilla1
+    6400002: Cubilla2
+    6400004: CublaACfan
+    6400006: Lounger1
+    6400008: LRVcanister1
+    6400010: PiriEstimate
+    6400012: Sunrotor1
+    6400014: Sunrotor1Fan
+    6400016: WaterBarrel1
+    6400018: WaterCondenser1
+    6400020: WaterContainer1
+    6400022: WoodenCrate2
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

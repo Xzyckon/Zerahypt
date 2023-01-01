@@ -1,0 +1,112 @@
+fileFormatVersion: 2
+guid: dbe740aec021c0c4f81ecb591304d88f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ArrowheadPloonModel
+    100004: Ploon2Armature
+    100006: Ploon2Armature|Ploon2FL
+    100008: Ploon2Armature|Ploon2FR
+    100010: Ploon2Armature|Ploon2InnerFL
+    100012: Ploon2Armature|Ploon2InnerFR
+    100014: Ploon2Armature|Ploon2InnerRL
+    100016: Ploon2Armature|Ploon2InnerRR
+    100018: Ploon2Armature|Ploon2RL
+    100020: Ploon2Armature|Ploon2RootBone
+    100022: Ploon2Armature|Ploon2RR
+    100024: Ploon2FL
+    100026: Ploon2FL_end
+    100028: Ploon2FR
+    100030: Ploon2FR_end
+    100032: Ploon2InnerFL
+    100034: Ploon2InnerFR
+    100036: Ploon2InnerRL
+    100038: Ploon2InnerRR
+    100040: Ploon2RL
+    100042: Ploon2RL_end
+    100044: Ploon2RootBone
+    100046: Ploon2RR
+    100048: Ploon2RR_end
+    400000: //RootNode
+    400002: ArrowheadPloonModel
+    400004: Ploon2Armature
+    400006: Ploon2Armature|Ploon2FL
+    400008: Ploon2Armature|Ploon2FR
+    400010: Ploon2Armature|Ploon2InnerFL
+    400012: Ploon2Armature|Ploon2InnerFR
+    400014: Ploon2Armature|Ploon2InnerRL
+    400016: Ploon2Armature|Ploon2InnerRR
+    400018: Ploon2Armature|Ploon2RL
+    400020: Ploon2Armature|Ploon2RootBone
+    400022: Ploon2Armature|Ploon2RR
+    400024: Ploon2FL
+    400026: Ploon2FL_end
+    400028: Ploon2FR
+    400030: Ploon2FR_end
+    400032: Ploon2InnerFL
+    400034: Ploon2InnerFR
+    400036: Ploon2InnerRL
+    400038: Ploon2InnerRR
+    400040: Ploon2RL
+    400042: Ploon2RL_end
+    400044: Ploon2RootBone
+    400046: Ploon2RR
+    400048: Ploon2RR_end
+    4300000: ArrowheadPloonModel
+    9500000: //RootNode
+    13700000: ArrowheadPloonModel
+  materials:
+    importMaterials: 0
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 30
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

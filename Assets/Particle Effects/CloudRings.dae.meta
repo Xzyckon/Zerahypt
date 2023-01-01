@@ -1,0 +1,80 @@
+fileFormatVersion: 2
+guid: d870df853e2d12545ab4f412b828b16b
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: CloudCone
+    100002: CloudRing
+    100004: CloudRingCone
+    100006: //RootNode
+    400000: CloudCone
+    400002: CloudRing
+    400004: CloudRingCone
+    400006: //RootNode
+    2300000: CloudCone
+    2300002: CloudRing
+    2300004: CloudRingCone
+    3300000: CloudCone
+    3300002: CloudRing
+    3300004: CloudRingCone
+    4300000: CloudRing
+    4300002: CloudRingCone
+    4300004: CloudCone
+    6400000: CloudCone
+    6400002: CloudRing
+    6400004: CloudRingCone
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 1
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

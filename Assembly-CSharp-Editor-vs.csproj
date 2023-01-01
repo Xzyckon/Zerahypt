@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{02C9BA53-2F1D-3090-BE1A-FA7D7FA1CE20}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp-Editor</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_4_7_2;UNITY_4_7;UNITY_STANDALONE_WIN;ENABLE_MICROPHONE;ENABLE_TEXTUREID_MAP;ENABLE_UNITYEVENTS;ENABLE_NEW_HIERARCHY ;ENABLE_AUDIO_FMOD;UNITY_STANDALONE;ENABLE_TERRAIN;ENABLE_SUBSTANCE;ENABLE_GENERICS;INCLUDE_IL2CPP;INCLUDE_WP8SUPPORT;ENABLE_MOVIES;ENABLE_WWW;ENABLE_IMAGEEFFECTS;ENABLE_4_6_FEATURES;INCLUDE_WP_BLUE_SUPPORT;ENABLE_WEBCAM;INCLUDE_METROSUPPORT;RENDER_SOFTWARE_CURSOR;ENABLE_NETWORK;ENABLE_PHYSICS;UNITY5_SCRIPTING_IN_UNITY4;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_2D_PHYSICS;ENABLE_SHADOWS;ENABLE_AUDIO;ENABLE_NAVMESH_CARVING;ENABLE_DUCK_TYPING;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_MONO;ENABLE_PROFILER;UNITY_EDITOR;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Infinity Code\MeshToTerrain\Scripts\Editor\MeshToTerrain.cs" />
+     <Compile Include="Assets\Infinity Code\MeshToTerrain\Scripts\Editor\MeshToTerrainAboutWindow.cs" />
+     <Compile Include="Assets\Infinity Code\MeshToTerrain\Scripts\Editor\MeshToTerrainBoundsHelperEditor.cs" />
+     <Compile Include="Assets\Infinity Code\MeshToTerrain\Scripts\Editor\MeshToTerrainEnums.cs" />
+     <Compile Include="Assets\Infinity Code\MeshToTerrain\Scripts\Editor\MeshToTerrainObject.cs" />
+     <Compile Include="Assets\Infinity Code\MeshToTerrain\Scripts\Editor\MeshToTerrainPrefs.cs" />
+     <Compile Include="Assets\Infinity Code\MeshToTerrain\Scripts\Editor\MeshToTerrainUpdater.cs" />
+     <None Include="Assets\Shader Replacement\TerrBumpFirstPass.shader" />
+     <None Include="Assets\Resources\WikiDatabase\Targilin.txt" />
+     <None Include="Assets\Materials\SelfIllum.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Basic.shader" />
+     <None Include="Assets\Decals\Alpha-Diffuse.shader" />
+     <None Include="Assets\Decals\InteriorNoAmbDecal.shader" />
+     <None Include="Assets\Resources\WikiDatabase\Gobnard.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Tyssa.txt" />
+     <None Include="Assets\Zerahypt\MAPS\Dark Keigan\Interiors\Alpha-Bumped.shader" />
+     <None Include="Assets\MultiShader1.shader" />
+     <None Include="Assets\UnlitNoFog.shader" />
+     <None Include="Assets\Resources\WikiDatabase\Ruchalus.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Loupra.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Terrana.txt" />
+     <None Include="Assets\Particle Effects\NoFogAdd.shader" />
+     <None Include="Assets\Zerahypt\MAPS\Encydros\Materials\Projector Light.shader" />
+     <None Include="Assets\Resources\WikiDatabase\Tyg.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Alia.txt" />
+     <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Light.shader" />
+     <None Include="Assets\Resources\WikiDatabase\Argal.txt" />
+     <None Include="Assets\Zerahypt\MAPS\Levia Sunfront Peninsula\TransparentWithShadow.shader" />
+     <None Include="Assets\Standard Assets\Projectors\Guidelines.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Ghuulbachar.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Lokerat.txt" />
+     <None Include="Assets\Structures\CelestialDiffuse.shader" />
+     <None Include="Assets\Zerahypt\Mask.shader" />
+     <None Include="Assets\Materials\SelfIllumP.shader" />
+     <None Include="Assets\Resources\WikiDatabase\Terrahypt.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Azura.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Evan.txt" />
+     <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-BasicOutline.shader" />
+     <None Include="Assets\Resources\WikiDatabase\Perynna.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Sked.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Yonk.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Tothler.txt" />
+     <None Include="Assets\Zerahypt\Mask2.shader" />
+     <None Include="Assets\DustParticle.shader" />
+     <None Include="Assets\Resources\WikiDatabase\Corsudra.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Terrahyptians.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Cythas.txt" />
+     <None Include="Assets\Shader Replacement\TerrBumpAddPass.shader" />
+     <None Include="Assets\Resources\WikiDatabase\Thilia.txt" />
+     <None Include="Assets\Materials\Particle Alpha Blend Nofog.shader" />
+     <None Include="Assets\Resources\WikiDatabase\Documentations.txt" />
+     <None Include="Assets\Zerahypt\MAPS\Levia Sunfront Peninsula\WaterShader.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-LightedOutline.shader" />
+     <None Include="Assets\Standard Assets\Toon Shading\Sources\Shaders\Toony-Lighted.shader" />
+     <None Include="Assets\Standard Assets\Projectors\Sources\Shaders\Projector Multiply.shader" />
+     <None Include="Assets\LightShader.shader" />
+     <None Include="Assets\Resources\WikiDatabase\Cyrathilia.txt" />
+     <None Include="Assets\NPCs\Creatures\Ootkins\Distortion.shader" />
+     <None Include="Assets\Resources\WikiDatabase\Herea.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Pazuka.txt" />
+     <None Include="Assets\Particle Effects\ParticleInfronties.shader" />
+     <None Include="Assets\Zerahypt\3D Text Shader.shader" />
+     <None Include="Assets\Materials\MultiShader.shader" />
+     <None Include="Assets\Zerahypt\MAPS\Encydros\Materials\CrystalShader.shader" />
+     <None Include="Assets\Resources\WikiDatabase\Egnia.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Beja.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Abia.txt" />
+     <None Include="Assets\Structures\Materials\TransparentShadow.shader" />
+     <None Include="Assets\Materials\MultiShader3.shader" />
+     <None Include="Assets\Zerahypt\MAPS\Dark Keigan\Interiors\NoAmbientShaders\NoAmb Diffuse.shader" />
+     <None Include="Assets\Zerahypt\Bubble Text Shader.shader" />
+     <None Include="Assets\NPCs\Creatures\Materials\Dissolve.shader" />
+     <None Include="Assets\Materials\MultiShaderAsteroids.shader" />
+     <None Include="Assets\Zerahypt\MAPS\Encydros\Materials\MultiShader.shader" />
+     <None Include="Assets\Materials\MultiShader2.shader" />
+     <None Include="Assets\Resources\WikiDatabase\Pirizuka.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Dictionary.txt" />
+     <None Include="Assets\Resources\WikiDatabase\Azfelgharz.txt" />
+     <None Include="Assets\Normal-BumpSpec.shader" />
+     <None Include="Assets\Resources\WikiDatabase\Zerzek.txt" />
+     <None Include="Assets\StuffShader.shader" />
+ <Reference Include="Assembly-UnityScript">
+ <HintPath>C:/Users/SYRSA/Documents/Zerahypt/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.7.2/Standalone/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.UI">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.7.2/Editor/UnityEditor.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Graphs">
+ <HintPath>C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-vs.csproj">
+      <Project>{DF2E0501-D196-52E4-07CC-D01E2D8D8E0B}</Project>      <Name>Assembly-CSharp-vs</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
